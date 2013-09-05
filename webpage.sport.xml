@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webpage id="sport">
+	<config param="desc" value="Sport" />
+	<config param="rcsdate" value="$Date: 2013-07-26 18:06:01 +0800 (Fri, 26 Jul 2013) $" />
+	<head>
+		<title>Sport</title>
+		<titleabbrev>Sports &amp; Outdoors</titleabbrev>
+		<summary>Sports &amp; Outdoors › Outdoor Recreation › Camping &amp; Hiking › Backpacks &amp; Bags</summary>
+		<keywords></keywords>
+	</head>
+
+	<webtoc />
+
+	<section>
+		<title>Sports Tracker</title>
+		<ulink url="http://www.sports-tracker.com/">Sports Tracker</ulink> ID: <ulink url="http://www.sports-tracker.com/#/view_profile/netkiller">netkiller</ulink>
+		<ulink url="http://www.doyouhike.net/user/92986/">磨房博客</ulink>
+	</section>
+
+	<section>
+		<title>Cycling</title>
+		<para><ulink url="">MTB (Mountain bike)</ulink></para>
+		<orderedlist>
+			<listitem>
+				<para>车架：V-KET 6022 MTB <ulink url=""> </ulink></para>
+			</listitem>
+			<listitem>
+				<para>前叉：<ulink url="http://www.srsuntour-cycling.com/index.php?sid=1">SR SUNTOUR EPICON  </ulink></para>
+			</listitem>
+			<listitem>
+				<para>车圈：<ulink url="http://www.alexrims.com">Alex DP20 </ulink> + 乔森培林花鼓  + 建大 26*1.50 光头胎</para>
+			</listitem>
+			<listitem>
+				<para>刹车：<ulink url="http://www.bengalperformance.com.tw/">BENGAL HELIX 3 </ulink></para>
+			</listitem>
+			<listitem>
+				<para>变速套件：
+				指拨 SHIMANO ALIVIO SL-M430 + 前拨 SHIMANO ALIVIO FD-M430 + 后拨 SHIMANO DEORE LX RD-M581-SGS + 牙盘 SRAM DRIVELINE X5 <ulink url=""> </ulink> </para>
+			</listitem>
+		</orderedlist>
+		<programlisting>
+		<![CDATA[
+
+		]]>
+		</programlisting>
+		<!--  -->
+		<!-- SHIMANO ALIVIO M430 9*3 -->
+	</section>
+	<section>
+		<title>Camping (露营)</title>
+		<programlisting>
+		<![CDATA[
+Tent 				防潮垫
+Sleeping bag 		睡袋
+Moisture-proof pad 	防潮垫
+Propane Gas Burner	煤气炉
+Hammock
+Backpack 60L
+		]]>
+		</programlisting>
+	</section>
+	<section>
+		<title>Walking &amp; Hiking</title>
+		<para><ulink url=""><graphic  format="png" fileref="" srccredit="neo" width="1000"/></ulink></para>
+	</section>
+<!--
+	<section>
+		<title></title>
+		<orderedlist>
+			<listitem>
+				<para><ulink url="http://www.doyouhike.net/forum/onwheel/171343,0,0,1.html">自驾之路-开平之行,拍碉楼,人像,人文</ulink>[2006-1-1] </para>
+			</listitem>
+			<listitem>
+				<para><ulink url="http://www.cncamp.com/BBS/read.php?tid-53843.html">5.8 石头河,新泾排-美女泳装写真</ulink>[2007-08-06] </para>
+			</listitem>
+			<listitem>
+				<para><ulink url="http://www.doyouhike.net/gallery/set.php?sid=41602&view=detail">西海堤-宝安机场-福永码头</ulink>[2009-02-09] </para>
+			</listitem>
+
+			<listitem>
+				<para></para>
+			</listitem>
+		</orderedlist>
+	</section>
+ -->
+</webpage>

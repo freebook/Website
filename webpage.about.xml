@@ -1,0 +1,38 @@
+﻿<!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd" [
+	<!ENTITY about.xml SYSTEM "../common/about.me.xml">
+]>
+<webpage id="about">
+	<config param="rcsdate" value="$Id: webpage.about.xml 512 2013-01-07 08:48:08Z netkiller $"/>
+	<head>
+	<title>About</title>
+	<summary>About</summary>
+	</head>
+	<para>Hello! I am neo, you also can call me '<quote>netkiller</quote>'. </para>
+	<para>welcome to discuss any topic with me in English. such as huge cluster, system architecture and large web site solution</para>
+	<webtoc />
+
+	&about.xml;
+
+	<sidebar>
+		<title>我的梦想 - 为了梦想而奋斗！！！</title>
+		<para>拥有一支Beretta - 92FS, 如果此生有机会移民到国外我会买一只。</para>
+		<para>小的时候生长在黑龙江青冈县，村后一片大草原，没有人去过尽头，据说是通往大庆，如果有机会我想驾驶SUV穿越</para>
+		<para>Shimano Deore XTR 套件</para>
+		<para>Canon 5D Mark III</para>
+		<para>Roland Dram Kit</para>
+		<para>Subaru impreza wrx sti</para>
+		<para>设计一套属于自己的房子House （中国人却叫它别墅）</para>
+		<para>用集装箱DIY房车，内室采用实木。</para>
+	</sidebar>
+<!--
+	<section>
+		<title>Address:</title>
+		<para>12B Brooky Hills,Longhua town, Baoan division, Shenzhen City,	Guangdong provincial, China</para>
+
+11 Fl, Bldg B, Tsinghua High-Tech Park, North Hi-Tech & Industrial Estate, Nanshan District, Shenzhen 518057
+10F Libra Apple Park Longhua Town
+
+	</section>
+-->
+</webpage>
+

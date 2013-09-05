@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webpage id="system">
+	<config param="desc" value="system" />
+	<config param="rcsdate" value="$Date: 2013-03-20 16:09:55 +0800 (Wed, 20 Mar 2013) $" />
+	<head>
+		<title>Operation System</title>
+		<titleabbrev>Operation System</titleabbrev>
+		<summary>Operation System</summary>
+		<keywords>linux,freebsd,centos,ubuntu,debian,redhat</keywords>
+	</head>
+
+	<webtoc />
+
+	<section>
+		<title>操作系统系列手扎</title>
+		<itemizedlist>
+			<listitem>
+				<ulink url="../linux/index.html">Netkiller Linux 手札</ulink>
+			</listitem>
+			<listitem>
+				<ulink url="../debian/index.html">Netkiller Debian 手札</ulink>
+			</listitem>
+			<listitem>
+				<ulink url="../centos/index.html">Netkiller CentOS 手札</ulink>
+			</listitem>
+			<listitem>
+				<ulink url="../freebsd/index.html">Netkiller FreeBSD 手札</ulink>
+			</listitem>
+			<listitem>
+				<ulink url="../shell/index.html">Netkiller Shell 手札</ulink>
+			</listitem>
+
+			<listitem>
+				<ulink url="../www/index.html">Netkiller Web 手札</ulink>
+			</listitem>
+			<listitem>
+				<ulink url="../monitoring/index.html">Netkiller Monitoring 手札</ulink>
+			</listitem>
+			<listitem>
+				<ulink url="../storage/index.html">Netkiller Storage 手札</ulink>
+			</listitem>
+			<listitem>
+				<ulink url="../mail/index.html">Netkiller Mail 手札</ulink>
+			</listitem>
+			<listitem>
+				<ulink url="../security/index.html">Netkiller Security 手札</ulink>
+			</listitem>
+
+		</itemizedlist>
+	</section>
+
+</webpage>

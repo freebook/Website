@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<layout>
+	<config param="text-prefix" value="txt" />
+	<config param="homebanner-tabular" value="images/neo.jpg"
+		altval="Home Banner" />
+	<config param="banner-tabular" value="/images/neo.jpg"
+		altval="Banner" />
+	<config param="homebanner" value="graphics/homebanner.png"
+		altval="Home
+		Banner" />
+	<config param="banner" value="graphics/icons/iconhome.gif"
+		altval="Banner" />
+
+	<copyright>
+		<year>2009</year>
+		<year>2010</year>
+		<year>2011</year>
+		<year>2012</year>
+		<year>2013</year>
+		<holder role="http://netkiller.sourceforge.net/">Neo Chan</holder>
+	</copyright>
+
+	<style src="stylesheet.css" type="text/css" />
+
+	<toc page="website.xml" filename="index.html">
+		<tocentry page="webpage.news.xml" dir="home" filename="news.html" />
+		<tocentry page="webpage.blogger.xml" dir="blogger" filename="index.html" />
+		<tocentry page="webpage.technology.xml" dir="home" filename="technology.html">
+			<tocentry page="webpage.network.xml" filename="network.html" />
+			<tocentry page="webpage.system.xml" filename="system.html" />
+			<tocentry page="webpage.database.xml" filename="database.html" />
+			<tocentry page="webpage.language.xml" filename="language.html" />
+			<tocentry page="webpage.epub.xml" filename="download.epub.html" />
+			<tocentry page="webpage.pdf.xml" filename="download.pdf.html" />
+		</tocentry>
+		<tocentry page="webpage.deployment.xml" dir="home" filename="deployment.html">
+			<tocentry page="webpage.deployment.git.xml" filename="deployment.git.html" />
+			<tocentry page="webpage.deployment.svn.xml" filename="deployment.svn.html" />
+		</tocentry>
+
+		<tocentry page="webpage.screenshots.xml" dir="home" filename="screenshots.html">
+			<tocentry page="webpage.solution.xml" filename="solution.html"/> <!-- revisionflag="" -->
+		</tocentry>
+		<tocentry page="webpage.xml.xml" dir="home" filename="xml.html" />
+		<tocentry page="webpage.donations.xml" dir="home" filename="donations.html" />
+		<tocentry page="webpage.about.xml" dir="home" filename="about.html">
+			<tocentry page="webpage.sport.xml" filename="sport.html" />
+			<tocentry page="webpage.photography.xml" filename="photography.html" />
+			<tocentry page="webpage.radio.xml" filename="radio.html" />
+			<tocentry page="webpage.boinc.xml" filename="boinc.html" />
+		</tocentry>
+	</toc>
+</layout>

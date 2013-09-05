@@ -1,0 +1,26 @@
+<section>
+	<title>Questions and Answers</title>
+
+	<qandaset>
+		<qandaentry>
+			<question>
+				<para>
+					A question.
+					<indexterm>
+						<primary>Question</primary>
+					</indexterm>
+				</para>
+			</question>
+			<answer>
+				<para>
+					An answer.
+					<indexterm>
+						<primary>Answer</primary>
+					</indexterm>
+				</para>
+			</answer>
+		</qandaentry>
+	</qandaset>
+</section>
+
+<index />

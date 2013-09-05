@@ -1,0 +1,53 @@
+<!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd">
+<webpage id="photography">
+	<config param="desc" value="Photography" />
+	<config param="rcsdate" value="$Date: 2012-02-02 20:09:57 +0800 (Thu, 02 Feb 2012) $" />
+	<head>
+		<title>Photography</title>
+		<titleabbrev>Photography</titleabbrev>
+		<summary>Photography</summary>
+	</head>
+
+	<para>My Photography Equipment:</para>
+
+	<webtoc />
+
+	<programlisting>
+	<![CDATA[
+Canon EOS 350D
+Canon EF 16-35MM F2.8L II USM
+Canon EF 24-105MM F4L IS USM
+Canon EF 85MM F1.8 USM
+Canon EF-s 18-55MM F3.5/5.6
+Canon Speedlite 430EX
+BENRO MP-68 n6
+
+Nokia N73 Carl Zeiss Tessar 2.8/5.6 AF 3.2 megapixel
+Nokia Lumia 710
+	]]>
+	</programlisting>
+
+	<para>My Album (摄影作品)</para>
+	<itemizedlist>
+		<listitem>
+			<para>
+				<ulink url="http://picasaweb.google.com/bg7nyt/">Picasaweb</ulink>
+			</para>
+		</listitem>
+
+		<listitem>
+			<para><ulink url="http://www.flickr.com/photos/bg7nyt/">flickr album</ulink></para>
+		</listitem>
+		<listitem>
+			<para>
+				<ulink url="http://pp.fengniao.com/myalbum_91213.html">Fengniao Album</ulink>
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				<ulink url="http://openx.photo.163.com">我的相册</ulink>
+			</para>
+		</listitem>
+	</itemizedlist>
+	<para></para>
+</webpage>

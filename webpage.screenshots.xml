@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webpage id="screenshots">
+	<config param="desc" value="Screenshots" />
+	<config param="rcsdate" value="$Date: 2012-02-01 13:40:49 +0800 (Wed, 01 Feb 2012) $" />
+	<head>
+		<title>Screenshots</title>
+		<titleabbrev>Screenshots</titleabbrev>
+		<summary>Website Solution Screenshots</summary>
+		<keywords>Linux, FreeBSD, MySQL, PostgreSQL, Lighttpd, Nginx, DFS, Spring, Varnish</keywords>
+	</head>
+
+	<webtoc />
+
+	<section>
+		<title>Web Solution</title>
+		<ulink url="../images/solution.png">
+		<graphic  format="png" fileref="../images/solution.png" srccredit="neo" width="400"/>
+		</ulink>
+	</section>
+	<section>
+		<title>HMVC</title>
+		<ulink url="../images/hmvc.png">
+		<graphic  format="png" fileref="../images/hmvc.png" srccredit="neo" width="400"/>
+		</ulink>
+	</section>
+	<section>
+		<title>Interface</title>
+		<ulink url="../images/interface.png">
+		<graphic  format="png" fileref="../images/interface.png" srccredit="neo" width="400"/>
+		</ulink>
+	</section>
+</webpage>

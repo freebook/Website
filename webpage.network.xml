@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webpage id="network">
+	<config param="desc" value="network" />
+	<config param="rcsdate" value="$Date: 2013-07-18 11:27:47 +0800 (Thu, 18 Jul 2013) $" />
+	<head>
+		<title>Network</title>
+		<titleabbrev>Network</titleabbrev>
+		<summary>Network</summary>
+		<keywords>Network, Cisco, Router, Switch, F5, Array</keywords>
+	</head>
+
+	<webtoc />
+
+	<section>
+		<title>网络管理系列手扎</title>
+		<itemizedlist>
+			<listitem>
+				<ulink url="../network/index.html">Netkiller Network 手札</ulink>
+			</listitem>
+			<listitem>
+				<ulink url="../cisco/index.html">Netkiller Cisco IOS 手札</ulink>
+			</listitem>
+
+			<!--
+			<listitem>
+
+			</listitem>
+			<listitem>
+
+			</listitem>
+			<listitem>
+
+			</listitem>
+			 -->
+		</itemizedlist>
+	</section>
+
+</webpage>

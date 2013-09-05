@@ -1,0 +1,21 @@
+#!/bin/bash
+# http://docbook.sourceforge.net/release/website/current/example/index.html
+PUBLIC_HTML=~/public_html
+
+HTDOCS=$PUBLIC_HTML
+WEBSITE=/usr/share/xml/docbook/stylesheet/nwalsh/website
+XML_CATALOG_FILES=/usr/share/xml/docbook/stylesheet/nwalsh/catalog.xml \
+xsltproc --output Docbook/Website/autolayout.xml ${WEBSITE}/autolayout.xsl layout.xml
+#xsltproc --stringparam output-root $HTDOCS $WEBSITE/chunk-tabular.xsl autolayout.xml
+xsltproc --stringparam output-root $HTDOCS template.xsl autolayout.xml
+#       --stringparam  collect.xref.targets yes
+if [ ! -d ${HTDOCS}/images ]; then
+	mkdir -p ${HTDOCS}/images
+fi
+#cp -r Docbook/Website/graphics $HTDOCS
+#rm -rf $HTDOCS/graphics/.svn
+cp stylesheet.css $HTDOCS
+
+rsync -au --delete --exclude=.svn graphics ${HTDOCS}/
+rsync -au --delete --exclude=.svn images ${HTDOCS}/
+rsync -au --delete --exclude=.svn html/* ${HTDOCS}/

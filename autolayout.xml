@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.5.0//EN" "http://docbook.sourceforge.net/release/website/2.5.0/schema/dtd/autolayout.dtd"><autolayout>
+<config param="text-prefix" value="txt"/><config param="homebanner-tabular" value="images/neo.jpg" altval="Home Banner"/><config param="banner-tabular" value="/images/neo.jpg" altval="Banner"/><config param="homebanner" value="graphics/homebanner.png" altval="Home   Banner"/><config param="banner" value="graphics/icons/iconhome.gif" altval="Banner"/><copyright><year>2009</year><year>2010</year><year>2011</year><year>2012</year><year>2013</year><holder role="http://netkiller.sourceforge.net/">Neo Chan</holder></copyright><style src="stylesheet.css" type="text/css"/><toc page="website.xml" id="home" filename="index.html">
+<title>Netkiller ebook - Linux ebook</title>
+<summary>Introduction</summary>
+<tocentry page="webpage.news.xml" id="news" dir="home/" filename="news.html">
+<title>News</title>
+<titleabbrev>News</titleabbrev>
+<summary>LATEST NEWS / UPCOMING EVENTS</summary>
+</tocentry>
+<tocentry page="webpage.blogger.xml" id="article" dir="blogger/" filename="index.html">
+<title>Technology Blogger</title>
+<titleabbrev>Blogger</titleabbrev>
+<summary>Technology Article</summary>
+</tocentry>
+<tocentry page="webpage.technology.xml" id="technology" dir="home/" filename="technology.html">
+<title>Technology eBook</title>
+<titleabbrev>Technology eBook</titleabbrev>
+<summary>Technology eBook</summary>
+<tocentry page="webpage.network.xml" id="network" dir="home/" filename="network.html">
+<title>Network</title>
+<titleabbrev>Network</titleabbrev>
+<summary>Network</summary>
+</tocentry>
+<tocentry page="webpage.system.xml" id="system" dir="home/" filename="system.html">
+<title>Operation System</title>
+<titleabbrev>Operation System</titleabbrev>
+<summary>Operation System</summary>
+</tocentry>
+<tocentry page="webpage.database.xml" id="database" dir="home/" filename="database.html">
+<title>Database</title>
+<titleabbrev>Database</titleabbrev>
+<summary>database</summary>
+</tocentry>
+<tocentry page="webpage.language.xml" id="language" dir="home/" filename="language.html">
+<title>Language</title>
+<titleabbrev>Language</titleabbrev>
+<summary>Language</summary>
+</tocentry>
+<tocentry page="webpage.epub.xml" id="os" dir="home/" filename="download.epub.html">
+<title>iBook(EPUB) </title>
+<titleabbrev>iBook(EPUB)</titleabbrev>
+<summary>Unix like OS Document</summary>
+</tocentry>
+<tocentry page="webpage.pdf.xml" id="developer" dir="home/" filename="download.pdf.html">
+<title>PDF Ebook</title>
+<titleabbrev>PDF Ebook</titleabbrev>
+<summary>Development Language</summary>
+</tocentry>
+</tocentry>
+<tocentry page="webpage.deployment.xml" id="deployment" dir="home/" filename="deployment.html">
+<title>Deployment</title>
+<titleabbrev>Deployment</titleabbrev>
+<summary/>
+<tocentry page="webpage.deployment.git.xml" id="deployment.git" dir="home/" filename="deployment.git.html">
+<title>Deployment GIT</title>
+<titleabbrev>Deployment GIT</titleabbrev>
+<summary/>
+</tocentry>
+<tocentry page="webpage.deployment.svn.xml" id="deployment.svn" dir="home/" filename="deployment.svn.html">
+<title>Deployment SVN</title>
+<titleabbrev>Deployment SVN</titleabbrev>
+<summary/>
+</tocentry>
+</tocentry>
+<tocentry page="webpage.screenshots.xml" id="screenshots" dir="home/" filename="screenshots.html">
+<title>Screenshots</title>
+<titleabbrev>Screenshots</titleabbrev>
+<summary>Website Solution Screenshots</summary>
+<tocentry page="webpage.solution.xml" id="solution" dir="home/" filename="solution.html">
+<title>Solution</title>
+<titleabbrev>Website Solution</titleabbrev>
+<summary>Website Solution</summary>
+</tocentry>
+</tocentry>
+<tocentry page="webpage.xml.xml" id="xml" dir="home/" filename="xml.html">
+<title>RSS / ATOM</title>
+<titleabbrev>RSS / ATOM</titleabbrev>
+<summary>RSS / ATOM</summary>
+</tocentry>
+<tocentry page="webpage.donations.xml" id="donations" dir="home/" filename="donations.html">
+<title>Donations</title>
+<summary>支持这个项目(Support this project)</summary>
+</tocentry>
+<tocentry page="webpage.about.xml" id="about" dir="home/" filename="about.html">
+<title>About</title>
+<summary>About</summary>
+<tocentry page="webpage.sport.xml" id="sport" dir="home/" filename="sport.html">
+<title>Sport</title>
+<titleabbrev>Sports &amp; Outdoors</titleabbrev>
+<summary>Sports &amp; Outdoors › Outdoor Recreation › Camping &amp; Hiking › Backpacks &amp; Bags</summary>
+</tocentry>
+<tocentry page="webpage.photography.xml" id="photography" dir="home/" filename="photography.html">
+<title>Photography</title>
+<titleabbrev>Photography</titleabbrev>
+<summary>Photography</summary>
+</tocentry>
+<tocentry page="webpage.radio.xml" id="radio" dir="home/" filename="radio.html">
+<title>Amateur Radio</title>
+<summary>Amateur Radio</summary>
+</tocentry>
+<tocentry page="webpage.boinc.xml" id="boinc" dir="home/" filename="boinc.html">
+<title>BOINC</title>
+<summary>BOINC Distributed Computing</summary>
+</tocentry>
+</tocentry>
+</toc>
+</autolayout>

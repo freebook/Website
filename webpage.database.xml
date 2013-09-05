@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webpage id="database">
+	<config param="desc" value="database" />
+	<config param="rcsdate" value="$Date: 2013-03-19 18:18:50 +0800 (Tue, 19 Mar 2013) $" />
+	<head>
+		<title>Database</title>
+		<titleabbrev>Database</titleabbrev>
+		<summary>database</summary>
+		<keywords>database,mysql,postgresql,nosql,ldap</keywords>
+	</head>
+
+	<webtoc />
+
+	<section>
+		<title>数据库系列手扎</title>
+		<itemizedlist>
+			<listitem>
+				<ulink url="../database/index.html">Netkiller Database 手札</ulink>
+			</listitem>
+			<listitem>
+				<ulink url="../postgresql/index.html">Netkiller PostgreSQL 手札</ulink>
+			</listitem>
+			<listitem>
+				<ulink url="../mysql/index.html">Netkiller MySQL 手札</ulink>
+			</listitem>
+			<listitem>
+				<ulink url="../nosql/index.html">Netkiller NoSQL 手札</ulink>
+			</listitem>
+			<listitem>
+				<ulink url="../ldap/index.html">Netkiller LDAP 手札</ulink>
+			</listitem>
+		</itemizedlist>
+	</section>
+
+</webpage>

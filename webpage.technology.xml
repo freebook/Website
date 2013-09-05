@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd">
+<webpage id="technology">
+	<config param="desc" value="Technology" />
+	<config param="rcsdate"
+		value="$Date: 2013-07-18 11:27:47 +0800 (Thu, 18 Jul 2013) $" />
+	<head>
+		<title>Technology eBook</title>
+		<titleabbrev>Technology eBook</titleabbrev>
+		<summary>Technology eBook</summary>
+	</head>
+	<para></para>
+	<webtoc />
+	<table>
+		<title>Netkiller 系列免费电子书</title>
+		<tgroup cols="2">
+			<tbody>
+				<row>
+					<entry>
+						<graphic format="png" fileref="../images/netkiller-ebook.jpg"
+							srccredit="neo" width="400" />
+					</entry>
+					<entry>
+
+						<simplelist>
+							<member>
+								<ulink url="../architect/index.html">Netkiller Architect 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../linux/index.html">Netkiller Linux 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../developer/index.html">Netkiller Developer 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../database/index.html">Netkiller Database 手札</ulink>
+							</member>
+
+
+							<member>
+								<ulink url="../debian/index.html">Netkiller Debian 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../centos/index.html">Netkiller CentOS 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../freebsd/index.html">Netkiller FreeBSD 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../shell/index.html">Netkiller Shell 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../www/index.html">Netkiller Web 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../monitoring/index.html">Netkiller Monitoring 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../storage/index.html">Netkiller Storage 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../mail/index.html">Netkiller Mail 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../security/index.html">Netkiller Security 手札</ulink>
+							</member>
+
+							<member>
+								<ulink url="../postgresql/index.html">Netkiller PostgreSQL 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../mysql/index.html">Netkiller MySQL 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../ldap/index.html">Netkiller LDAP 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../nosql/index.html">Netkiller NoSQL 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../version/index.html">Netkiller Version 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../cryptography/index.html">Netkiller Cryptography 手札</ulink>
+							</member>
+
+							<member>
+								<ulink url="../network/index.html">Netkiller Network 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../cisco/index.html">Netkiller Cisco IOS 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../docbook/index.html">Netkiller Writer 手札</ulink>
+							</member>
+
+							<member>
+								<ulink url="../management/index.html">Netkiller Management 手札</ulink>
+							</member>
+
+							<member>
+								<ulink url="../multimedia/index.html">Netkiller Studio Linux 手札</ulink>
+							</member>
+
+							<member>
+								<ulink url="../php/index.html">Netkiller PHP 手札</ulink>
+							</member>
+
+							<member>
+								<ulink url="testing/index.html">Netkiller Testing 手札</ulink>
+							</member>
+						</simplelist>
+
+					</entry>
+				</row>
+			</tbody>
+		</tgroup>
+	</table>
+
+	<section>
+		<title>This book covers the range</title>
+		<simplelist>
+			<member>
+				<para>- Network: Firewall, Router, Switch, Cisco, H3C, Juniper,F5
+					Big-IP, Array</para>
+			</member>
+			<member>
+				<para>- OS: Linux, FreeBSD, CentOS, Redhat, Ubuntu, Debian</para>
+			</member>
+			<member>
+				<para>- Security: OpenVPN, L2TP, PPTP, IPSec IP Tunnel</para>
+			</member>
+			<member>
+				<para>- Cluster: SmartDNS, LVS, HAproxy, Keepalived, Heartbeat,
+					MooseFS, GlusterFS</para>
+			</member>
+			<member>
+				<para>- Web App: Apache, Lighttpd, Nginx, Tomcat, Resin</para>
+			</member>
+			<member>
+				<para>- Web Dev: DIV-CSS, JQuery, Prototype, DSSSL, SGML, XML,
+					DocBook, Google Map API
+				</para>
+			</member>
+			<member>
+				<para>- Cache: APC Cache, XCache, Memcached, Squid, Varnish</para>
+			</member>
+			<member>
+				<para>- Database: PostgreSQL, MySQL Cluster, MySQL Replication,
+					Cassandra, MongoDB</para>
+			</member>
+			<member>
+				<para>- PHP Frameworks: CodeIgniter, Prado, Mach II, Qcodo, Smarty
+				</para>
+			</member>
+			<member>
+				<para>- Python Frameworks: Django, Pylons</para>
+			</member>
+			<member>
+				<para>- Perl Frameworks: Catalyst </para>
+			</member>
+			<member>
+				<para>- Search Engine: Solr, Sphinx, Crawler: Nutch</para>
+			</member>
+			<member>
+				<para>- Virtualization: Xen, Kvm, OpenVZ</para>
+			</member>
+		</simplelist>
+	</section>
+
+
+	<section>
+		<title>Document URL</title>
+		<para>
+		</para>
+
+		<itemizedlist>
+			<listitem>
+				<para>
+					Home:
+					<ulink url="http://netkiller.sourceforge.net/">http://netkiller.sourceforge.net/</ulink>
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Mirror:
+					<ulink url="http://netkiller.github.com/">http://netkiller.github.com/</ulink>
+				</para>
+			</listitem>
+			<listitem>
+				<para>GITUB Clone: $ git clone
+					https://github.com/netkiller/netkiller.github.com.git</para>
+			</listitem>
+			<listitem>
+				<para>
+					RPM:
+					<ulink
+						url="ftp://admin:admin@209.236.120.168/netkiller-1.0-centos.x86_64.rpm">netkiller-1.0-centos.x86_64.rpm</ulink>
+				</para>
+			</listitem>
+		</itemizedlist>
+
+		<programlisting>
+		<![CDATA[
+
+		]]>
+		</programlisting>
+
+
+
+		<programlisting>
+		<![CDATA[
+		]]>
+		</programlisting>
+	</section>
+</webpage>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd">
+<webpage id="xml">
+	<config param="desc" value="RSS / ATOM" />
+	<config param="rcsdate"
+		value="$Date: 2013-02-20 14:20:39 +0800 (Wed, 20 Feb 2013) $" />
+	<head>
+		<title>RSS / ATOM</title>
+		<titleabbrev>RSS / ATOM</titleabbrev>
+		<summary>RSS / ATOM</summary>
+	</head>
+	<webtoc />
+	<section>
+		<title>RSS</title>
+		<para>
+			<ulink url="http://netkiller.github.com/rss.xml" />
+		</para>
+		<para>
+			<ulink
+				url="http://fusion.google.com/add?feedurl=http://netkiller.github.com/rss.xml">Add to Google</ulink>
+		</para>
+
+		<ulink url="http://netkiller.github.com/rss.xml">
+			<graphic format="png" fileref="../images/rss/icon_sub_c1s16.gif" />
+		</ulink>
+
+		<ulink		url="http://www.zhuaxia.com/add_channel.php?url=http://netkiller.github.com/rss.xml">
+			<graphic format="png"
+				fileref="../images/rss/icon_subshot02_zhuaxia.gif" />
+		</ulink>
+
+		<ulink
+			url="http://www.pageflakes.com/subscribe.aspx?url=http://netkiller.github.com/rss.xml">
+			<graphic format="png"
+				fileref="../images/rss/icon_subshot02_pageflakes.gif" />
+		</ulink>
+
+		<ulink
+			url="http://www.rojo.com/add-subscription?resource=http://netkiller.github.com/rss.xml">
+			<graphic format="png"
+				fileref="../images/rss/icon_subshot02_rojo.gif" />
+		</ulink>
+
+		<ulink
+			url="http://fusion.google.com/add?feedurl=http://netkiller.github.com/rss.xml">
+			<graphic format="png"
+				fileref="../images/rss/icon_subshot02_google.gif" />
+		</ulink>
+
+		<ulink url="http://www.bloglines.com/sub/http://netkiller.github.com/rss.xml">
+			<graphic format="png"
+				fileref="../images/rss/icon_subshot02_bloglines.gif" />
+		</ulink>
+
+		<ulink
+			url="http://add.my.yahoo.com/rss?url=http://netkiller.github.com/rss.xml">
+			<graphic format="png"
+				fileref="../images/rss/icon_subshot02_yahoo.gif" />
+		</ulink>
+
+		<ulink
+			url="http://www.newsgator.com/ngs/subscriber/subfext.aspx?url=http://netkiller.github.com/rss.xml">
+			<graphic format="png"
+				fileref="../images/rss/icon_subshot02_newsgator.gif" />
+		</ulink>
+
+		<ulink
+			url="http://www.netvibes.com/subscribe.php?url=http://netkiller.github.com/rss.xml">
+			<graphic format="png"
+				fileref="../images/rss/icon_subshot02_netvibes.gif" />
+		</ulink>
+
+		<ulink
+			url="http://www.xianguo.com/subscribe.php?url=http://netkiller.github.com/rss.xml">
+			<graphic format="png"
+				fileref="../images/rss/icon_subshot02_xianguo.jpg" />
+		</ulink>
+
+		<ulink
+			url="http://inezha.com/add?url=http://netkiller.github.com/rss.xml">
+			<graphic format="png"
+				fileref="../images/rss/icon_subshot02_nazha.gif" />
+		</ulink>
+
+		<ulink
+			url="http://reader.yodao.com/#url=http://netkiller.github.com/rss.xml">
+			<graphic format="png"
+				fileref="../images/rss/icon_subshot02_youdao.gif" />
+		</ulink>
+
+	</section>
+	<section>
+		<title>ATOM</title>
+		<para><ulink url="https://github.com/netkiller/netkiller.github.com/commits/master.atom">网站更新记录</ulink></para>
+		<para>https://github.com/netkiller/netkiller.github.com/commits/master.atom</para>
+	</section>
+	<section>
+		<title>Sitemap</title>
+		<para>
+			<ulink url="/sitemaps.xml.gz"></ulink>
+		</para>
+	</section>
+</webpage>

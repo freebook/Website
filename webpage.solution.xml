@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webpage id="solution">
+	<config param="desc" value="Solution" />
+	<config param="rcsdate" value="$Date: 2012-02-01 13:40:49 +0800 (Wed, 01 Feb 2012) $" />
+	<head>
+		<title>Solution</title>
+		<titleabbrev>Website Solution</titleabbrev>
+		<summary>Website Solution</summary>
+		<keywords>Linux, FreeBSD, MySQL, PostgreSQL, Lighttpd, Nginx, DFS, Spring, Varnish</keywords>
+	</head>
+
+	<webtoc />
+
+	<para><ulink url="../architect/index.html"><graphic  format="png" fileref="../architect/images/solution/perfect.png" srccredit="neo" width="1000"/></ulink></para>
+
+	<para><ulink url="../architect/index.html">More</ulink></para>
+
+</webpage>
