@@ -4,7 +4,7 @@
 	<config param="rcsdate" value="$Date: 2013-07-25 17:39:11 +0800 (Thu, 25 Jul 2013) $" />
 	<head>
 		<title>Technology Blogger</title>
-		<titleabbrev>Blogger</titleabbrev>
+		<titleabbrev>Journal</titleabbrev>
 		<summary>Technology Article</summary>
 	</head>
 

@@ -5,9 +5,9 @@
 	<config param="rcsdate"
 		value="$Date: 2013-07-18 11:27:47 +0800 (Thu, 18 Jul 2013) $" />
 	<head>
-		<title>Technology eBook</title>
-		<titleabbrev>Technology eBook</titleabbrev>
-		<summary>Technology eBook</summary>
+		<title>Free book</title>
+		<titleabbrev>Free book</titleabbrev>
+		<summary>Free book</summary>
 	</head>
 	<para></para>
 	<webtoc />
@@ -166,51 +166,5 @@
 				<para>- Virtualization: Xen, Kvm, OpenVZ</para>
 			</member>
 		</simplelist>
-	</section>
-
-
-	<section>
-		<title>Document URL</title>
-		<para>
-		</para>
-
-		<itemizedlist>
-			<listitem>
-				<para>
-					Home:
-					<ulink url="http://netkiller.sourceforge.net/">http://netkiller.sourceforge.net/</ulink>
-				</para>
-			</listitem>
-			<listitem>
-				<para>
-					Mirror:
-					<ulink url="http://netkiller.github.com/">http://netkiller.github.com/</ulink>
-				</para>
-			</listitem>
-			<listitem>
-				<para>GITUB Clone: $ git clone
-					https://github.com/netkiller/netkiller.github.com.git</para>
-			</listitem>
-			<listitem>
-				<para>
-					RPM:
-					<ulink
-						url="ftp://admin:admin@209.236.120.168/netkiller-1.0-centos.x86_64.rpm">netkiller-1.0-centos.x86_64.rpm</ulink>
-				</para>
-			</listitem>
-		</itemizedlist>
-
-		<programlisting>
-		<![CDATA[
-
-		]]>
-		</programlisting>
-
-
-
-		<programlisting>
-		<![CDATA[
-		]]>
-		</programlisting>
 	</section>
 </webpage>

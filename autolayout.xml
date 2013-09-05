@@ -10,13 +10,13 @@
 </tocentry>
 <tocentry page="webpage.blogger.xml" id="article" dir="blogger/" filename="index.html">
 <title>Technology Blogger</title>
-<titleabbrev>Blogger</titleabbrev>
+<titleabbrev>Journal</titleabbrev>
 <summary>Technology Article</summary>
 </tocentry>
 <tocentry page="webpage.technology.xml" id="technology" dir="home/" filename="technology.html">
-<title>Technology eBook</title>
-<titleabbrev>Technology eBook</titleabbrev>
-<summary>Technology eBook</summary>
+<title>Free book</title>
+<titleabbrev>Free book</titleabbrev>
+<summary>Free book</summary>
 <tocentry page="webpage.network.xml" id="network" dir="home/" filename="network.html">
 <title>Network</title>
 <titleabbrev>Network</titleabbrev>
@@ -37,6 +37,10 @@
 <titleabbrev>Language</titleabbrev>
 <summary>Language</summary>
 </tocentry>
+</tocentry>
+<tocentry page="webpage.download.xml" id="download" dir="home/" filename="download.html">
+<title>Download</title>
+<summary>Netkiller 手札下载</summary>
 <tocentry page="webpage.epub.xml" id="os" dir="home/" filename="download.epub.html">
 <title>iBook(EPUB) </title>
 <titleabbrev>iBook(EPUB)</titleabbrev>

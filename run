@@ -5,7 +5,7 @@ PUBLIC_HTML=~/public_html
 HTDOCS=$PUBLIC_HTML
 WEBSITE=/usr/share/xml/docbook/stylesheet/nwalsh/website
 XML_CATALOG_FILES=/usr/share/xml/docbook/stylesheet/nwalsh/catalog.xml \
-xsltproc --output Docbook/Website/autolayout.xml ${WEBSITE}/autolayout.xsl layout.xml
+xsltproc --output autolayout.xml ${WEBSITE}/autolayout.xsl layout.xml
 #xsltproc --stringparam output-root $HTDOCS $WEBSITE/chunk-tabular.xsl autolayout.xml
 xsltproc --stringparam output-root $HTDOCS template.xsl autolayout.xml
 #       --stringparam  collect.xref.targets yes

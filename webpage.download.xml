@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd">
+<webpage id="download">
+	<head>
+		<title>Download</title>
+		<summary>Netkiller 手札下载</summary>
+	</head>
+	<para>支持这个项目(Support this project)</para>
+
+	<webtoc />
+	<para>If you like this documents, please make a donation to support the
+		authors' efforts. Thank you!
+	</para>
+	<section id="htmlhelp">
+		<title>CHM 格式电子文档下载</title>
+		<para>
+			<ulink
+				url="https://sourceforge.net/projects/netkiller/files/htmlhelp.chm/" />
+		</para>
+	</section>
+	<section id="rpm">
+		<title>安装包</title>
+		<itemizedlist>
+			<listitem>
+				<para>RPM</para>
+				<para>
+					<ulink
+						url="http://rpmfind.net/linux/RPM/sourceforge/n/ne/netkiller/netkiller-1.0.1-1.x86_64.html" />
+				</para>
+			</listitem>
+			<listitem>
+				<para>deb:</para>
+				<para>
+					<ulink url="https://sourceforge.net/projects/netkiller/files/Package/" />
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>GITUB</title>
+		<para>GIT clone:</para>
+		<programlisting>
+		<![CDATA[
+$ git clone	https://github.com/netkiller/netkiller.github.com.git
+		]]>
+		</programlisting>
+	</section>
+	<section>
+		<title>Document URL</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					Home:
+					<ulink url="http://netkiller.github.io/">http://netkiller.github.io/</ulink>
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Mirror:
+					<ulink url="http://netkiller.sourceforge.net/">http://netkiller.sourceforge.net/</ulink>
+				</para>
+			</listitem>
+		</itemizedlist>
+
+		<programlisting>
+		<![CDATA[
+		]]>
+		</programlisting>
+	</section>
+</webpage>

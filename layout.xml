@@ -30,6 +30,8 @@
 			<tocentry page="webpage.system.xml" filename="system.html" />
 			<tocentry page="webpage.database.xml" filename="database.html" />
 			<tocentry page="webpage.language.xml" filename="language.html" />
+		</tocentry>
+		<tocentry page="webpage.download.xml" dir="home" filename="download.html">
 			<tocentry page="webpage.epub.xml" filename="download.epub.html" />
 			<tocentry page="webpage.pdf.xml" filename="download.pdf.html" />
 		</tocentry>
