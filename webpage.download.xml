@@ -19,10 +19,37 @@
 		</para>
 	</section>
 	<section id="rpm">
-		<title>安装包</title>
+		<title>YUM 在线安装</title>
+		<para><ulink url="http://netkiller.sourceforge.net/pub/repo/" /></para>
+		<screen>
+		<![CDATA[
+# cat >> /etc/yum.repos.d/netkiller.repo <<EOF
+[netkiller]
+name=Netkiller Free Books
+baseurl=http://netkiller.sourceforge.net/pub/repo/
+enabled=1
+gpgcheck=0
+gpgkey=
+EOF
+		]]>
+		</screen>
+		<para>查找包</para>
+		<screen>
+		<![CDATA[
+# yum search netkiller
+
+netkiller-centos.x86_64 : Netkiller centos Cookbook
+netkiller-cryptography.x86_64 : Netkiller cryptography Cookbook
+netkiller-docbook.x86_64 : Netkiller docbook Cookbook		
+		]]>
+		</screen>
+		<para>安装包</para>
+		<screen>
+yum install netkiller-docbook		
+		</screen>
 		<itemizedlist>
 			<listitem>
-				<para>RPM</para>
+				<para>RPM 安装包</para>
 				<para>
 					<ulink
 						url="http://rpmfind.net/linux/RPM/sourceforge/n/ne/netkiller/netkiller-1.0.1-1.x86_64.html" />
