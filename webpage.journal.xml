@@ -3,29 +3,12 @@
 	<config param="desc" value="Article" />
 	<config param="rcsdate" value="$Date: 2013-07-25 17:39:11 +0800 (Thu, 25 Jul 2013) $" />
 	<head>
-		<title>Technology Blogger</title>
+		<title>Technology Journal</title>
 		<titleabbrev>Journal</titleabbrev>
-		<summary>Technology Article</summary>
+		<summary>Technology Journal</summary>
 	</head>
 
 	<webtoc />
-
-	<section>
-		<title>Blogger: </title>
-		<para>ITEYE: <ulink url="http://netkiller-github-com.iteye.com" /></para>
-		<para>51CTO: <ulink url="http://rline.blog.51cto.com/" />|<ulink url="http://g.51cto.com/netkiller" /></para>
-
-		<para>Twitter: <ulink url="http://twitter.com/bg7nyt" /></para>
-		<para>Digg: <ulink url="http://www.digg.com/netkiller" /></para>
-		<para>Facebook: <ulink url="https://www.facebook.com/bg7nyt" /></para>
-		<para>LinkedIn: <ulink url="http://cn.linkedin.com/in/netkiller" /></para>
-		<para>Flickr: <ulink url="http://www.flickr.com/photos/bg7nyt/" /></para>
-		<para>Disqus: <ulink url="http://disqus.com/netkiller/" /></para>
-		<para>solidot: <ulink url="http://solidot.org/~netkiller/" /></para>
-		<para>pengyou: <ulink url="http://www.pengyou.com/netkiller">http://www.pengyou.com/netkiller</ulink></para>
-		<para>weibo:	<ulink url="http://weibo.com/bg7nyt">http://weibo.com/bg7nyt</ulink></para>
-		<para>163 Blog:	<ulink url="http://t.163.com/netkiller" /></para>
-	</section>
 
 	<section>
 		<title>2013</title>
@@ -102,6 +85,24 @@
 			</listitem>
 
 		</orderedlist>
+	</section>
+
+	<section>
+		<title>Blogger: </title>
+		<para>OSChina: <ulink url="http://my.oschina.net/neochen/" /></para>
+		<para>ITEYE: <ulink url="http://netkiller-github-com.iteye.com" /></para>
+		<para>51CTO: <ulink url="http://rline.blog.51cto.com/" />|<ulink url="http://g.51cto.com/netkiller" /></para>
+
+		<para>Twitter: <ulink url="http://twitter.com/bg7nyt" /></para>
+		<para>Digg: <ulink url="http://www.digg.com/netkiller" /></para>
+		<para>Facebook: <ulink url="https://www.facebook.com/bg7nyt" /></para>
+		<para>LinkedIn: <ulink url="http://cn.linkedin.com/in/netkiller" /></para>
+		<para>Flickr: <ulink url="http://www.flickr.com/photos/bg7nyt/" /></para>
+		<para>Disqus: <ulink url="http://disqus.com/netkiller/" /></para>
+		<para>solidot: <ulink url="http://solidot.org/~netkiller/" /></para>
+		<para>pengyou: <ulink url="http://www.pengyou.com/netkiller">http://www.pengyou.com/netkiller</ulink></para>
+		<para>weibo:	<ulink url="http://weibo.com/bg7nyt">http://weibo.com/bg7nyt</ulink></para>
+		<para>163 Blog:	<ulink url="http://t.163.com/netkiller" /></para>
 	</section>
 
 	<section>

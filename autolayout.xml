@@ -8,10 +8,10 @@
 <titleabbrev>News</titleabbrev>
 <summary>LATEST NEWS / UPCOMING EVENTS</summary>
 </tocentry>
-<tocentry page="webpage.blogger.xml" id="article" dir="blogger/" filename="index.html">
-<title>Technology Blogger</title>
+<tocentry page="webpage.journal.xml" id="article" dir="journal/" filename="index.html">
+<title>Technology Journal</title>
 <titleabbrev>Journal</titleabbrev>
-<summary>Technology Article</summary>
+<summary>Technology Journal</summary>
 </tocentry>
 <tocentry page="webpage.technology.xml" id="technology" dir="home/" filename="technology.html">
 <title>Free book</title>

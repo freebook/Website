@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd">
 <webpage id="donations">
-<head>
-<title>Donations</title>
-<summary>支持这个项目(Support this project)</summary>
-</head>
-<para>支持这个项目(Support this project)</para>
+	<head>
+		<title>Donations</title>
+		<summary>支持这个项目(Support this project)</summary>
+	</head>
+	<para>支持这个项目(Support this project)</para>
 
-<webtoc/>
-<para>If you like this documents, please make a donation to support the authors' efforts. Thank you! </para>
-<section id="paypal">
-	<title>PayPal</title>
-	<para>
-		<ulink url="http://sourceforge.net/donate/index.php?group_id=306976">Donations</ulink>
-	</para>
-</section>
-<section id="bank">
-	<title>Bank</title>
-	<para>招商银行(China Merchants Bank) 陈景峰 9555500000007459</para>
-</section>
+	<webtoc />
+	<para>If you like this documents, please make a donation to support the
+		authors' efforts. Thank you! </para>
+	<section>
+		<title>支付宝（Alipay）</title>
+		<para><ulink url="https://me.alipay.com/netkiller" /></para>
+	</section>
+	<section id="bank">
+		<title>Bank</title>
+		<para>招商银行(China Merchants Bank) 陈景峰 9555500000007459</para>
+	</section>
+	<section id="paypal">
+		<title>PayPal</title>
+		<para>
+			<ulink url="http://sourceforge.net/donate/index.php?group_id=306976">Donations</ulink>
+		</para>
+	</section>	
 </webpage>
