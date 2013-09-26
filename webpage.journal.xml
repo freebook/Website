@@ -14,24 +14,24 @@
 		<title>2013</title>
 		<orderedlist>
 			<listitem>
-				<para><ulink url="../article/log.html">WEB日志导入到数据库中</ulink>[2013-03-19]</para>
+				<para><ulink url="../journal/log.html">WEB日志导入到数据库中</ulink>[2013-03-19]</para>
 			</listitem>
 
 			<listitem>
-				<para><ulink url="../article/rpm.html">怎样制作RPM包</ulink>[2013-04-18] </para>
+				<para><ulink url="../journal/rpm.html">怎样制作RPM包</ulink>[2013-04-18] </para>
 			</listitem>
 
 			<listitem>
-				<para><ulink url="../article/mysql-plugin.html">数据库与图片完美解决方案</ulink>[2013-05-15] </para>
+				<para><ulink url="../journal/mysql-plugin.html">数据库与图片完美解决方案</ulink>[2013-05-15] </para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../article/setup.html">CentOS 6.4 + nginx-1.2.5 + php-5.4.15 + MySQL-5.5.31</ulink> [2013-05-30]</para>
+				<para><ulink url="../journal/setup.html">CentOS 6.4 + nginx-1.2.5 + php-5.4.15 + MySQL-5.5.31</ulink> [2013-05-30]</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../article/tomcat.html">Tomcat 安全配置与性能优化</ulink> [2013-07-23]</para>
+				<para><ulink url="../journal/tomcat.html">Tomcat 安全配置与性能优化</ulink> [2013-07-23]</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../article/security.html">Linux 系统安全与优化配置</ulink> [2013-07-25]</para>
+				<para><ulink url="../journal/security.html">Linux 系统安全与优化配置</ulink> [2013-07-25]</para>
 			</listitem>
 		</orderedlist>
 	</section>
@@ -42,31 +42,31 @@
 		<title>2012</title>
 		<orderedlist>
 			<listitem>
-				<para>[2012-12-04]<ulink url="../article/utility.html">运维常用再现工具</ulink></para>
+				<para>[2012-12-04]<ulink url="../journal/utility.html">运维常用再现工具</ulink></para>
 			</listitem>
 			<listitem>
-				<para>[2012-01-05]<ulink url="../article/syslog.html">Python Syslog Server</ulink></para>
+				<para>[2012-01-05]<ulink url="../journal/syslog.html">Python Syslog Server</ulink></para>
 			</listitem>
 			<listitem>
-				<para>[2012-01-06]<ulink url="../article/daemon.html">Linux 应用程序开发入门</ulink></para>
+				<para>[2012-01-06]<ulink url="../journal/daemon.html">Linux 应用程序开发入门</ulink></para>
 			</listitem>
 			<listitem>
-				<para>[2012-03-06]<ulink url="../article/security.php.html">PHP 安全与性能</ulink></para>
+				<para>[2012-03-06]<ulink url="../journal/security.php.html">PHP 安全与性能</ulink></para>
 			</listitem>
 			<listitem>
-				<para>[2012-03-08]<ulink url="../article/security.db.html">Linux 系统与数据库安全</ulink></para>
+				<para>[2012-03-08]<ulink url="../journal/security.db.html">Linux 系统与数据库安全</ulink></para>
 			</listitem>
 			<listitem>
-				<para>[2012-07-26]<ulink url="../article/logfw.html">access.log top10 IP屏蔽脚本</ulink> </para>
+				<para>[2012-07-26]<ulink url="../journal/logfw.html">access.log top10 IP屏蔽脚本</ulink> </para>
 			</listitem>
 			<listitem>
-				<para>[2012-07-26]<ulink url="../article/appfirewall.html">应用软件防火墙设计与实现方法</ulink> </para>
+				<para>[2012-07-26]<ulink url="../journal/appfirewall.html">应用软件防火墙设计与实现方法</ulink> </para>
 			</listitem>
 			<listitem>
-				<para>[2012-08-09]<ulink url="../article/shell.html">Shell实用实例参考</ulink> </para>
+				<para>[2012-08-09]<ulink url="../journal/shell.html">Shell实用实例参考</ulink> </para>
 			</listitem>
 			<listitem>
-				<para>[2012-08-16]<ulink url="../article/static.html">网站静态内容出版解决方案</ulink> </para>
+				<para>[2012-08-16]<ulink url="../journal/static.html">网站静态内容出版解决方案</ulink> </para>
 			</listitem>
 		</orderedlist>
 	</section>
@@ -75,13 +75,13 @@
 		<title>2011</title>
 		<orderedlist>
 			<listitem>
-				<para><ulink url="../article/iptables.html">IPTABLES 面向对象封装</ulink>[2011-12-21]</para>
+				<para><ulink url="../journal/iptables.html">IPTABLES 面向对象封装</ulink>[2011-12-21]</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../article/spider.html">Python Spider 爬虫实例</ulink>[2011-12-28] </para>
+				<para><ulink url="../journal/spider.html">Python Spider 爬虫实例</ulink>[2011-12-28] </para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../article/fault.html">网络故障分析</ulink>[2011-12-31] </para>
+				<para><ulink url="../journal/fault.html">网络故障分析</ulink>[2011-12-31] </para>
 			</listitem>
 
 		</orderedlist>
