@@ -33,6 +33,9 @@
 			<listitem>
 				<para><ulink url="../journal/security.html">Linux 系统安全与优化配置</ulink> [2013-07-25]</para>
 			</listitem>
+			<listitem>
+				<para><ulink url="../journal/refresh.html">网站防刷新方案</ulink> [2013-09-26]</para>
+			</listitem>
 		</orderedlist>
 	</section>
 
