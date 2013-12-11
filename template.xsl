@@ -13,7 +13,7 @@
 
 		<a href="http://netkiller.github.io/">Home</a> |
         <a href="http://netkiller.sourceforge.net/">Mirror</a> |
-        <a href="/zh-tw">繁体中文</a> |
+        <a href="http://netkiller.sourceforge.net/">繁体中文</a> |
         <a href="/search.html">Search</a> |
         <a href="http://netkiller-github-com.iteye.com/">ITEYE 博客</a> |
         <a href="http://my.oschina.net/neochen/">OSChina 博客</a> |
