@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webpage id="mysql">
+	<config param="desc" value="MySQL Plugin Project" />
+	<config param="rcsdate" value="$Date: 2012-12-07 23:27:57 +0800 (Fri, 07 Dec 2012) $" />
+	<head>
+		<title>MySQL Plugin Project</title>
+		<titleabbrev>MySQL Plugin Project</titleabbrev>
+		<summary>MySQL Plugin Project Opensource Project</summary>
+	</head>
+
+	<webtoc />
+
+	<section>
+		<title>MySQL Pipes (FIFOs) Plugin</title>
+		<ulink url="https://github.com/netkiller/mysql-fifo-plugin" />
+
+		<para>git clone <ulink url="https://github.com/netkiller/mysql-fifo-plugin.git" /></para>
+		<para>SVN 版<ulink url="deployment.svn.html" /></para>
+	</section>
+
+	<webtoc />
+
+	<section>
+		<title>MySQL Images Plugin</title>
+		<para><ulink url="https://github.com/netkiller/mysql-image-plugin" /></para>
+		<para>git clone <ulink url="https://github.com/netkiller/mysql-image-plugin.git" /></para>
+		<para><ulink url="/journal/mysql-plugin.html">《数据库与图片完美解决方案》</ulink></para>
+	</section>
+
+	<webtoc />
+
+	<section>
+		<title>SafeNet for MySQL Plugin</title>
+		<para><ulink url="https://github.com/netkiller/safenet-mysql" /></para>
+		<para>git clone <ulink url="https://github.com/netkiller/safenet-mysql.git" /></para>
+	</section>	
+</webpage>

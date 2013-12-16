@@ -52,10 +52,10 @@
 <summary>Development Language</summary>
 </tocentry>
 </tocentry>
-<tocentry page="webpage.deployment.xml" id="deployment" dir="home/" filename="deployment.html">
-<title>Deployment</title>
-<titleabbrev>Deployment</titleabbrev>
-<summary/>
+<tocentry page="webpage.project.xml" id="project" dir="home/" filename="project.html">
+<title>Project</title>
+<titleabbrev>Project</titleabbrev>
+<summary>Opensource Project</summary>
 <tocentry page="webpage.deployment.git.xml" id="deployment.git" dir="home/" filename="deployment.git.html">
 <title>Deployment GIT</title>
 <titleabbrev>Deployment GIT</titleabbrev>
@@ -65,6 +65,11 @@
 <title>Deployment SVN</title>
 <titleabbrev>Deployment SVN</titleabbrev>
 <summary/>
+</tocentry>
+<tocentry page="webpage.project.mysql.xml" id="mysql" dir="home/" filename="project.mysql.html">
+<title>MySQL Plugin Project</title>
+<titleabbrev>MySQL Plugin Project</titleabbrev>
+<summary>MySQL Plugin Project Opensource Project</summary>
 </tocentry>
 </tocentry>
 <tocentry page="webpage.screenshots.xml" id="screenshots" dir="home/" filename="screenshots.html">

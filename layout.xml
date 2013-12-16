@@ -35,9 +35,10 @@
 			<tocentry page="webpage.epub.xml" filename="download.epub.html" />
 			<tocentry page="webpage.pdf.xml" filename="download.pdf.html" />
 		</tocentry>
-		<tocentry page="webpage.deployment.xml" dir="home" filename="deployment.html">
+		<tocentry page="webpage.project.xml" dir="home" filename="project.html">
 			<tocentry page="webpage.deployment.git.xml" filename="deployment.git.html" />
 			<tocentry page="webpage.deployment.svn.xml" filename="deployment.svn.html" />
+			<tocentry page="webpage.project.mysql.xml" filename="project.mysql.html" />
 		</tocentry>
 
 		<tocentry page="webpage.screenshots.xml" dir="home" filename="screenshots.html">
