@@ -71,6 +71,11 @@
 <titleabbrev>MySQL Plugin Project</titleabbrev>
 <summary>MySQL Plugin Project Opensource Project</summary>
 </tocentry>
+<tocentry page="webpage.project.php.xml" id="php" dir="home/" filename="project.php.html">
+<title>The PHP Extension Community Library</title>
+<titleabbrev>PHP Extension Project</titleabbrev>
+<summary>The PHP Extension Community Library</summary>
+</tocentry>
 </tocentry>
 <tocentry page="webpage.screenshots.xml" id="screenshots" dir="home/" filename="screenshots.html">
 <title>Screenshots</title>

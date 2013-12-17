@@ -39,6 +39,7 @@
 			<tocentry page="webpage.deployment.git.xml" filename="deployment.git.html" />
 			<tocentry page="webpage.deployment.svn.xml" filename="deployment.svn.html" />
 			<tocentry page="webpage.project.mysql.xml" filename="project.mysql.html" />
+			<tocentry page="webpage.project.php.xml" filename="project.php.html" />
 		</tocentry>
 
 		<tocentry page="webpage.screenshots.xml" dir="home" filename="screenshots.html">

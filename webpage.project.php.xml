@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<webpage id="mysql">
-	<config param="desc" value="MySQL Plugin Project" />
+<webpage id="php">
+	<config param="desc" value="PHP Plugin Project" />
 	<config param="rcsdate" value="$Date: 2012-12-07 23:27:57 +0800 (Fri, 07 Dec 2012) $" />
 	<head>
-		<title>MySQL Plugin Project</title>
-		<titleabbrev>MySQL Plugin Project</titleabbrev>
-		<summary>MySQL Plugin Project Opensource Project</summary>
+		<title>The PHP Extension Community Library</title>
+		<titleabbrev>PHP Extension Project</titleabbrev>
+		<summary>The PHP Extension Community Library</summary>
 	</head>
 
 	<webtoc />
 
 	<section>
-		<title>MySQL Pipes (FIFOs) Plugin</title>
-		<ulink url="https://github.com/netkiller/mysql-fifo-plugin" />
+		<title>SafeNet for PHP Extension</title>
+		<ulink url="https://github.com/netkiller/safenet-php" />
 
-		<para>git clone <ulink url="https://github.com/netkiller/mysql-fifo-plugin.git" /></para>
-		<para><ulink url="../journal/mysql.plugin.fifo.html">《数据库进程间通信解决方案》</ulink></para>
+		<para>git clone <ulink url="https://github.com/netkiller/safenet-php.git" /></para>
+		<para></para>
 	</section>
-
+<!-- 
 	<webtoc />
 
 	<section>
@@ -30,8 +30,9 @@
 	<webtoc />
 
 	<section>
-		<title>SafeNet for MySQL Plugin</title>
+		<title></title>
 		<para><ulink url="https://github.com/netkiller/safenet-mysql" /></para>
 		<para>git clone <ulink url="https://github.com/netkiller/safenet-mysql.git" /></para>
 	</section>	
+ -->	
 </webpage>

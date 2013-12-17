@@ -40,7 +40,7 @@
 				<para><ulink url="../journal/db.restore.html">数据库恢复方案</ulink> [2013-09-27]</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/mysql.plugin.fifo.html">数据库进程间通信解决方案</ulink> [2013-09-27]</para>
+				<para><ulink url="../journal/mysql.plugin.fifo.html">数据库进程间通信解决方案</ulink> [2013-12-16]</para>
 			</listitem>			
 		</orderedlist>
 	</section>
