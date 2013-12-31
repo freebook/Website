@@ -9,7 +9,17 @@
 	</head>
 
 	<webtoc />
+	
+	<section>
+		<title>MySQL ZeroMQ Plugin</title>
+		<ulink url="https://github.com/netkiller/mysql-zmq-plugin" />
 
+		<para>git clone <ulink url="https://github.com/netkiller/mysql-zmq-plugin.git" /></para>
+		<para><ulink url="../journal/mysql.plugin.fifo.html">《数据库进程间通信解决方案》</ulink>的MQ实现版本</para>
+	</section>
+
+	<webtoc />
+	
 	<section>
 		<title>MySQL Pipes (FIFOs) Plugin</title>
 		<ulink url="https://github.com/netkiller/mysql-fifo-plugin" />
