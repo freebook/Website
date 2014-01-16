@@ -164,11 +164,17 @@ Backpack 60L
 				<para>金龟村--土地庙</para>
 			</listitem>
 			<listitem>
+				<para>大南山</para>
+			</listitem>
+			<listitem>
 				<para>笔架山</para>
 			</listitem>
 			<listitem>
 				<para>莲花山</para>
-			</listitem>			
+			</listitem>	
+			<listitem>
+				<para>银湖山</para>
+			</listitem>		
 		</orderedlist>
 		<orderedlist>
 			<title>露营足迹</title>
@@ -205,6 +211,18 @@ Backpack 60L
 			<listitem>
 				<para>西冲露营</para>
 			</listitem>
+			<listitem>
+				<para>桔钩沙露营</para>
+			</listitem>
+			<listitem>
+				<para>金沙湾露营</para>
+			</listitem>
+			<listitem>
+				<para>大/小梅沙露营</para>
+			</listitem>
+			<listitem>
+				<para>溪冲工人度假村</para>
+			</listitem>
 		</orderedlist>
 		<orderedlist>
 			<title>徒步足迹</title>
@@ -217,6 +235,9 @@ Backpack 60L
 		</orderedlist>
 		<orderedlist>
 			<title>骑行足迹</title>
+			<listitem>
+				<para>深圳--珠海（深圳特区报出发至珠海中山大学）</para>
+			</listitem>
 			<listitem>
 				<para>银湖山--银湖汽车站</para>
 			</listitem>
