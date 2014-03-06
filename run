@@ -7,7 +7,9 @@ WEBSITE=/usr/share/xml/docbook/stylesheet/nwalsh/website
 XML_CATALOG_FILES=/usr/share/xml/docbook/stylesheet/nwalsh/catalog.xml \
 xsltproc --output autolayout.xml ${WEBSITE}/autolayout.xsl layout.xml
 #xsltproc --stringparam output-root $HTDOCS $WEBSITE/chunk-tabular.xsl autolayout.xml
-xsltproc --stringparam output-root $HTDOCS template.xsl autolayout.xml
+xsltproc --stringparam output-root $HTDOCS \
+	--stringparam chunker.output.encoding utf-8 \
+	template.xsl autolayout.xml
 #       --stringparam  collect.xref.targets yes
 if [ ! -d ${HTDOCS}/images ]; then
 	mkdir -p ${HTDOCS}/images

@@ -7,17 +7,21 @@
 <!-- Replace the text in these templates with whatever you want -->
 <!-- to appear in the respective location on the home page. -->
 
+<xsl:output method="xhtml"
+            encoding="UTF-8"
+            indent="no"/>
+
 <xsl:template name="home.navhead">
 	<xsl:text>
 	</xsl:text>
 
-		<a href="http://netkiller.github.io/">Home</a> |
-        <a href="http://netkiller.sourceforge.net/">Mirror</a> |
-        <a href="http://netkiller.sourceforge.net/">繁体中文</a> |
-        <a href="/search.html">Search</a> |
-        <a href="http://netkiller-github-com.iteye.com/">ITEYE 博客</a> |
-        <a href="http://my.oschina.net/neochen/">OSChina 博客</a> |
-        <a href="http://rline.blog.51cto.com/">51CTO 博客</a> |
+	<a href="http://netkiller.github.io/">Home</a> |
+    <a href="http://netkiller.sourceforge.net/">Mirror</a> |
+    <a href="http://netkiller.sourceforge.net/">繁体中文</a> |
+    <a href="/search.html">Search</a> |
+    <a href="http://netkiller-github-com.iteye.com/">ITEYE 博客</a> |
+    <a href="http://my.oschina.net/neochen/">OSChina 博客</a> |
+    <a href="http://rline.blog.51cto.com/">51CTO 博客</a> |
 
 	<a href="http://qun.qzone.qq.com/group#!/128659835/home">QQ群：128659835</a> |
 	<a href="mailto:netkiller@users.sourceforge.net">Email</a>
