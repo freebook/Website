@@ -11,6 +11,8 @@
             encoding="UTF-8"
             indent="no"/>
 
+<xsl:param name="chunker.output.encoding">utf-8</xsl:param>
+
 <xsl:template name="home.navhead">
 	<xsl:text>
 	</xsl:text>
