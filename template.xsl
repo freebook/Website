@@ -165,6 +165,8 @@ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " 
 document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F997cd4a7320a82d72cb74d179118f697' type='text/javascript'%3E%3C/script%3E"));
 </script>
 
+<script type="text/javascript" src="/js/q.js"></script>
+
 </xsl:template>
 
 </xsl:stylesheet>

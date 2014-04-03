@@ -62,94 +62,26 @@
 
 		</note>
 		<blockquote>
-		<simplelist type='horiz' columns='2'>
 
-			<member>
-				<ulink url="architect/index.html">Netkiller Architect 手札</ulink>
-			</member>
-			<member>
-				<ulink url="developer/index.html">Netkiller Developer 手札</ulink>
-			</member>
-			<member>
-				<ulink url="testing/index.html">Netkiller Testing 手札</ulink>
-			</member>
-			<member>
-				<ulink url="cryptography/index.html">Netkiller Cryptography 手札</ulink>
-			</member>
-			<member>
-				<ulink url="version/index.html">Netkiller Version 手札</ulink>
-			</member>
+		<screen>
+《Netkiller 系列 手札》是一套免费系列电子书，netkiller 是nickname 从1999 开使用至今，“手札” 是札记，手册的含义。
 
-			<member>
-				<ulink url="linux/index.html">Netkiller Linux 手札</ulink>
-			</member>
-			<member>
-				<ulink url="debian/index.html">Netkiller Debian 手札</ulink>
-			</member>
-			<member>
-				<ulink url="centos/index.html">Netkiller CentOS 手札</ulink>
-			</member>
-			<member>
-				<ulink url="freebsd/index.html">Netkiller FreeBSD 手札</ulink>
-			</member>
-			<member>
-				<ulink url="security/index.html">Netkiller Security 手札</ulink>
-			</member>
+2003年之前我还是以文章形式在BBS上发表各类技术文章，后来发现文章不够系统，便尝试写长篇技术文章加上章节目录等等。随着内容增加，不断修订，开始发布第一版，第二版......
 
-			<member>
-				<ulink url="php/index.html">Netkiller PHP 手札</ulink>
-			</member>
+IT知识变化非常快，而且具有时效性，这样发布非常混乱，经常有读者发现第一版例子已经过时，但他不知道我已经发布第二版。
 
-			<member>
-				<ulink url="www/index.html">Netkiller Web 手札</ulink>
-			</member>
-			<member>
-				<ulink url="monitoring/index.html">Netkiller Monitoring 手札</ulink>
-			</member>
-			<member>
-				<ulink url="storage/index.html">Netkiller Storage 手札</ulink>
-			</member>
-			<member>
-				<ulink url="mail/index.html">Netkiller Mail 手札</ulink>
-			</member>
+我便有一种想法，始终维护一个文档，不断更新，使他保持较新的版本不过时。
 
-			<member>
-				<ulink url="database/index.html">Netkiller Database 手札</ulink>
-			</member>
-			<member>
-				<ulink url="postgresql/index.html">Netkiller PostgreSQL 手札</ulink>
-			</member>
-			<member>
-				<ulink url="mysql/index.html">Netkiller MySQL 手札</ulink>
-			</member>
-			<member>
-				<ulink url="nosql/index.html">Netkiller NoSQL 手札</ulink>
-			</member>
-			<member>
-				<ulink url="ldap/index.html">Netkiller LDAP 手札</ulink>
-			</member>
+第一部电子书是《PostgreSQL 实用实例参考》开始我使用 Microsoft Office Word 慢慢随着文档尺寸增加 Word 开始表现出力不从心。
 
-			<member>
-				<ulink url="cisco/index.html">Netkiller Cisco IOS 手札</ulink>
-			</member>
-			<member>
-				<ulink url="network/index.html">Netkiller Network 手札</ulink>
-			</member>
-			<member>
-				<ulink url="multimedia/index.html">Netkiller Multimedia 手札</ulink>
-			</member>
-			<member>
-				<ulink url="shell/index.html">Netkiller Shell 手札</ulink>
-			</member>
-			<member>
-				<ulink url="docbook/index.html">Netkiller Docbook 手札</ulink>
-			</member>
-<!--
-			<member>
-				<ulink url="management/index.html">Netkiller Management 手札</ulink>
-			</member>
- -->
-		</simplelist>
+我看到PostgreSQL 中文手册使用SGML编写文档，便开始学习Docbook SGML。使用Docbook写的第一部电子书是《Netkiller Postfix Integrated Solution》这是Netkiller 系列手札的原型。
+
+至于“手札”一词的来历，是因为我爱好摄影，经常去一个台湾摄影网站，名字就叫“摄影家手札”。
+
+由于硬盘损坏数据丢失 《Netkiller Postfix Integrated Solution》 的 SGML文件已经不存在; Docbook SGML存在很多缺陷UTF-8支持不好，转而使用Docbook XML.
+		</screen>
+		<para>项目主页<ulink url="http://freebook.github.io/" /></para>
+
 		</blockquote>
 	</member>
 
