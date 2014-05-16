@@ -25,6 +25,9 @@
 			<listitem>
 				<para><ulink url="../journal/image.html">Image 优化方案</ulink>[2014-04-21]</para>
 			</listitem>
+			<listitem>
+				<para><ulink url="../journal/mysql.parallel.html">MySQL 大数据操作注意事项</ulink>[2014-05-16]</para>
+			</listitem>
 		</orderedlist>
 	</section>
 	
