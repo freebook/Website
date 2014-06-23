@@ -33,7 +33,7 @@
 	<xsl:text>
 	</xsl:text>
 <!-- Google CSE Search Box Begins -->
-
+<!-- 
   <form id="searchbox_008589143145807374698:f5uprauilyy" action="/search.html">
 
     <input type="hidden" name="cx" value="008589143145807374698:f5uprauilyy" />
@@ -43,7 +43,7 @@
     <input name="siteurl" type="hidden" value="http://netkiller.sourceforge.net/" />
   </form>
   <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_008589143145807374698%3Af5uprauilyy"></script>
-
+ -->
 <!-- Google CSE Search Box Ends -->
 </xsl:template>
 
