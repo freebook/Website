@@ -15,6 +15,9 @@
 		
 		<orderedlist>
 			<listitem>
+				<para><ulink url="../journal/mysql.security.html">数据库记录安全解决方案</ulink>[2014-08-19]</para>
+			</listitem>
+			<listitem>
 				<para><ulink url="../journal/token.html">Linux Token Auth</ulink>[2014-08-01]</para>
 			</listitem>
 			<listitem>
