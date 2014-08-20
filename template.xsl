@@ -122,6 +122,8 @@
 
 <xsl:template name="webpage.footer">
 
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=36578021" charset="UTF-8"></script> 
+
 <!-- Baidu Button BEGIN -->
     <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
         <a class="bds_fbook"></a>
