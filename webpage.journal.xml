@@ -15,6 +15,9 @@
 		
 		<orderedlist>
 			<listitem>
+				<para><ulink url="../journal/php.daemon.html">PHP高级编程之守护进程</ulink>[2014-09-01]</para>
+			</listitem>
+			<listitem>
 				<para><ulink url="../journal/mysql.security.html">数据库记录安全解决方案</ulink>[2014-08-19]</para>
 			</listitem>
 			<listitem>
@@ -27,7 +30,7 @@
 				<para><ulink url="../journal/cache.html">Web Cache</ulink>[2014-02-28]</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/thread.php.html">PHP 高级编程之多线程</ulink>[2014-03-12]</para>
+				<para><ulink url="../journal/php.thread.html">PHP 高级编程之多线程</ulink>[2014-03-12]</para>
 			</listitem>
 			<listitem>
 				<para><ulink url="../journal/image.html">Image 优化方案</ulink>[2014-04-21]</para>
