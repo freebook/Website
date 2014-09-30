@@ -12,8 +12,10 @@
 	
 	<section>
 		<title>2014</title>
-		
 		<orderedlist>
+			<listitem>
+				<para><ulink url="../journal/scheduler.html">分布式计划任务设计与实现</ulink>[2014-09-30]</para>
+			</listitem>
 			<listitem>
 				<para><ulink url="../journal/cvs.html">CVS开发框架</ulink>[2014-09-28]</para>
 			</listitem>
