@@ -31,8 +31,6 @@
 
 	<section>
 		<title>Netkiller 系列电子书</title>
-<simplelist type='horiz' columns='2'>
-	<member>
 		<note>
 			<title>转载请与作者联系，同时请务必标明文章原始出处和作者信息及本声明。</title>
 
@@ -81,19 +79,8 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 由于硬盘损坏数据丢失 《Netkiller Postfix Integrated Solution》 的 SGML文件已经不存在; Docbook SGML存在很多缺陷UTF-8支持不好，转而使用Docbook XML.
 		</screen>
 		<para>项目主页<ulink url="http://freebook.github.io/" /></para>
-
+		<para><ulink url="history/index.html">电子书更新记录</ulink></para>
 		</blockquote>
-	</member>
-
-			<member>
-				<ulink url="home/technology.html">
-					<graphic  format="png" fileref="images/netkiller-ebook-mini.jpg" srccredit="neo" width="250"/>
-				</ulink>
-				<para></para>
-				<para><ulink url="history/index.html">电子书更新记录</ulink></para>
-			</member>
-
-</simplelist>
 
 	</section>
 	<section>

@@ -7,9 +7,7 @@
 <!-- Replace the text in these templates with whatever you want -->
 <!-- to appear in the respective location on the home page. -->
 
-<xsl:output method="xhtml"
-            encoding="UTF-8"
-            indent="no"/>
+<xsl:output method="xhtml" encoding="UTF-8" indent="no"/>
 
 <xsl:param name="chunker.output.encoding">utf-8</xsl:param>
 
@@ -17,16 +15,14 @@
 	<xsl:text>
 	</xsl:text>
 
-	<a href="http://netkiller.github.io/">Home</a> |
-    <a href="http://netkiller.sourceforge.net/">Mirror</a> |
+	<a href="http://netkiller.github.io/">简体中文</a> |
     <a href="http://netkiller.sourceforge.net/">繁体中文</a> |
     <a href="/search.html">Search</a> |
     <a href="http://netkiller-github-com.iteye.com/">ITEYE 博客</a> |
     <a href="http://my.oschina.net/neochen/">OSChina 博客</a> |
-    <a href="http://rline.blog.51cto.com/">51CTO 博客</a> |
+    <a href="https://www.facebook.com/bg7nyt">Facebook</a> |
     <a href="http://cn.linkedin.com/in/netkiller/">Linkedin</a> |
-	<a href="http://qun.qzone.qq.com/group#!/128659835/home">QQ群：128659835</a> |
-	<a href="mailto:netkiller@users.sourceforge.net">Email</a>
+	<a href="mailto:netkiller@msn.com">Email</a>
 </xsl:template>
 
 <xsl:template name="home.navhead.upperright">
@@ -123,38 +119,6 @@
 <xsl:template name="webpage.footer">
 
 <script type="text/javascript" src="http://tajs.qq.com/stats?sId=36578021" charset="UTF-8"></script> 
-
-<!-- Baidu Button BEGIN -->
-    <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
-        <a class="bds_fbook"></a>
-        <a class="bds_twi"></a>
-        <a class="bds_ms"></a>
-        <a class="bds_msn"></a>
-        <a class="bds_buzz"></a>
-        <a class="bds_linkedin"></a>
-        <a class="bds_deli"></a>
-		<a class="bds_qzone"></a>
-        <a class="bds_qq"></a>
-        <a class="bds_tqq"></a>
-        <a class="bds_tqf"></a>
-        <a class="bds_tsina"></a>
-        <a class="bds_baidu"></a>
-        <a class="bds_renren"></a>
-        <a class="bds_t163"></a>
-        <a class="bds_tfh"></a>
-        <a class="bds_douban"></a>
-        <a class="bds_hi"></a>
-        <a class="bds_tieba"></a>
-        <a class="bds_tsohu"></a>
-        <span class="bds_more">更多</span>
-		<a class="shareCount"></a>
-    </div>
-<script type="text/javascript" id="bdshare_js" data="type=tools" ></script>
-<script type="text/javascript" id="bdshell_js"></script>
-<script type="text/javascript">
-	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
-</script>
-<!-- Baidu Button END -->
 
 <script type="text/javascript">
 var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
