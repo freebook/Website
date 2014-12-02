@@ -3,7 +3,7 @@
                 version='1.0'>
 
 <xsl:import href="/usr/share/xml/docbook/stylesheet/nwalsh/website/chunk-tabular.xsl"/>
-
+<!-- <xsl:import href="/usr/share/xml/docbook/stylesheet/nwalsh/website/chunk-website.xsl"/> -->
 <!-- Replace the text in these templates with whatever you want -->
 <!-- to appear in the respective location on the home page. -->
 
@@ -14,7 +14,6 @@
 <xsl:template name="home.navhead">
 	<xsl:text>
 	</xsl:text>
-
 	<a href="http://netkiller.github.io/">简体中文</a> |
     <a href="http://netkiller.sourceforge.net/">繁体中文</a> |
     <a href="/search.html">Search</a> |
