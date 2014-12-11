@@ -51,6 +51,11 @@
 <titleabbrev>PDF Ebook</titleabbrev>
 <summary>Development Language</summary>
 </tocentry>
+<tocentry page="webpage.chm.xml" id="chm" dir="home/" filename="download.chm.html">
+<title>CHM ebook Download</title>
+<titleabbrev>CHM Ebook</titleabbrev>
+<summary>CHM ebook Download</summary>
+</tocentry>
 </tocentry>
 <tocentry page="webpage.project.xml" id="project" dir="home/" filename="project.html">
 <title>Project</title>
