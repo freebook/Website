@@ -6,25 +6,30 @@
 </head>
 <para>Personal Amateur Radiostations of P.R.China.</para>
 <webtoc/>
-
 <para>ZONE <quote>CQ24 ITU44</quote> ShenZhen, China.</para>
+<para><para>12B Brooky Hills,Longhua new division, Shenzhen City,	Guangdong provincial, China</para></para>
 <para>Best Regards, VY 73! OP. BG7NYT</para>
 <!--
 <para>QTH: FLAT XXX, BLOCK XXX,236 MEIBAN ROAD,BROOKY HILLS,BAOAN DISTRICT,SHENZHEN,CHINA</para>
 -->
 <section id="equipment">
-	<title>My Radio Equipment - 144/430Mhz</title>
+	<title>Personal Amateur Radiostations of P.R.China.</title>
 	<variablelist>
-	<varlistentry><term></term>
-		<listitem><para>Yaesu FT-7800R Vehicle</para></listitem>
-		<listitem><para>Yaesu FT-60R Handheld</para></listitem>
-		<listitem><para>Motorola MOTOTRBO XIR P8668 (Handheld)</para></listitem>
-		<listitem><para>Nagoya MAG-79EL-3W Vehicle Antenna</para></listitem>
-		<listitem><para>Nagoya NA-770R Vehicle Antenna</para></listitem>
-		<listitem><para>Nagoya NA-771 Handheld Antenna</para></listitem>
-		<listitem><para>Nagoya NA-773 Handheld Antenna</para></listitem>
-		<listitem><para>DIY 8EL Yagi</para></listitem>
-	</varlistentry>
+		<title>My Radio Equipment - 144/430Mhz</title>
+		<varlistentry><term>Handheld</term>
+			<listitem><para>Yaesu FT-60R Handheld</para></listitem>
+			<listitem><para>Motorola MOTOTRBO XIR P8668 (Handheld)</para></listitem>
+			<listitem><para>Nagoya NA-771 Handheld Antenna</para></listitem>
+			<listitem><para>Nagoya NA-773 Handheld Antenna</para></listitem>
+			<listitem><para>DIY 8EL Yagi</para></listitem>
+		</varlistentry>
+		<varlistentry><term>Vehicle</term>
+			<listitem><para>Yaesu FT-7800R Vehicle</para></listitem>
+			<listitem>Kenwood TM-231a</listitem>
+			<listitem><para>Nagoya MAG-79EL-3W Vehicle Antenna</para></listitem>
+			<listitem><para>Nagoya NA-770R Vehicle Antenna</para></listitem>
+			<listitem><para>DIY 8EL Yagi</para></listitem>
+		</varlistentry>
 	</variablelist>
 </section>
 
