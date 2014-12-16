@@ -36,7 +36,7 @@ website:
 		--stringparam chunker.output.encoding utf-8 \
 		template.xsl autolayout.xml
 	@mkdir -p ${PUBLIC_HTML}/images
-	@cp stylesheet.css $PUBLIC_HTML
+	@cp stylesheet.css $(PUBLIC_HTML)
 	@rsync -au --delete --exclude=.svn graphics ${PUBLIC_HTML}/
 	@rsync -au --delete --exclude=.svn images ${PUBLIC_HTML}/
 	@rsync -au --delete --exclude=.svn html/* ${PUBLIC_HTML}/	

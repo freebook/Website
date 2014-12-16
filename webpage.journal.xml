@@ -12,8 +12,10 @@
 	
 	<section>
 		<title>2014</title>
-		
 		<orderedlist>
+			<listitem>
+				<para><ulink url="../journal/log.html">日志中心</ulink>[2014-12-16]</para>
+			</listitem>
 			<listitem>
 				<para><ulink url="../journal/trader.html">贵金属交易系统异地灾备方案</ulink>[2014-12-2]</para>
 			</listitem>
@@ -61,10 +63,6 @@
 	<section>
 		<title>2013</title>
 		<orderedlist>
-			<listitem>
-				<para><ulink url="../journal/log.html">WEB日志导入到数据库中</ulink>[2013-03-19]</para>
-			</listitem>
-
 			<listitem>
 				<para><ulink url="../journal/rpm.html">怎样制作RPM包</ulink>[2013-04-18] </para>
 			</listitem>
