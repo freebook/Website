@@ -14,6 +14,9 @@
 		<title>2014</title>
 		<orderedlist>
 			<listitem>
+				<ulink url="../journal/mysql.struct.html">数据库结构版本控制</ulink>[2014-12-17]
+			</listitem>
+			<listitem>
 				<para><ulink url="../journal/log.html">日志中心</ulink>[2014-12-16]</para>
 			</listitem>
 			<listitem>
