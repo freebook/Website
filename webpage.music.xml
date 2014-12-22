@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd">
+<webpage id="music">
+	<config param="desc" value="LATEST NEWS / UPCOMING EVENTS" />
+	<config param="rcsdate" value="$Date: 2013-04-27 15:21:58 +0800 (Sat, 27 Apr 2013) $" />
+	<head>
+		<title>Music</title>
+		<titleabbrev>Music</titleabbrev>
+		<summary>Netkiller Music 手札</summary>
+	</head>
+	<para></para>
+	<webtoc />
+
+	<section>
+		<title>开源乐谱</title>
+		<para>开源乐谱基于 CC license 发行</para>
+		<orderedlist>
+			<listitem>BY - 转载，引用请注明原作者</listitem>
+			<listitem>NC - 不能用于盈利</listitem>
+			<listitem>SA 转载后衍生版本需要继承 BY-NC-SA</listitem>
+		</orderedlist>
+	</section>
+</webpage>

@@ -47,7 +47,13 @@
 		<tocentry page="webpage.screenshots.xml" dir="home" filename="screenshots.html">
 			<tocentry page="webpage.solution.xml" filename="solution.html"/> <!-- revisionflag="" -->
 		</tocentry>
+		
+		<tocentry page="webpage.music.xml" dir="home" filename="music.html">
+			<tocentry page="webpage.piano.xml" filename="music.piano.html" />
+		</tocentry>
+		
 		<tocentry page="webpage.xml.xml" dir="home" filename="xml.html" />
+		
 		<tocentry page="webpage.donations.xml" dir="home" filename="donations.html" />
 		<tocentry page="webpage.about.xml" dir="home" filename="about.html">
 			<tocentry page="webpage.sport.xml" filename="sport.html" />
