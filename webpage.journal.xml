@@ -13,6 +13,10 @@
 	<section>
 		<title>2014</title>
 		<orderedlist>
+		
+			<listitem>
+				<ulink url="../journal/shell.history.html">Shell 历史记录异地留痕审计与监控</ulink>[2014-12-24]
+			</listitem>
 			<listitem>
 				<ulink url="../journal/mysql.struct.html">数据库结构版本控制</ulink>[2014-12-17]
 			</listitem>
