@@ -76,6 +76,7 @@
 
    <xsl:template name="user.head.content">
 
+<meta name="google-translate-customization" content="c6ca270b7421c69-7f96094f563bd60b-g019f6241168b32de-13"></meta>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -99,6 +100,13 @@
 	</blockquote>
 	<div align="center">
 	<img src="/images/barcode.png" width="180" />
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'zh-CN', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-11694057-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 	</div>
 
 </xsl:template>
