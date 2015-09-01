@@ -91,15 +91,18 @@
    </xsl:template>
 
 <xsl:template name="navtoc">
+	<div align="center">
+	<p style="color:white">Netkiller 微信订阅号 <br /> <img src="/images/weixin.jpg" width="180" /></p>
+	
+	
 
-	<blockquote>
 	<!--
+	<blockquote>
+	</blockquote>
+		<img src="/images/barcode.png" width="180" />
 		<a href="http://sourceforge.net/donate/index.php?group_id=306976"><img src="http://images.sourceforge.net/images/project-support.jpg" width="88" height="32" border="0" alt="Support This Project" /> </a>
 	 -->
 		<div id="clustrmaps-widget"></div><script type="text/javascript">var _clustrmaps = {'url' : 'http://netkiller.github.io', 'user' : 1107643, 'server' : '2', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2013-08-14', 'lang' : 'en', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www2.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();</script><noscript><a href="http://www2.clustrmaps.com/user/87410e6bb"><img src="http://www2.clustrmaps.com/stats/maps-no_clusters/netkiller.github.io-thumb.jpg" alt="Locations of visitors to this page" /></a></noscript>
-	</blockquote>
-	<div align="center">
-	<img src="/images/barcode.png" width="180" />
 
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
@@ -107,6 +110,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
+		
 	</div>
 
 </xsl:template>
