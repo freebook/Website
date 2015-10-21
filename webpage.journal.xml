@@ -18,6 +18,9 @@
 			<listitem>
 				<para><ulink url="../journal/php.mq.html">PHP高级编程之消息队列</ulink>[2015-10-19]</para>
 			</listitem>
+			<listitem>
+				<para><ulink url="../journal/php.daemon.html">PHP高级编程之守护进程</ulink>[2015-10-21]</para>
+			</listitem>
 		</orderedlist>
 	</section>
 	<section>
@@ -53,9 +56,7 @@
 			<listitem>
 				<para><ulink url="../journal/glusterfs.html">Glusterfs 安装于配置</ulink>[2014-09-23]</para>
 			</listitem>
-			<listitem>
-				<para><ulink url="../journal/php.daemon.html">PHP高级编程之守护进程</ulink>[2014-09-01]</para>
-			</listitem>
+			
 			<listitem>
 				<para><ulink url="../journal/mysql.security.html">数据库记录安全解决方案</ulink> | <ulink url="../journal/mysql.security.en.html">[EN]</ulink>[2014-08-19]</para>
 			</listitem>
