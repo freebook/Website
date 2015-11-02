@@ -6,7 +6,7 @@
 <!-- <xsl:import href="/usr/share/xml/docbook/stylesheet/nwalsh/website/chunk-website.xsl"/> -->
 <!-- Replace the text in these templates with whatever you want -->
 <!-- to appear in the respective location on the home page. -->
-
+<!-- /usr/share/xml/docbook/custom/website/2.5.0/xsl/ -->
 <xsl:output method="xhtml" encoding="UTF-8" indent="no"/>
 
 <xsl:param name="chunker.output.encoding">utf-8</xsl:param>
@@ -102,26 +102,26 @@
 		<img src="/images/barcode.png" width="180" />
 		<a href="http://sourceforge.net/donate/index.php?group_id=306976"><img src="http://images.sourceforge.net/images/project-support.jpg" width="88" height="32" border="0" alt="Support This Project" /> </a>
 	 -->
-		<div id="clustrmaps-widget"></div><script type="text/javascript">var _clustrmaps = {'url' : 'http://netkiller.github.io', 'user' : 1107643, 'server' : '2', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2013-08-14', 'lang' : 'en', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www2.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();</script><noscript><a href="http://www2.clustrmaps.com/user/87410e6bb"><img src="http://www2.clustrmaps.com/stats/maps-no_clusters/netkiller.github.io-thumb.jpg" alt="Locations of visitors to this page" /></a></noscript>
+	    
+	<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=r5HG&amp;d=I4PGSAlBx_RjcBKmpZgR4WuU1yHy-Q10AKQe4quwDk4"></script>
+			
+	</div>
+
+</xsl:template>
+
+<xsl:template name="hspacer">
+<td width="10"><![CDATA[    ]]></td>
+</xsl:template>
+
+<xsl:template name="webpage.table.footer">
+<tr>
+<td>
 
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'zh-CN', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-11694057-1'}, 'google_translate_element');
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-		
-	</div>
-
-</xsl:template>
-
-<xsl:template name="hspacer">
-<td><![CDATA[    ]]></td>
-</xsl:template>
-
-<xsl:template name="webpage.table.footer">
-<tr>
-<td>
 
 </td>
 </tr>
