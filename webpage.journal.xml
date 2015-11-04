@@ -24,6 +24,10 @@
 			<listitem>
 				<para><ulink url="../journal/ssi.html">SSL证书卸载与SSI高级应用</ulink></para>
 			</listitem>
+			<listitem>
+				<para><ulink url="../journal/os.systemd.html">跟我学 systemd </ulink></para>
+			</listitem>
+			
 		</orderedlist>
 	</section>
 	<section>
