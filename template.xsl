@@ -21,7 +21,18 @@
     <a href="http://my.oschina.net/neochen/">OSChina 博客</a> |
     <a href="https://www.facebook.com/bg7nyt">Facebook</a> |
     <a href="http://cn.linkedin.com/in/netkiller/">Linkedin</a> |
-	<a href="mailto:netkiller@msn.com">Email</a>
+	<a href="mailto:netkiller@msn.com">Email</a> <br />
+	
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 横幅 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4741661116327131"
+     data-ad-slot="9160793600"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>	
+	
 </xsl:template>
 
 <xsl:template name="home.navhead.upperright">
@@ -93,8 +104,6 @@
 <xsl:template name="navtoc">
 	<div align="center">
 	<p style="color:white">Netkiller 微信订阅号 <br /> <img src="/images/weixin.jpg" width="180" /></p>
-	
-	
 
 	<!--
 	<blockquote>
@@ -102,9 +111,11 @@
 		<img src="/images/barcode.png" width="180" />
 		<a href="http://sourceforge.net/donate/index.php?group_id=306976"><img src="http://images.sourceforge.net/images/project-support.jpg" width="88" height="32" border="0" alt="Support This Project" /> </a>
 	 -->
-	    
+
+	<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=r5HG&amp;d=9mi5r_kkDC8uxG8HuY3p4-2qgeeVypAK9vMD-2P6BYM"></script>
+	<!--     
 	<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=r5HG&amp;d=I4PGSAlBx_RjcBKmpZgR4WuU1yHy-Q10AKQe4quwDk4"></script>
-			
+	 -->		
 	</div>
 
 </xsl:template>
@@ -137,6 +148,18 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
 </script>
 
 <script type="text/javascript" src="/js/q.js"></script>
+
+
+
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Website Left Box -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-4741661116327131"
+     data-ad-slot="1637526802"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 </xsl:template>
 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webpage id="solution">
+	<config param="desc" value="Solution" />
+	<config param="rcsdate" value="$Date: 2012-02-01 13:40:49 +0800 (Wed, 01 Feb 2012) $" />
+	<head>
+		<title>software</title>
+		<titleabbrev>Open source software</titleabbrev>
+		<summary>Open source software</summary>
+		<keywords></keywords>
+	</head>
+	
+	<webtoc />
+	
+	<section>
+		<title>文件压缩</title>
+		<para><ulink url="http://www.7-zip.org/">7-Zip</ulink></para>
+	</section>
+	<section>
+		<title>屏幕截图</title>
+		<para>ShareX <ulink url="https://getsharex.com/" /></para>
+		<para><ulink url="http://sourceforge.net/projects/greenshot/">Greenshot</ulink></para>
+	</section>
+</webpage>

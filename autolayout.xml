@@ -56,6 +56,11 @@
 <titleabbrev>CHM Ebook</titleabbrev>
 <summary>CHM ebook Download</summary>
 </tocentry>
+<tocentry page="webpage.software.xml" id="solution" dir="home/" filename="download.software.html">
+<title>software</title>
+<titleabbrev>Open source software</titleabbrev>
+<summary>Open source software</summary>
+</tocentry>
 </tocentry>
 <tocentry page="webpage.project.xml" id="project" dir="home/" filename="project.html">
 <title>Project</title>
