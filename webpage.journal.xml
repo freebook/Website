@@ -30,6 +30,9 @@
 			<listitem>
 				<para><ulink url="../journal/phalcon.spring.html">Phalcon vs Spring</ulink></para>
 			</listitem>
+			<listitem>
+				<para><ulink url="../journal/java.ant.html">Apache Ant 实现自动化部署</ulink></para>
+			</listitem>
 		</orderedlist>
 	</section>
 	<section>
