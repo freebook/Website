@@ -17,7 +17,7 @@
 				<row>
 					<entry>
 						<graphic format="png" fileref="../images/netkiller-ebook.jpg"
-							srccredit="neo" width="400" />
+							srccredit="neo" width="300" />
 					</entry>
 					<entry>
 
@@ -41,6 +41,43 @@
 								<ulink url="../cryptography/index.html">Netkiller Cryptography 手札</ulink>
 							</member>
 
+							<member>
+								<ulink url="../database/index.html">Netkiller Database 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../postgresql/index.html">Netkiller PostgreSQL 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../mysql/index.html">Netkiller MySQL 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../nosql/index.html">Netkiller NoSQL 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../docbook/index.html">Netkiller Docbook 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../project/index.html">Netkiller Project 手札</ulink>
+							</member>
+
+							<member>
+								<ulink url="../multimedia/index.html">Netkiller Multimedia 手札</ulink>
+							</member>
+
+							<!-- <member> <ulink url="../management/index.html">Netkiller Management 
+								手札</ulink> </member> <member> <ulink url="../oss/index.html">Netkiller 开源软件 
+								手札</ulink> </member> -->
+							<member>
+								<ulink url="../perl/index.html">Netkiller Perl 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../radio/index.html">Netkiller Amateur Radio 手札</ulink>
+							</member>
+						</simplelist>
+
+					</entry>
+					<entry>
+						<simplelist>
 							<member>
 								<ulink url="../linux/index.html">Netkiller Linux 手札</ulink>
 							</member>
@@ -74,24 +111,7 @@
 							<member>
 								<ulink url="../mail/index.html">Netkiller Mail 手札</ulink>
 							</member>
-							<member>
-								<ulink url="../docbook/index.html">Netkiller Docbook 手札</ulink>
-							</member>
-							<member>
-								<ulink url="../project/index.html">Netkiller Project 手札</ulink>
-							</member>
-							<member>
-								<ulink url="../database/index.html">Netkiller Database 手札</ulink>
-							</member>
-							<member>
-								<ulink url="../postgresql/index.html">Netkiller PostgreSQL 手札</ulink>
-							</member>
-							<member>
-								<ulink url="../mysql/index.html">Netkiller MySQL 手札</ulink>
-							</member>
-							<member>
-								<ulink url="../nosql/index.html">Netkiller NoSQL 手札</ulink>
-							</member>
+
 							<member>
 								<ulink url="../ldap/index.html">Netkiller LDAP 手札</ulink>
 							</member>
@@ -104,21 +124,7 @@
 							<member>
 								<ulink url="../h3c/index.html">Netkiller H3C 手札</ulink>
 							</member>
-							<member>
-								<ulink url="../multimedia/index.html">Netkiller Multimedia 手札</ulink>
-							</member>
-
-							<!-- <member> <ulink url="../management/index.html">Netkiller Management 
-								手札</ulink> </member> <member> <ulink url="../oss/index.html">Netkiller 开源软件 
-								手札</ulink> </member> -->
-							<member>
-								<ulink url="../perl/index.html">Netkiller Perl 手札</ulink>
-							</member>
-							<member>
-								<ulink url="../radio/index.html">Netkiller Amateur Radio 手札</ulink>
-							</member>
 						</simplelist>
-
 					</entry>
 				</row>
 			</tbody>

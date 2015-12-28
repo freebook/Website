@@ -86,7 +86,7 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 	<section>
 		<title>系列电子书</title>
 		<blockquote>
-<simplelist type='horiz' columns='5'>
+<simplelist type='horiz' columns='3'>
 		<member>
 			<ulink url="../architect/index.html">Netkiller Architect 手札</ulink>
 		</member>
@@ -102,6 +102,9 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 		<member>
 			<ulink url="../testing/index.html">Netkiller Testing 手札</ulink>
 		</member>
+		<member>
+				<ulink url="../java/index.html">Netkiller Java 手札</ulink>
+		</member>		
 		<member>
 			<ulink url="../cryptography/index.html">Netkiller Cryptography 手札</ulink>
 		</member>

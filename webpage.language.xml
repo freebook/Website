@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <webpage id="language">
 	<config param="desc" value="language" />
-	<config param="rcsdate" value="$Date: 2013-07-18 11:27:47 +0800 (Thu, 18 Jul 2013) $" />
+	<config param="rcsdate"
+		value="$Date: 2013-07-18 11:27:47 +0800 (Thu, 18 Jul 2013) $" />
 	<head>
 		<title>Language</title>
 		<titleabbrev>Language</titleabbrev>
@@ -20,18 +21,10 @@
 			<listitem>
 				<ulink url="../python/index.html">Netkiller Python 手札</ulink>
 			</listitem>
-
-			<!--
 			<listitem>
-
+				<ulink url="../java/index.html">Netkiller Java 手札</ulink>
 			</listitem>
-			<listitem>
-
-			</listitem>
-			<listitem>
-
-			</listitem>
-			 -->
+			<!-- <listitem> </listitem> <listitem> </listitem> -->
 		</itemizedlist>
 	</section>
 
