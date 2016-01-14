@@ -174,7 +174,7 @@ Backpack 60L
 			</listitem>	
 			<listitem>
 				<para>银湖山</para>
-			</listitem>		
+			</listitem>
 		</orderedlist>
 		<orderedlist>
 			<title>露营足迹</title>
@@ -253,11 +253,14 @@ Backpack 60L
 			<listitem>
 				<para>福民电子成--茜坑水库--光明农场--大屏障森林公园</para>
 			</listitem>
+			<listitem>
+				<para>东莞松山湖</para>
+			</listitem>
 		</orderedlist>
 		<orderedlist>
-			<title>自驾轮迹</title>
+			<title>休闲自驾腐败轮迹</title>
 			<listitem>
-				<para>开平碉楼--赤坎倒楼</para>
+				<para>开平碉楼--赤坎碉楼</para>
 			</listitem>
 			<listitem>
 				<para>大鹏古城</para>
@@ -275,10 +278,16 @@ Backpack 60L
 				<para>惠州霞涌</para>
 			</listitem>
 			<listitem>
+				<para>会被巽寮湾（喜来登/金海湾嘉华）</para>
+			</listitem>
+			<listitem>
 				<para>深圳东部华侨城</para>
 			</listitem>
 			<listitem>
 				<para>英西峰林，洞天仙境，乳源大峡谷</para>
+			</listitem>
+			<listitem>
+				<para>东山码头，较场尾</para>
 			</listitem>
 		</orderedlist>
 		<orderedlist>
@@ -316,13 +325,26 @@ Backpack 60L
 			<listitem>
 				<para>河源紫金</para>
 			</listitem>
+			<listitem>
+				<para>贵州</para>
+			</listitem>
 		</orderedlist>
 		<orderedlist>
 			<title>境外足迹</title>
 			<para>韩国首尔，济州岛</para>
 			<para>香港西贡码头</para>
 			<para>香港南丫岛</para>
+			<para>澳门</para>
+			<para>泰国普吉岛</para>
 		</orderedlist>
+		<orderedlist>
+			<title>休闲路线</title>
+			<para>惠州叶挺故居</para>
+			<para>番禺百万葵园</para>
+			<para>广东长隆野生动物园</para>
+			<para>珠海长隆海洋王国</para>
+		</orderedlist>
+
 	</section>
 <!--
 	<section>
