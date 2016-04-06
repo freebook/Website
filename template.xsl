@@ -21,17 +21,8 @@
     <a href="http://my.oschina.net/neochen/">OSChina 博客</a> |
     <a href="https://www.facebook.com/bg7nyt">Facebook</a> |
     <a href="http://cn.linkedin.com/in/netkiller/">Linkedin</a> |
+    <a href="https://zb.oschina.net/profile/725072/market">作品与服务</a> |
 	<a href="mailto:netkiller@msn.com">Email</a> <br />
-	
-<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 横幅 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4741661116327131"
-     data-ad-slot="9160793600"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>	
 	
 </xsl:template>
 
