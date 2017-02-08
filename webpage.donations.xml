@@ -2,7 +2,7 @@
 <!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd">
 <webpage id="donations">
 	<head>
-		<title>Donations</title>
+		<title>打赏(Donations)</title>
 		<summary>支持这个项目(Support this project)</summary>
 	</head>
 	<para>支持这个项目(Support this project)</para>
@@ -11,8 +11,13 @@
 	<para>If you like this documents, please make a donation to support the
 		authors' efforts. Thank you! </para>
 	<section>
+		<title>微信（Wechat）</title>
+		<para><graphic  format="png" fileref="/images/wechat/459776289764510664.jpg" srccredit="neo" width="400"/></para>
+	</section>
+	<section>
 		<title>支付宝（Alipay）</title>
-		<para><ulink url="https://me.alipay.com/netkiller" /></para>
+		<para><graphic  format="png" fileref="/images/alipay/270435415900516688.jpg" srccredit="neo" width="400"/></para>
+		<!-- <para><ulink url="https://me.alipay.com/netkiller" /></para> -->
 	</section>
 	<section id="bank">
 		<title>Bank</title>

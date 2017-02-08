@@ -113,7 +113,7 @@
 <summary>RSS / ATOM</summary>
 </tocentry>
 <tocentry page="webpage.donations.xml" id="donations" dir="home/" filename="donations.html">
-<title>Donations</title>
+<title>打赏(Donations)</title>
 <summary>支持这个项目(Support this project)</summary>
 </tocentry>
 <tocentry page="webpage.about.xml" id="about" dir="home/" filename="about.html">

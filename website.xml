@@ -34,7 +34,7 @@
 		<note>
 			<title>转载请与作者联系，同时请务必标明文章原始出处和作者信息及本声明。</title>
 
-			<simplelist type='horiz' columns='2'>
+			<simplelist type='horiz' columns='4'>
 				<member>
 					<ulink url="http://creativecommons.org/">
 						<graphic format="png" fileref="graphics/by-nc-sa.png"
@@ -51,11 +51,13 @@
 						</member>
 					</simplelist>
 				</member>
-<!--
-				<member>
-					<graphic format="png" fileref="images/barcode.png" srccredit="neo" width="180" />
-				</member>
--->
+		<member>
+			<ulink url="/images/weixin.jpg"><graphic  format="png" fileref="/images/weixin.jpg" srccredit="neo" width="80" /></ulink>
+		</member>
+		<member>
+			<para>微信扫描二维码进入 Netkiller 微信订阅号 </para>
+			<para>QQ群：128659835 请注明“读者”</para>
+		</member>
 			</simplelist>
 
 		</note>
@@ -79,14 +81,15 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 由于硬盘损坏数据丢失 《Netkiller Postfix Integrated Solution》 的 SGML文件已经不存在; Docbook SGML存在很多缺陷UTF-8支持不好，转而使用Docbook XML.
 		</screen>
 		<para>项目主页<ulink url="http://freebook.github.io/" /></para>
-		<para><ulink url="history/index.html">电子书更新记录</ulink></para>
+		<para>2017-02-08 电子书将逐步迁移到 xhtml5</para>
+		<para><ulink url="http://172.16.0.1/download/2017/chm/%E3%80%8ANetkiller%20Linux%20%E6%89%8B%E6%9C%AD%E3%80%8B%5B%E9%B8%A1%E5%B9%B4%E8%BF%8E%E6%98%A5%E7%89%88%5D.chm">《Netkiller Linux 手札》[鸡年迎春版].chm</ulink></para>
 		</blockquote>
 
 	</section>
 	<section>
 		<title>系列电子书</title>
 		<blockquote>
-<simplelist type='horiz' columns='3'>
+<simplelist type='horiz' columns='4'>
 		<member>
 			<ulink url="../architect/index.html">Netkiller Architect 手札</ulink>
 		</member>
