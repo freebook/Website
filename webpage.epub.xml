@@ -10,10 +10,22 @@
 		<summary>Unix like OS Document</summary>
 		<keywords>Linux, FreeBSD, MySQL, PostgreSQL, Lighttpd, Nginx, DFS, Spring, Varnish</keywords>
 	</head>
-	<para>您可以通过Apple ipad iBook 阅读netkiller系列epub格式的电子书</para>
+	<para>您可以通过Apple iphone/ipad iBook 阅读netkiller系列epub格式的电子书</para>
 	<webtoc />
 	<section>
-		<title>Linux Documents Download (EPUB)</title>
+		<title>EPUB3 格式的电子书</title>
+		<para>点击浏览2017版电子书 <ulink url="http://www.netkiller.cn/download/2017/epub/" /></para>
+		<para>请使用 Safari 打开链接，然后再点击在ibook中打开。</para>
+		<para>有些电子书比较大超过20MB，请耐心等待，Safari 蓝色进度条会显示当前下载状态。</para>
+		<simplelist type='horiz' columns='2'>
+			<member>
+				<graphic  format="png" fileref="../images/epub/safari.jpg" srccredit="neo" width="500"/>
+			</member>
+			<member>
+				<graphic  format="png" fileref="../images/epub/ibook.jpg" srccredit="neo" width="500"/>
+			</member>
+		</simplelist>
+		<!-- 
 		<simplelist type='horiz' columns='4'>
 			<member>
 				<para>
@@ -66,9 +78,9 @@
 				</para>
 			</member>
 		</simplelist>
-
+		 -->
 	</section>
-
+<!-- 
 	<section>
 		<title>Developer Documents (EPUB)</title>
 		<para>Software Architecture</para>
@@ -150,13 +162,13 @@
 					<ulink url="../download/epub/Multimedia.epub">Netkiller Studio Linux 手札</ulink>
 				</para>
 			</member>
-<!--
+
 			<member>
 				<para>
 					<ulink url="../management/index.html">Netkiller Management 手札</ulink>
 				</para>
 			</member>
- -->
+
 			<member>
 				<para>
 					<ulink url="../download/epub/Docbook.epub">Netkiller Writer 手札</ulink>
@@ -171,4 +183,5 @@
 			</member>			
 		</simplelist>
 	</section>
+ -->	
 </webpage>
