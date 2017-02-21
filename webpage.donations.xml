@@ -19,14 +19,18 @@
 		<para><graphic  format="png" fileref="/images/alipay/270435415900516688.jpg" srccredit="neo" width="400"/></para>
 		<!-- <para><ulink url="https://me.alipay.com/netkiller" /></para> -->
 	</section>
+	<section id="paypal">
+		<title>PayPal Donations</title>
+		<para><ulink url="https://www.paypal.me/netkiller"/></para>
+	</section>
 	<section id="bank">
-		<title>Bank</title>
+		<title>银行(Bank)</title>
 		<para>招商银行(China Merchants Bank) 陈景峰 9555500000007459</para>
 	</section>
-	<section id="paypal">
+<!-- 	<section id="paypal">
 		<title>PayPal</title>
 		<para>
 			<ulink url="http://sourceforge.net/donate/index.php?group_id=306976">Donations</ulink>
 		</para>
-	</section>	
+	</section>	 -->
 </webpage>
