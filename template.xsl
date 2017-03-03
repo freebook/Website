@@ -16,12 +16,13 @@
 	</xsl:text>
 	<a href="http://netkiller.github.io/">简体中文</a> |
     <a href="http://netkiller.sourceforge.net/">繁体中文</a> |
-    <a href="/search.html">Search</a> |
+    <a href="//www.netkiller.cn/home/donations.html">打赏(Donations)</a> |
     <a href="http://netkiller-github-com.iteye.com/">ITEYE 博客</a> |
     <a href="http://my.oschina.net/neochen/">OSChina 博客</a> |
     <a href="https://www.facebook.com/bg7nyt">Facebook</a> |
     <a href="http://cn.linkedin.com/in/netkiller/">Linkedin</a> |
-    <a href="https://zb.oschina.net/profile/725072/market">作品与服务</a> |
+    <!-- <a href="https://zb.oschina.net/profile/725072/market">作品与服务</a> | -->
+    <a href="/search.html">Search</a> |
 	<a href="mailto:netkiller@msn.com">Email</a> <br />
 	
 </xsl:template>
