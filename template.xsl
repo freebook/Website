@@ -78,6 +78,7 @@
 </xsl:template>
 
    <xsl:template name="user.head.content">
+   <link rel="shortcut icon" href="/favicon.ico" />
 
 <meta name="google-translate-customization" content="c6ca270b7421c69-7f96094f563bd60b-g019f6241168b32de-13"></meta>
 <script>
