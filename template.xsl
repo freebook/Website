@@ -142,18 +142,6 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
 
 <script type="text/javascript" src="/js/q.js"></script>
 
-
-
-<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Website Left Box -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:336px;height:280px"
-     data-ad-client="ca-pub-4741661116327131"
-     data-ad-slot="1637526802"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 </xsl:template>
 
 </xsl:stylesheet>
