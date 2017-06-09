@@ -106,9 +106,7 @@
 	 -->
 
 	<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=r5HG&amp;d=9mi5r_kkDC8uxG8HuY3p4-2qgeeVypAK9vMD-2P6BYM"></script>
-	<!--     
-	<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=r5HG&amp;d=I4PGSAlBx_RjcBKmpZgR4WuU1yHy-Q10AKQe4quwDk4"></script>
-	 -->		
+		
 	</div>
 
 </xsl:template>
@@ -133,7 +131,7 @@ function googleTranslateElementInit() {
 
 <xsl:template name="webpage.footer">
 
-<script type="text/javascript" src="http://tajs.qq.com/stats?sId=36578021" charset="UTF-8"></script> 
+<script type="text/javascript" src="//tajs.qq.com/stats?sId=36578021" charset="UTF-8"></script> 
 
 <script type="text/javascript">
 var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
