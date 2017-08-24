@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd">
 <webpage id="radio">
 <head>
@@ -70,3 +71,91 @@
 	</section>
 -->
 </webpage>
+=======
+<!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd">
+<webpage id="radio">
+	<head>
+		<title>Amateur Radio</title>
+		<summary>Amateur Radio</summary>
+	</head>
+	<para>Personal Amateur Radiostations of P.R.China.</para>
+	<webtoc />
+	<para>
+		ZONE
+		<quote>CQ24 ITU44</quote>
+		ShenZhen, China.
+	</para>
+	<para>
+		<para>12B Brooky Hills,Longhua new division, Shenzhen City, Guangdong provincial, China</para>
+	</para>
+	<para>Best Regards, VY 73! OP. BG7NYT</para>
+	<!-- <para>QTH: FLAT XXX, BLOCK XXX,236 MEIBAN ROAD,BROOKY HILLS,BAOAN DISTRICT,SHENZHEN,CHINA</para> -->
+	<section id="equipment">
+		<title>Personal Amateur Radiostations of P.R.China.</title>
+		<variablelist>
+			<title>My Radio Equipment - 144/430Mhz</title>
+			<varlistentry>
+				<term>Handheld</term>
+				<listitem>
+					<para>Yaesu FT-60R Handheld</para>
+				</listitem>
+				<listitem>
+					<para>Motorola MOTOTRBO XIR P8668 (Handheld)</para>
+				</listitem>
+				<listitem>
+					<para>Nagoya NA-771 Handheld Antenna</para>
+				</listitem>
+				<listitem>
+					<para>Nagoya NA-773 Handheld Antenna</para>
+				</listitem>
+				<listitem>
+					<para>Yaesu FT-50R</para>
+				</listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Vehicle</term>
+				<listitem>
+					<para>Yaesu FT-7800R Vehicle</para>
+				</listitem>
+				<listitem>Kenwood TM-231a</listitem>
+				<listitem>
+					<para>Motorola MOTOTRBO XIR M8668
+					</para>
+				</listitem>
+
+			</varlistentry>
+		</variablelist>
+		<itemizedlist>
+			<title>Antenna</title>
+			<listitem>
+				<para>DIY 8EL Yagi</para>
+			</listitem>
+			<listitem>
+				<para>Nagoya MAG-79EL-3W Vehicle Antenna</para>
+			</listitem>
+			<listitem>
+				<para>Nagoya NA-770R Vehicle Antenna</para>
+			</listitem>
+
+			<listitem>
+				<para>
+					Harvest H666
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+
+	<section>
+		<title>Albums</title>
+		<para>
+			<ulink url="http://bg7nyt.photo.163.com">Ham Albums</ulink>
+			<ulink url=""></ulink>
+		</para>
+	</section>
+	<!-- <section> <title></title> <itemizedlist> <listitem> <para> </para> </listitem> <listitem> <para> </para> </listitem> </itemizedlist> </section> -->
+</webpage>
+>>>>>>> 0b687b01ad285ad051c238a93136bba745701bdb

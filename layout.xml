@@ -55,6 +55,7 @@
 			<tocentry page="webpage.sport.xml" filename="sport.html" />
 			<tocentry page="webpage.photography.xml" filename="photography.html" />
 			<tocentry page="webpage.radio.xml" filename="radio.html" />
+			<tocentry page="webpage.game.xml" filename="game.html" />
 			<tocentry page="webpage.boinc.xml" filename="boinc.html" />
 		</tocentry>
 	</toc>
