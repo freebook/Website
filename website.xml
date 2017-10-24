@@ -35,7 +35,7 @@
 		<note>
 			<title>转载请与作者联系，同时请务必标明文章原始出处和作者信息及本声明。</title>
 
-			<simplelist type='horiz' columns='5'>
+			<simplelist type='horiz' columns='4'>
 				<member>
 					<ulink url="http://creativecommons.org/">
 						<graphic format="png" fileref="graphics/by-nc-sa.png" srccredit="neo" width="180" />
@@ -96,7 +96,7 @@
 	<section>
 		<title>系列电子书</title>
 		<blockquote>
-			<simplelist type='horiz' columns='4'>
+			<simplelist type='horiz' columns='5'>
 				<member>
 					<ulink url="../management/index.html">Netkiller Management 手札</ulink>
 				</member>
