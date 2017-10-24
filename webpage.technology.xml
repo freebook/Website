@@ -2,8 +2,7 @@
 <!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd">
 <webpage id="technology">
 	<config param="desc" value="Technology" />
-	<config param="rcsdate"
-		value="$Date: 2013-07-18 11:27:47 +0800 (Thu, 18 Jul 2013) $" />
+	<config param="rcsdate" value="$Date: 2013-07-18 11:27:47 +0800 (Thu, 18 Jul 2013) $" />
 	<head>
 		<title>Free book</title>
 		<titleabbrev>Free book</titleabbrev>
@@ -12,19 +11,31 @@
 	<webtoc />
 	<table>
 		<title>Netkiller 系列免费电子书</title>
-		<tgroup cols="2">
+		<tgroup cols="3">
 			<tbody>
 				<row>
 					<entry>
-						<graphic format="png" fileref="../images/netkiller-ebook.jpg"
-							srccredit="neo" width="300" />
+						<graphic format="png" fileref="../images/netkiller-ebook.jpg" srccredit="neo" width="300" />
 					</entry>
 					<entry>
-
 						<simplelist>
+							<member>
+								<ulink url="../management/index.html">Netkiller Management 手札</ulink>
+							</member>
 							<member>
 								<ulink url="../architect/index.html">Netkiller Architect 手札</ulink>
 							</member>
+							<member>
+								<ulink url="../linux/index.html">Netkiller Linux 手札</ulink>
+							</member>
+							<member>
+								<ulink url="../java/index.html">Netkiller Java 手札</ulink>
+							</member>
+						</simplelist>
+						<!-- <member> <ulink url="../oss/index.html">Netkiller 开源软件手札</ulink> </member> -->
+					</entry>
+					<entry>
+						<simplelist>
 							<member>
 								<ulink url="../developer/index.html">Netkiller Developer 手札</ulink>
 							</member>
@@ -59,14 +70,9 @@
 							<member>
 								<ulink url="../project/index.html">Netkiller Project 手札</ulink>
 							</member>
-
 							<member>
 								<ulink url="../multimedia/index.html">Netkiller Multimedia 手札</ulink>
 							</member>
-
-							<!-- <member> <ulink url="../management/index.html">Netkiller Management 
-								手札</ulink> </member> <member> <ulink url="../oss/index.html">Netkiller 开源软件 
-								手札</ulink> </member> -->
 							<member>
 								<ulink url="../perl/index.html">Netkiller Perl 手札</ulink>
 							</member>
@@ -79,9 +85,6 @@
 					<entry>
 						<simplelist>
 							<member>
-								<ulink url="../linux/index.html">Netkiller Linux 手札</ulink>
-							</member>
-							<member>
 								<ulink url="../freebsd/index.html">Netkiller FreeBSD 手札</ulink>
 							</member>
 							<member>
@@ -90,7 +93,6 @@
 							<member>
 								<ulink url="../security/index.html">Netkiller Security 手札</ulink>
 							</member>
-
 							<member>
 								<ulink url="../www/index.html">Netkiller Web 手札</ulink>
 							</member>
