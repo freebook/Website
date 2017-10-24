@@ -17,8 +17,11 @@
 					<entry>
 						<graphic format="png" fileref="../images/netkiller-ebook.jpg" srccredit="neo" width="300" />
 					</entry>
-					<entry>
+					<entry valign="top">
 						<simplelist>
+							<member>
+								<para>最近更新</para>
+							</member>
 							<member>
 								<ulink url="../management/index.html">Netkiller Management 手札</ulink>
 							</member>
@@ -51,7 +54,6 @@
 							<member>
 								<ulink url="../cryptography/index.html">Netkiller Cryptography 手札</ulink>
 							</member>
-
 							<member>
 								<ulink url="../database/index.html">Netkiller Database 手札</ulink>
 							</member>
@@ -76,11 +78,7 @@
 							<member>
 								<ulink url="../perl/index.html">Netkiller Perl 手札</ulink>
 							</member>
-							<member>
-								<ulink url="../radio/index.html">Netkiller Amateur Radio 手札</ulink>
-							</member>
 						</simplelist>
-
 					</entry>
 					<entry>
 						<simplelist>
@@ -118,6 +116,9 @@
 							<member>
 								<ulink url="../h3c/index.html">Netkiller H3C 手札</ulink>
 							</member>
+							<member>
+								<ulink url="../radio/index.html">Netkiller Amateur Radio 手札</ulink>
+							</member>							
 						</simplelist>
 					</entry>
 				</row>
