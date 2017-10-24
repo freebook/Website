@@ -5,14 +5,14 @@
 ] >
 <webpage id="home">
 	<config param="desc" value="Neo's Home Page" />
-	<config param="rcsdate"
-		value="$Id: website.xml 640 2013-07-18 03:27:47Z netkiller $" />
+	<config param="rcsdate" value="$Id: website.xml 640 2013-07-18 03:27:47Z netkiller $" />
 	<config param="footer" value="about.html" altval="About..." />
 
 	<head>
 		<title>Netkiller ebook - Linux ebook</title>
 		<summary>Introduction</summary>
 		<keywords>
+		<![CDATA[
 - Network: Cisco H3C Juniper, Firewall/Router/Switch F5 Big-IP, Array
 - Security: OpenVPN, L2TP, PPTP, IPSec IP Tunnel
 - Cluster: SmartDNS, LVS, HAproxy, Keepalived, Heartbeat, MooseFS, GlusterFS
@@ -25,6 +25,7 @@
 - Search Engine: Solr, Crawler: Nutch
 - DIV-CSS, JQuery, Prototype, Google Map API
 - Virtualization: Xen, Kvm
+		]]>
 		</keywords>
 
 	</head>
@@ -34,11 +35,10 @@
 		<note>
 			<title>转载请与作者联系，同时请务必标明文章原始出处和作者信息及本声明。</title>
 
-			<simplelist type='horiz' columns='4'>
+			<simplelist type='horiz' columns='5'>
 				<member>
 					<ulink url="http://creativecommons.org/">
-						<graphic format="png" fileref="graphics/by-nc-sa.png"
-							srccredit="neo" width="180" />
+						<graphic format="png" fileref="graphics/by-nc-sa.png" srccredit="neo" width="180" />
 					</ulink>
 				</member>
 				<member>
@@ -51,143 +51,144 @@
 						</member>
 					</simplelist>
 				</member>
-		<member>
-			<ulink url="/images/weixin.jpg"><graphic  format="png" fileref="/images/weixin.jpg" srccredit="neo" width="80" /></ulink>
-		</member>
-		<member>
-			<para>微信扫描二维码进入 Netkiller 微信订阅号 </para>
-			<para>QQ群：128659835 请注明“读者”</para>
-		</member>
+				<member>
+					<ulink url="/images/weixin.jpg">
+						<graphic format="png" fileref="/images/weixin.jpg" srccredit="neo" width="80" />
+					</ulink>
+				</member>
+				<member>
+					<para>微信扫描二维码进入 Netkiller 微信订阅号 </para>
+					<para>QQ群：128659835 请注明“读者”</para>
+				</member>
 			</simplelist>
 
 		</note>
 		<blockquote>
 
-		<screen>
-《Netkiller 系列 手札》是一套免费系列电子书，netkiller 是nickname 从1999 开使用至今，“手札” 是札记，手册的含义。
+			<screen>
+				《Netkiller 系列 手札》是一套免费系列电子书，netkiller 是nickname 从1999 开使用至今，“手札” 是札记，手册的含义。
 
-2003年之前我还是以文章形式在BBS上发表各类技术文章，后来发现文章不够系统，便尝试写长篇技术文章加上章节目录等等。随着内容增加，不断修订，开始发布第一版，第二版......
+				2003年之前我还是以文章形式在BBS上发表各类技术文章，后来发现文章不够系统，便尝试写长篇技术文章加上章节目录等等。随着内容增加，不断修订，开始发布第一版，第二版......
 
-IT知识变化非常快，而且具有时效性，这样发布非常混乱，经常有读者发现第一版例子已经过时，但他不知道我已经发布第二版。
+				IT知识变化非常快，而且具有时效性，这样发布非常混乱，经常有读者发现第一版例子已经过时，但他不知道我已经发布第二版。
 
-我便有一种想法，始终维护一个文档，不断更新，使他保持较新的版本不过时。
+				我便有一种想法，始终维护一个文档，不断更新，使他保持较新的版本不过时。
 
-第一部电子书是《PostgreSQL 实用实例参考》开始我使用 Microsoft Office Word 慢慢随着文档尺寸增加 Word 开始表现出力不从心。
+				第一部电子书是《PostgreSQL 实用实例参考》开始我使用 Microsoft Office Word 慢慢随着文档尺寸增加 Word 开始表现出力不从心。
 
-我看到PostgreSQL 中文手册使用SGML编写文档，便开始学习Docbook SGML。使用Docbook写的第一部电子书是《Netkiller Postfix Integrated Solution》这是Netkiller 系列手札的原型。
+				我看到PostgreSQL 中文手册使用SGML编写文档，便开始学习Docbook SGML。使用Docbook写的第一部电子书是《Netkiller Postfix Integrated Solution》这是Netkiller 系列手札的原型。
 
-至于“手札”一词的来历，是因为我爱好摄影，经常去一个台湾摄影网站，名字就叫“摄影家手札”。
+				至于“手札”一词的来历，是因为我爱好摄影，经常去一个台湾摄影网站，名字就叫“摄影家手札”。
 
-由于硬盘损坏数据丢失 《Netkiller Postfix Integrated Solution》 的 SGML文件已经不存在; Docbook SGML存在很多缺陷UTF-8支持不好，转而使用Docbook XML.
-		</screen>
-		<para>项目主页<ulink url="http://freebook.github.io/" /></para>
-		<para>2017-02-08 电子书将逐步迁移到 xhtml5</para>
-		<para><ulink url="http://172.16.0.1/download/2017/chm/%E3%80%8ANetkiller%20Linux%20%E6%89%8B%E6%9C%AD%E3%80%8B%5B%E9%B8%A1%E5%B9%B4%E8%BF%8E%E6%98%A5%E7%89%88%5D.chm">《Netkiller Linux 手札》[鸡年迎春版].chm</ulink></para>
+				由于硬盘损坏数据丢失 《Netkiller Postfix Integrated Solution》 的 SGML文件已经不存在; Docbook SGML存在很多缺陷UTF-8支持不好，转而使用Docbook XML.
+			</screen>
+			<para>
+				项目主页
+				<ulink url="http://freebook.github.io/" />
+			</para>
+			<para>2017-02-08 电子书将逐步迁移到 xhtml5</para>
+			<para>
+				<ulink url="http://172.16.0.1/download/2017/chm/%E3%80%8ANetkiller%20Linux%20%E6%89%8B%E6%9C%AD%E3%80%8B%5B%E9%B8%A1%E5%B9%B4%E8%BF%8E%E6%98%A5%E7%89%88%5D.chm">《Netkiller Linux 手札》[鸡年迎春版].chm</ulink>
+			</para>
 		</blockquote>
 
 	</section>
 	<section>
 		<title>系列电子书</title>
 		<blockquote>
-<simplelist type='horiz' columns='4'>
-		<member>
-			<ulink url="../architect/index.html">Netkiller Architect 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../developer/index.html">Netkiller Developer 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../php/index.html">Netkiller PHP 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../python/index.html">Netkiller Python 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../testing/index.html">Netkiller Testing 手札</ulink>
-		</member>
-		<member>
-				<ulink url="../java/index.html">Netkiller Java 手札</ulink>
-		</member>		
-		<member>
-			<ulink url="../cryptography/index.html">Netkiller Cryptography 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../linux/index.html">Netkiller Linux 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../freebsd/index.html">Netkiller FreeBSD 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../shell/index.html">Netkiller Shell 手札</ulink>
-		</member>		
-		<member>
-			<ulink url="../security/index.html">Netkiller Security 手札</ulink>
-		</member>
+			<simplelist type='horiz' columns='4'>
+				<member>
+					<ulink url="../management/index.html">Netkiller Management 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../architect/index.html">Netkiller Architect 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../linux/index.html">Netkiller Linux 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../java/index.html">Netkiller Java 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../developer/index.html">Netkiller Developer 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../php/index.html">Netkiller PHP 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../python/index.html">Netkiller Python 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../testing/index.html">Netkiller Testing 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../cryptography/index.html">Netkiller Cryptography 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../freebsd/index.html">Netkiller FreeBSD 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../shell/index.html">Netkiller Shell 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../security/index.html">Netkiller Security 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../www/index.html">Netkiller Web 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../monitoring/index.html">Netkiller Monitoring 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../storage/index.html">Netkiller Storage 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../mail/index.html">Netkiller Mail 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../docbook/index.html">Netkiller Docbook 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../project/index.html">Netkiller Project 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../database/index.html">Netkiller Database 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../postgresql/index.html">Netkiller PostgreSQL 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../mysql/index.html">Netkiller MySQL 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../nosql/index.html">Netkiller NoSQL 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../ldap/index.html">Netkiller LDAP 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../network/index.html">Netkiller Network 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../cisco/index.html">Netkiller Cisco IOS 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../h3c/index.html">Netkiller H3C 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../multimedia/index.html">Netkiller Multimedia 手札</ulink>
+				</member>
 
-		<member>
-			<ulink url="../www/index.html">Netkiller Web 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../monitoring/index.html">Netkiller Monitoring 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../storage/index.html">Netkiller Storage 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../mail/index.html">Netkiller Mail 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../docbook/index.html">Netkiller Docbook 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../project/index.html">Netkiller Project 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../database/index.html">Netkiller Database 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../postgresql/index.html">Netkiller PostgreSQL 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../mysql/index.html">Netkiller MySQL 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../nosql/index.html">Netkiller NoSQL 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../ldap/index.html">Netkiller LDAP 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../network/index.html">Netkiller Network 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../cisco/index.html">Netkiller Cisco IOS 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../h3c/index.html">Netkiller H3C 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../multimedia/index.html">Netkiller Multimedia 手札</ulink>
-		</member>
+				<!-- <member> <ulink url="../management/index.html">Netkiller Management 手札</ulink> </member> <member> <ulink url="../oss/index.html">Netkiller 开源软件 手札</ulink> </member> -->
+				<member>
+					<ulink url="../perl/index.html">Netkiller Perl 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../radio/index.html">Netkiller Amateur Radio 手札</ulink>
+				</member>
+			</simplelist>
 
-<!--
-			<member>
-				<ulink url="../management/index.html">Netkiller Management 手札</ulink>
-			</member>
-
-			<member>
-				<ulink url="../oss/index.html">Netkiller 开源软件 手札</ulink>
-			</member>
- -->
-		<member>
-			<ulink url="../perl/index.html">Netkiller Perl 手札</ulink>
-		</member>
-		<member>
-			<ulink url="../radio/index.html">Netkiller Amateur Radio 手札</ulink>
-		</member>
-	</simplelist>
-	
-		</blockquote>		
+		</blockquote>
 	</section>
 	<webtoc />
 	<section>
@@ -214,54 +215,56 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 					<ulink url="http://www.chengxuyuans.com">程序员之家</ulink>
 				</para>
 			</member>
-            <member>
-                    <para> &nbsp;&nbsp;&nbsp;&nbsp;
-                    </para>
-            </member>
+			<member>
+				<para> &nbsp;&nbsp;&nbsp;&nbsp;
+				</para>
+			</member>
 			<member>
 				<para>
 					<ulink url="http://zoomquiet.github.com/">Zoom.Quiet</ulink>
 				</para>
 			</member>
-            <member>
-                    <para> &nbsp;&nbsp;&nbsp;&nbsp;
-                    </para>
-            </member>
-            <member>
-                    <para>
-                            <ulink url="http://www.zenboss.com/">z.En wiki</ulink>
-                    </para>
-            </member>
-            <member>
-                    <para> &nbsp;&nbsp;&nbsp;&nbsp;
-                    </para>
-            </member>
-            <member>
-                    <para>
-                            <ulink url="http://oldboy.blog.51cto.com/">老男孩的linux博客</ulink>
-                    </para>
-            </member>
 			<member>
-                    <para> &nbsp;&nbsp;&nbsp;&nbsp; </para>
-            </member>
-            <member>
-                    <para>
-                            <ulink url="http://andrewyu.blog.51cto.com/">抚琴煮酒</ulink>
-                    </para>
-            </member>
-            <member>
-                    <para> &nbsp;&nbsp;&nbsp;&nbsp; </para>
-            </member>
-            <member>
-                    <para>
-                            <ulink url="http://www.loveunix.net/">LoveUnix</ulink>
-                    </para>
-            </member>
-            <member>
-                    <para>
-                            <ulink url="http://it.tingtao.net">听涛IT站</ulink>
-                    </para>
-            </member>
+				<para> &nbsp;&nbsp;&nbsp;&nbsp;
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="http://www.zenboss.com/">z.En wiki</ulink>
+				</para>
+			</member>
+			<member>
+				<para> &nbsp;&nbsp;&nbsp;&nbsp;
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="http://oldboy.blog.51cto.com/">老男孩的linux博客</ulink>
+				</para>
+			</member>
+			<member>
+				<para> &nbsp;&nbsp;&nbsp;&nbsp;
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="http://andrewyu.blog.51cto.com/">抚琴煮酒</ulink>
+				</para>
+			</member>
+			<member>
+				<para> &nbsp;&nbsp;&nbsp;&nbsp;
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="http://www.loveunix.net/">LoveUnix</ulink>
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="http://it.tingtao.net">听涛IT站</ulink>
+				</para>
+			</member>
 
 		</simplelist>
 	</section>
