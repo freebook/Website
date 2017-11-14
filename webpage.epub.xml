@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd">
-<webpage id="os">
+<webpage id="epub">
 	<config param="desc" value="EPUB Download" />
 	<config param="rcsdate"
 		value="$Date: 2012-03-15 18:12:34 +0800 (Thu, 15 Mar 2012) $" />

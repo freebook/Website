@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webpage id="kindle">
+	<config param="desc" value="EPUB Download" />
+	<config param="rcsdate"
+		value="$Date: 2012-03-15 18:12:34 +0800 (Thu, 15 Mar 2012) $" />
+	<head>
+		<title>Kindle</title>
+		<titleabbrev>Kindle</titleabbrev>
+		<summary>Kindle Document</summary>
+		<keywords>Linux, FreeBSD, MySQL, PostgreSQL, Lighttpd, Nginx, DFS, Spring, Varnish</keywords>
+	</head>
+	<para>您可以通过 Amazon Kindle 阅读 netkiller 系列 kindle 格式的电子书</para>
+	
+	<webtoc />
+	<section>
+		<title>Kindle 格式的电子书</title>
+		<!-- <para>点击浏览2017版电子书 <ulink url="http://www.netkiller.cn/download/2017/kindle/" /></para> -->
+		<para>暂时没有时间转换</para>
+		<para></para>
+		<!-- <simplelist type='horiz' columns='2'>
+			<member>
+				<graphic  format="png" fileref="../images/epub/safari.jpg" srccredit="neo" width="500"/>
+			</member>
+			<member>
+				<graphic  format="png" fileref="../images/epub/ibook.jpg" srccredit="neo" width="500"/>
+			</member>
+		</simplelist> -->
+		<!-- 
+		<simplelist type='horiz' columns='4'>
+			<member>
+				<para>
+					<ulink url="../download/epub/Debian.epub">Netkiller Linux (Basics) 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/debian.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="../download/epub/Linux.epub">Netkiller Linux (Advanced) 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/linux.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="../download/epub/CentOS.epub">Netkiller CentOS 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/centos.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="../download/epub/FreeBSD.epub">Netkiller FreeBSD 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/freebsd.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="../download/epub/Shell.epub">Netkiller Shell 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/shell.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="../download/epub/www.epub">Netkiller Linux Web 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/web.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+
+			<member>
+				<para>
+					<ulink url="../download/epub/Monitoring.epub">Netkiller Linux Monitoring 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/monitor.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+
+			<member>
+				<para>
+					<ulink url="../download/epub/Storage.epub">Netkiller Linux Storage 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/storage.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+		</simplelist>
+		 -->
+	</section>
+<!-- 
+	<section>
+		<title>Developer Documents (EPUB)</title>
+		<para>Software Architecture</para>
+		<para>Development Language/ Environment: PHP/Python/Perl/Java</para>
+		<para>Teamwork Version Coltrol: Git/Subversion/CVS</para>
+		<para>Information Security</para>
+				<para></para>
+				<para></para>
+		<simplelist type='horiz' columns='4'>
+			<member>
+				<para>
+					<ulink url="../download/epub/Architect.epub">Netkiller Web Architect 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/architect.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+
+			<member>
+				<para>
+					<ulink url="../download/epub/Developer.epub">Netkiller Developer 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/developer.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+
+			<member>
+				<para>
+					<ulink url="../download/epub/Version.epub">Netkiller Version 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/version.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+
+			<member>
+				<para>
+					<ulink url="../download/epub/Security.epub">Netkiller Security 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/security.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+		</simplelist>
+	</section>
+	<section>
+		<title>Database</title>
+		<para></para>	
+		<simplelist type='horiz' columns='4'>
+			<member>
+				<para>
+					<ulink url="../download/epub/mysql.epub">Netkiller MySQL 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/mysql.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="../download/epub/Database.epub">Netkiller Database 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/database.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="../download/epub/LDAP.epub">Netkiller LDAP 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/ldap.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+		</simplelist>
+	</section>
+	<section>
+		<title>Other ebook (EPUB)</title>
+
+		<simplelist type='horiz' columns='4'>
+			<member>
+				<para><ulink url="../download/epub/Intranet.epub">Netkiller Intranet 手札</ulink> </para>
+				<graphic  format="png" fileref="../images/barcode/epub/intranet.png" srccredit="neo" width="200"/>
+			</member>
+			<member>
+				<para>
+					<ulink url="../download/epub/Cisco.epub">Netkiller Cisco IOS 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/cisco.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="../download/epub/Multimedia.epub">Netkiller Studio Linux 手札</ulink>
+				</para>
+			</member>
+
+			<member>
+				<para>
+					<ulink url="../management/index.html">Netkiller Management 手札</ulink>
+				</para>
+			</member>
+
+			<member>
+				<para>
+					<ulink url="../download/epub/Docbook.epub">Netkiller Writer 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/docbook.png" srccredit="neo" width="200"/>
+				</para>
+			</member>
+			<member>
+				<para>
+					<ulink url="../download/epub/Mail.epub">Netkiller Mail System 手札</ulink>
+					<graphic  format="png" fileref="../images/barcode/epub/mail.png" srccredit="neo" width="200"/>
+				</para>
+			</member>			
+		</simplelist>
+	</section>
+ -->	
+</webpage>

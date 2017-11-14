@@ -34,8 +34,11 @@
 							<member>
 								<ulink url="../java/index.html">Netkiller Java 手札</ulink>
 							</member>
+							<member>
+								<ulink url="../spring/index.html">Netkiller Spring 手札</ulink>
+							</member>
 						</simplelist>
-						<!-- <member> <ulink url="../oss/index.html">Netkiller 开源软件手札</ulink> </member> -->
+
 					</entry>
 					<entry>
 						<simplelist>
@@ -118,7 +121,7 @@
 							</member>
 							<member>
 								<ulink url="../radio/index.html">Netkiller Amateur Radio 手札</ulink>
-							</member>							
+							</member>
 						</simplelist>
 					</entry>
 				</row>
