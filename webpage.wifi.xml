@@ -11,6 +11,6 @@
 
 	<webtoc />
 
-	<graphic format="png" fileref="images/wifi/kexing.png" srccredit="neo" width="" />
+	<graphic format="png" fileref="/images/wifi/kexing.png" srccredit="neo" width="" />
 
 </webpage>
