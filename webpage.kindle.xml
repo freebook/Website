@@ -22,7 +22,7 @@
 				<graphic  format="png" fileref="../images/kindle/kindle.png" srccredit="neo" width="500"/>
 			</member>
 			<member>
-				<graphic  format="png" fileref="../images/epub/netkiller-kindle.png" srccredit="neo" width="500"/>
+				<graphic  format="png" fileref="../images/kindle/netkiller-kindle.png" srccredit="neo" width="500"/>
 			</member>
 		</simplelist>
 		<!-- 
