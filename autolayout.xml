@@ -13,6 +13,11 @@
 <titleabbrev>Journal</titleabbrev>
 <summary>Technology Journal</summary>
 </tocentry>
+<tocentry page="webpage.wifi.xml" id="wifi" dir="wifi/" filename="index.html">
+<title>Free WiFi</title>
+<titleabbrev>Free WiFi</titleabbrev>
+<summary>Free WiFi</summary>
+</tocentry>
 <tocentry page="webpage.technology.xml" id="technology" dir="home/" filename="technology.html">
 <title>Free book</title>
 <titleabbrev>Free book</titleabbrev>
@@ -41,7 +46,7 @@
 <tocentry page="webpage.download.xml" id="download" dir="home/" filename="download.html">
 <title>Download</title>
 <summary>Netkiller 手札下载</summary>
-<tocentry page="webpage.epub.xml" id="os" dir="home/" filename="download.epub.html">
+<tocentry page="webpage.epub.xml" id="epub" dir="home/" filename="download.epub.html">
 <title>iBook(EPUB) </title>
 <titleabbrev>iBook(EPUB)</titleabbrev>
 <summary>Unix like OS Document</summary>
@@ -55,6 +60,11 @@
 <title>CHM ebook Download</title>
 <titleabbrev>CHM Ebook</titleabbrev>
 <summary>CHM ebook Download</summary>
+</tocentry>
+<tocentry page="webpage.kindle.xml" id="kindle" dir="home/" filename="download.kindle.html">
+<title>Kindle</title>
+<titleabbrev>Kindle</titleabbrev>
+<summary>Kindle Document</summary>
 </tocentry>
 <tocentry page="webpage.software.xml" id="solution" dir="home/" filename="download.software.html">
 <title>software</title>
@@ -132,6 +142,10 @@
 <tocentry page="webpage.radio.xml" id="radio" dir="home/" filename="radio.html">
 <title>Amateur Radio</title>
 <summary>Amateur Radio</summary>
+</tocentry>
+<tocentry page="webpage.game.xml" id="boinc" dir="home/" filename="game.html">
+<title>Game</title>
+<summary>Game</summary>
 </tocentry>
 <tocentry page="webpage.boinc.xml" id="boinc" dir="home/" filename="boinc.html">
 <title>BOINC</title>
