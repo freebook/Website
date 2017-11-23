@@ -17,14 +17,14 @@
 		<para>点击浏览2017版电子书 <ulink url="http://www.netkiller.cn/download/2017/kindle/" /></para>
 		<para>部分电子书已转换</para>
 		<para></para>
-		<!-- <simplelist type='horiz' columns='2'>
+		<simplelist type='horiz' columns='2'>
 			<member>
-				<graphic  format="png" fileref="../images/epub/safari.jpg" srccredit="neo" width="500"/>
+				<graphic  format="png" fileref="../images/kindle/kindle.png" srccredit="neo" width="500"/>
 			</member>
 			<member>
-				<graphic  format="png" fileref="../images/epub/ibook.jpg" srccredit="neo" width="500"/>
+				<graphic  format="png" fileref="../images/epub/netkiller-kindle.png" srccredit="neo" width="500"/>
 			</member>
-		</simplelist> -->
+		</simplelist>
 		<!-- 
 		<simplelist type='horiz' columns='4'>
 			<member>
