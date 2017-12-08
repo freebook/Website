@@ -29,10 +29,11 @@
 			<tocentry page="webpage.language.xml" filename="language.html" />
 		</tocentry>
 		<tocentry page="webpage.download.xml" dir="home" filename="download.html">
-			<tocentry page="webpage.epub.xml" filename="download.epub.html" />
-			<tocentry page="webpage.pdf.xml" filename="download.pdf.html" />
-			<tocentry page="webpage.chm.xml" filename="download.chm.html" />
-			<tocentry page="webpage.kindle.xml" filename="download.kindle.html" />
+			<tocentry page="webpage.download.epub.xml" filename="download.epub.html" />
+			<tocentry page="webpage.download.kindle.xml" filename="download.kindle.html" />
+			<tocentry page="webpage.download.chm.xml" filename="download.chm.html" />
+			<tocentry page="webpage.download.pdf.xml" filename="download.pdf.html" />
+			<tocentry page="webpage.download.rpm.xml" filename="download.rpm.html" />
 			<tocentry page="webpage.software.xml" filename="download.software.html" />
 		</tocentry>
 		<tocentry page="webpage.project.xml" dir="home" filename="project.html">

@@ -11,58 +11,13 @@
 	<para>If you like this documents, please make a donation to support the
 		authors' efforts. Thank you!
 	</para>
-	<section id="htmlhelp">
-		<title>CHM 格式电子文档下载</title>
-		<para>
-			<ulink
-				url="https://sourceforge.net/projects/netkiller/files/htmlhelp.chm/" />
-		</para>
+	<section id="2017">
+		<title>2017 电子书下载</title>
+		<para>CHM 格式 <ulink url="http://www.netkiller.cn/download/2017/chm/" /></para>
+		<para>EPUB 格式 <ulink url="http://www.netkiller.cn/download/2017/epub/" /></para>
+		<para>Kindle 格式 <ulink url="http://www.netkiller.cn/download/2017/kindle/" /></para>
 	</section>
-	<section id="rpm">
-		<title>YUM 在线安装</title>
-		<para><ulink url="http://netkiller.sourceforge.net/pub/repo/" /></para>
-		<screen>
-		<![CDATA[
-# cat >> /etc/yum.repos.d/netkiller.repo <<EOF
-[netkiller]
-name=Netkiller Free Books
-baseurl=http://netkiller.sourceforge.net/pub/repo/
-enabled=1
-gpgcheck=0
-gpgkey=
-EOF
-		]]>
-		</screen>
-		<para>查找包</para>
-		<screen>
-		<![CDATA[
-# yum search netkiller
 
-netkiller-centos.x86_64 : Netkiller centos Cookbook
-netkiller-cryptography.x86_64 : Netkiller cryptography Cookbook
-netkiller-docbook.x86_64 : Netkiller docbook Cookbook		
-		]]>
-		</screen>
-		<para>安装包</para>
-		<screen>
-yum install netkiller-docbook		
-		</screen>
-		<itemizedlist>
-			<listitem>
-				<para>RPM 安装包</para>
-				<para>
-					<ulink
-						url="http://rpmfind.net/linux/RPM/sourceforge/n/ne/netkiller/netkiller-1.0.1-1.x86_64.html" />
-				</para>
-			</listitem>
-			<listitem>
-				<para>deb:</para>
-				<para>
-					<ulink url="https://sourceforge.net/projects/netkiller/files/Package/" />
-				</para>
-			</listitem>
-		</itemizedlist>
-	</section>
 	<section>
 		<title>GITUB</title>
 		<para>GIT clone:</para>
