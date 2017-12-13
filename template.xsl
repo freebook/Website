@@ -22,9 +22,9 @@
     <a href="https://www.facebook.com/bg7nyt">Facebook</a> |
     <a href="//cn.linkedin.com/in/netkiller/">Linkedin</a> |
     <!-- <a href="https://zb.oschina.net/profile/725072/market">作品与服务</a> | -->
+    <a href="https://github.com/netkiller">Github</a> |
     <a href="/search.html">Search</a> |
 	<a href="//www.netkiller.cn/home/about.html">About</a> <br />
-	
 	
 </xsl:template>
 
