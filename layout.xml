@@ -34,7 +34,6 @@
 			<tocentry page="webpage.download.pdf.xml" filename="download.pdf.html" />
 			<tocentry page="webpage.download.rpm.xml" filename="download.rpm.html" />
 			<tocentry page="webpage.download.deb.xml" filename="download.deb.html" />
-			<tocentry page="webpage.software.xml" filename="download.software.html" />
 		</tocentry>
 		<tocentry page="webpage.project.xml" dir="home" filename="project.html">
 			<tocentry page="webpage.deployment.git.xml" filename="deployment.git.html" />

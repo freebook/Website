@@ -4,8 +4,8 @@
 	<config param="rcsdate" value="$Date: 2012-03-15 18:12:34 +0800 (Thu, 15 Mar 2012) $" />
 	<head>
 		<title>Yum</title>
-		<titleabbrev>yum</titleabbrev>
-		<summary>Kindle Document</summary>
+		<titleabbrev>Yum Package</titleabbrev>
+		<summary>Yum Package</summary>
 		<keywords>Linux, FreeBSD, MySQL, PostgreSQL, Lighttpd, Nginx, DFS, Spring, Varnish</keywords>
 	</head>
 	<para>在 CentOS 中使用 yum 下载 netkiller 手札 电子书</para>
