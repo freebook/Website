@@ -3,8 +3,7 @@
 	<config param="text-prefix" value="txt" />
 	<config param="homebanner-tabular" value="images/neo.jpg"
 		altval="Home Banner" />
-	<config param="banner-tabular" value="/images/neo.jpg"
-		altval="Banner" />
+	<config param="banner-tabular" value="/images/neo.jpg" altval="Banner" />
 	<config param="homebanner" value="graphics/homebanner.png"
 		altval="Home
 		Banner" />
@@ -34,6 +33,7 @@
 			<tocentry page="webpage.download.chm.xml" filename="download.chm.html" />
 			<tocentry page="webpage.download.pdf.xml" filename="download.pdf.html" />
 			<tocentry page="webpage.download.rpm.xml" filename="download.rpm.html" />
+			<tocentry page="webpage.download.yum.xml" filename="download.deb.html" />
 			<tocentry page="webpage.software.xml" filename="download.software.html" />
 		</tocentry>
 		<tocentry page="webpage.project.xml" dir="home" filename="project.html">
@@ -43,16 +43,16 @@
 			<tocentry page="webpage.project.php.xml" filename="project.php.html" />
 		</tocentry>
 
-		<tocentry page="webpage.screenshots.xml" dir="home" filename="screenshots.html">
-			<tocentry page="webpage.solution.xml" filename="solution.html"/> <!-- revisionflag="" -->
+		<tocentry page="webpage.screenshots.xml" dir="home"
+			filename="screenshots.html">
+			<tocentry page="webpage.solution.xml" filename="solution.html" /> <!-- revisionflag="" -->
 		</tocentry>
-		
-		<tocentry page="webpage.music.xml" dir="home" filename="music.html">
-			<tocentry page="webpage.piano.xml" filename="music.piano.html" />
-		</tocentry>
-		
+
+		<!-- <tocentry page="webpage.music.xml" dir="home" filename="music.html"> 
+			</tocentry> -->
+
 		<tocentry page="webpage.xml.xml" dir="home" filename="xml.html" />
-		
+
 		<tocentry page="webpage.donations.xml" dir="home" filename="donations.html" />
 		<tocentry page="webpage.about.xml" dir="home" filename="about.html">
 			<tocentry page="webpage.sport.xml" filename="sport.html" />

@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<webpage id="kindle">
+<webpage id="yum]">
 	<config param="desc" value="EPUB Download" />
 	<config param="rcsdate" value="$Date: 2012-03-15 18:12:34 +0800 (Thu, 15 Mar 2012) $" />
 	<head>
-		<title>Kindle</title>
-		<titleabbrev>Kindle</titleabbrev>
+		<title>Yum</title>
+		<titleabbrev>yum</titleabbrev>
 		<summary>Kindle Document</summary>
 		<keywords>Linux, FreeBSD, MySQL, PostgreSQL, Lighttpd, Nginx, DFS, Spring, Varnish</keywords>
 	</head>
-	<para>您可以通过 Amazon Kindle 阅读 netkiller 系列 kindle 格式的电子书</para>
+	<para>在 CentOS 中使用 yum 下载 netkiller 手札 电子书</para>
 
 	<webtoc />
 
+	<section>
+		<title>2017 版</title>
+		<screen>
+		<![CDATA[
+		
+cat > /etc/yum.repos.d/netkiller.repo <<EOF
+[netkiller]
+name=Netkiller Free Books
+baseurl=http://www.netkiller.cn/download/rpm/
+enabled=1
+gpgcheck=0
+gpgkey=
+EOF
+
+# yum repolist
+
+# yum search netkiller
+
+# yum install netkiller-centos
+		
+		]]>
+		</screen>
+	</section>
+
 	<section id="rpm">
-		<title>YUM 在线安装</title>
+		<title>2016 版</title>
 		<para>
 			<ulink url="http://netkiller.sourceforge.net/pub/repo/" />
 		</para>
@@ -50,12 +74,7 @@ netkiller-docbook.x86_64 : Netkiller docbook Cookbook
 					<ulink url="http://rpmfind.net/linux/RPM/sourceforge/n/ne/netkiller/netkiller-1.0.1-1.x86_64.html" />
 				</para>
 			</listitem>
-			<listitem>
-				<para>deb:</para>
-				<para>
-					<ulink url="https://sourceforge.net/projects/netkiller/files/Package/" />
-				</para>
-			</listitem>
+			
 		</itemizedlist>
 	</section>
 </webpage>
