@@ -7,147 +7,143 @@
 		<title>CHM ebook Download</title>
 		<titleabbrev>CHM Ebook</titleabbrev>
 		<summary>CHM ebook Download</summary>
-		<keywords>Linux, FreeBSD, MySQL, PostgreSQL, Lighttpd, Nginx, DFS, Spring, Varnish</keywords>
+		<keywords>Linux, FreeBSD, MySQL, PostgreSQL, Lighttpd, Nginx, DFS,
+			Spring, Varnish</keywords>
 	</head>
 	<para>您可以通过chm软件阅读netkiller系列chm格式的电子书</para>
 	<webtoc />
 	<section>
 		<title>Ebook Download (CHM)</title>
-		<para>点击浏览2017版电子书 <ulink url="http://www.netkiller.cn/download/2017/chm/" /></para>
+		<para>
+			点击浏览2017版电子书
+			<ulink url="http://www.netkiller.cn/download/2017/chm/" />
+		</para>
+		<para>
+			<ulink
+				url="/download/2017/chm/%E3%80%8ANetkiller%20Linux%20%E6%89%8B%E6%9C%AD%E3%80%8B%5B%E9%B8%A1%E5%B9%B4%E8%BF%8E%E6%98%A5%E7%89%88%5D.chm">《Netkiller Linux 手札》[鸡年迎春版].chm</ulink>
+		</para>
 		<simplelist type='horiz' columns='1'>
 			<member>
 				<para>
 					<ulink url="../download/chm/Architect.chm">Netkiller Architect 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/debian.png" srccredit="neo" width="200"/> -->
+					<!-- <graphic format="png" fileref="../images/barcode/chm/debian.png" 
+						srccredit="neo" width="200"/> -->
 				</para>
 			</member>
 			<member>
 				<para>
 					<ulink url="../download/chm/CentOS.chm">Netkiller CentOS 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/linux.png" srccredit="neo" width="200"/> -->
+					<!-- <graphic format="png" fileref="../images/barcode/chm/linux.png" 
+						srccredit="neo" width="200"/> -->
 				</para>
 			</member>
 			<member>
 				<para>
 					<ulink url="../download/chm/Cisco.chm">Netkiller Cisco 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/centos.png" srccredit="neo" width="200"/> -->
+					<!-- <graphic format="png" fileref="../images/barcode/chm/centos.png" 
+						srccredit="neo" width="200"/> -->
 				</para>
 			</member>
 			<member>
 				<para>
 					<ulink url="../download/chm/Cryptography.chm">Netkiller Cryptography 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/freebsd.png" srccredit="neo" width="200"/> -->
+					<!-- <graphic format="png" fileref="../images/barcode/chm/freebsd.png" 
+						srccredit="neo" width="200"/> -->
 				</para>
 			</member>
 			<member>
 				<para>
 					<ulink url="../download/chm/Database.chm">Netkiller Database 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/shell.png" srccredit="neo" width="200"/> -->
+					<!-- <graphic format="png" fileref="../images/barcode/chm/shell.png" 
+						srccredit="neo" width="200"/> -->
 				</para>
 			</member>
 			<member>
 				<para>
 					<ulink url="../download/chm/Developer.chm">Netkiller Developer 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/web.png" srccredit="neo" width="200"/> -->
+					<!-- <graphic format="png" fileref="../images/barcode/chm/web.png" srccredit="neo" 
+						width="200"/> -->
 				</para>
 			</member>
 
 			<member>
 				<para>
 					<ulink url="../download/chm/Docbook.chm">Netkiller Docbook 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/monitor.png" srccredit="neo" width="200"/> -->
+					<!-- <graphic format="png" fileref="../images/barcode/chm/monitor.png" 
+						srccredit="neo" width="200"/> -->
 				</para>
 			</member>
 
 			<member>
 				<para>
 					<ulink url="../download/chm/FreeBSD.chm">Netkiller FreeBSD 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/storage.png" srccredit="neo" width="200"/> -->
+					<!-- <graphic format="png" fileref="../images/barcode/chm/storage.png" 
+						srccredit="neo" width="200"/> -->
 				</para>
 			</member>
 
 			<member>
 				<para>
 					<ulink url="../download/chm/Linux.chm">Netkiller Linux 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/architect.png" srccredit="neo" width="200"/> -->
+					<!-- <graphic format="png" fileref="../images/barcode/chm/architect.png" 
+						srccredit="neo" width="200"/> -->
 				</para>
 			</member>
 
 			<member>
 				<para>
 					<ulink url="../download/chm/MySQL.chm">Netkiller MySQL 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/developer.png" srccredit="neo" width="200"/> -->
+					<!-- <graphic format="png" fileref="../images/barcode/chm/developer.png" 
+						srccredit="neo" width="200"/> -->
 				</para>
 			</member>
 
 			<member>
 				<para>
 					<ulink url="../download/chm/PHP.chm">Netkiller PHP 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/version.png" srccredit="neo" width="200"/> -->
+					<!-- <graphic format="png" fileref="../images/barcode/chm/version.png" 
+						srccredit="neo" width="200"/> -->
 				</para>
 			</member>
 
 			<member>
 				<para>
 					<ulink url="../download/chm/PostgreSQL.chm">Netkiller PostgreSQL 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/security.png" srccredit="neo" width="200"/> -->
+					<!-- <graphic format="png" fileref="../images/barcode/chm/security.png" 
+						srccredit="neo" width="200"/> -->
 				</para>
 			</member>
 
 			<member>
 				<para>
 					<ulink url="../download/chm/Python.chm">Netkiller Python 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/mysql.png" srccredit="neo" width="200"/> -->
+					<!-- <graphic format="png" fileref="../images/barcode/chm/mysql.png" 
+						srccredit="neo" width="200"/> -->
 				</para>
 			</member>
 			<member>
 				<para>
 					<ulink url="../download/chm/Version.chm">Netkiller Version 手札</ulink>
-					<!-- <graphic  format="png" fileref="../images/barcode/chm/database.png" srccredit="neo" width="200"/> -->
-				</para>
-			</member>
-			
-			<!-- <member>
-				<para>
-					<ulink url="../download/chm/LDAP.chm">Netkiller LDAP 手札</ulink>
-					<graphic  format="png" fileref="../images/barcode/chm/ldap.png" srccredit="neo" width="200"/>
+					<!-- <graphic format="png" fileref="../images/barcode/chm/database.png" 
+						srccredit="neo" width="200"/> -->
 				</para>
 			</member>
 
-			<member>
-				<para><ulink url="../download/chm/Intranet.chm">Netkiller Intranet 手札</ulink> </para>
-				<graphic  format="png" fileref="../images/barcode/chm/intranet.png" srccredit="neo" width="200"/>
-			</member>
-			<member>
-				<para>
-					<ulink url="../download/chm/Cisco.chm">Netkiller Cisco IOS 手札</ulink>
-					<graphic  format="png" fileref="../images/barcode/chm/cisco.png" srccredit="neo" width="200"/>
-				</para>
-			</member>
-			<member>
-				<para>
-					<ulink url="../download/chm/Multimedia.chm">Netkiller Studio Linux 手札</ulink>
-				</para>
-			</member> -->
-<!--
-			<member>
-				<para>
-					<ulink url="../management/index.html">Netkiller Management 手札</ulink>
-				</para>
-			</member>
- -->
-			<!-- <member>
-				<para>
-					<ulink url="../download/chm/Docbook.chm">Netkiller Writer 手札</ulink>
-					<graphic  format="png" fileref="../images/barcode/chm/docbook.png" srccredit="neo" width="200"/>
-				</para>
-			</member>
-			<member>
-				<para>
-					<ulink url="../download/chm/Mail.chm">Netkiller Mail System 手札</ulink>
-					<graphic  format="png" fileref="../images/barcode/chm/mail.png" srccredit="neo" width="200"/>
-				</para>
-			</member>			 -->
+			<!-- <member> <para> <ulink url="../download/chm/LDAP.chm">Netkiller LDAP 
+				手札</ulink> <graphic format="png" fileref="../images/barcode/chm/ldap.png" 
+				srccredit="neo" width="200"/> </para> </member> <member> <para><ulink url="../download/chm/Intranet.chm">Netkiller 
+				Intranet 手札</ulink> </para> <graphic format="png" fileref="../images/barcode/chm/intranet.png" 
+				srccredit="neo" width="200"/> </member> <member> <para> <ulink url="../download/chm/Cisco.chm">Netkiller 
+				Cisco IOS 手札</ulink> <graphic format="png" fileref="../images/barcode/chm/cisco.png" 
+				srccredit="neo" width="200"/> </para> </member> <member> <para> <ulink url="../download/chm/Multimedia.chm">Netkiller 
+				Studio Linux 手札</ulink> </para> </member> -->
+			<!-- <member> <para> <ulink url="../management/index.html">Netkiller Management 
+				手札</ulink> </para> </member> -->
+			<!-- <member> <para> <ulink url="../download/chm/Docbook.chm">Netkiller 
+				Writer 手札</ulink> <graphic format="png" fileref="../images/barcode/chm/docbook.png" 
+				srccredit="neo" width="200"/> </para> </member> <member> <para> <ulink url="../download/chm/Mail.chm">Netkiller 
+				Mail System 手札</ulink> <graphic format="png" fileref="../images/barcode/chm/mail.png" 
+				srccredit="neo" width="200"/> </para> </member> -->
 		</simplelist>
 	</section>
 </webpage>

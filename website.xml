@@ -88,10 +88,8 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 				项目主页
 				<ulink url="http://freebook.github.io/" />
 			</para>
-			<para>2017-02-08 电子书将逐步迁移到 xhtml5</para>
-			<para>
-				<ulink url="/download/2017/chm/%E3%80%8ANetkiller%20Linux%20%E6%89%8B%E6%9C%AD%E3%80%8B%5B%E9%B8%A1%E5%B9%B4%E8%BF%8E%E6%98%A5%E7%89%88%5D.chm">《Netkiller Linux 手札》[鸡年迎春版].chm</ulink>
-			</para>
+			<para><?dbhtml background-color="red"?>最近处于失业状态，正在找工作，请读者帮忙推荐工作，不胜感激。</para>
+			
 		</blockquote>
 
 	</section>
