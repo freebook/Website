@@ -10,6 +10,17 @@
 
 	<webtoc />
 	<section>
+		<title>2018</title>
+		<orderedlist>
+			<listitem>
+				<para><ulink url="../journal/ethereum.html">以太坊私链入门</ulink>[2018-01-20]</para>
+			</listitem>
+			<listitem>
+				<para><ulink url="../journal/hyperledger.html">Hyperledger 入门</ulink>[2018-01-20]</para>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
 		<title>2016</title>
 		<blockquote>
 			<para><ulink url="https://www.linkedin.com/today/author/21640912" /></para>
