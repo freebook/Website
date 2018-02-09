@@ -1,7 +1,8 @@
 <!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd">
 <webpage id="article">
 	<config param="desc" value="Article" />
-	<config param="rcsdate" value="$Date: 2013-07-25 17:39:11 +0800 (Thu, 25 Jul 2013) $" />
+	<config param="rcsdate"
+		value="$Date: 2013-07-25 17:39:11 +0800 (Thu, 25 Jul 2013) $" />
 	<head>
 		<title>Technology Journal</title>
 		<titleabbrev>Journal</titleabbrev>
@@ -13,24 +14,44 @@
 		<title>2018</title>
 		<orderedlist>
 			<listitem>
-				<para><ulink url="../journal/ethereum.solidity.html">以太坊智能合约入门</ulink>[2018-02-04]</para>
+				<para>
+					<ulink url="../journal/hyperledger.cluster.html">hyperledger v1.0.5 区块链运维入门</ulink>
+					[2018-02-09]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/ethereum.html">以太坊私链入门</ulink>[2018-01-20]</para>
+				<para>
+					<ulink url="../journal/ethereum.solidity.html">以太坊智能合约入门</ulink>
+					[2018-02-04]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/hyperledger.html">Hyperledger 入门</ulink>[2018-01-20]</para>
+				<para>
+					<ulink url="../journal/ethereum.html">以太坊私链入门</ulink>
+					[2018-01-20]
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<ulink url="../journal/hyperledger.html">Hyperledger Fabric v1.0.5 区块链入门</ulink>
+					[2018-01-20]
+				</para>
 			</listitem>
 		</orderedlist>
 	</section>
 	<section>
 		<title>2016</title>
 		<blockquote>
-			<para><ulink url="https://www.linkedin.com/today/author/21640912" /></para>
+			<para>
+				<ulink url="https://www.linkedin.com/today/author/21640912" />
+			</para>
 		</blockquote>
 		<orderedlist>
 			<listitem>
-				<para><ulink url="../journal/monitor.html">监控的艺术</ulink>[2016-11-18]</para>
+				<para>
+					<ulink url="../journal/monitor.html">监控的艺术</ulink>
+					[2016-11-18]
+				</para>
 			</listitem>
 		</orderedlist>
 	</section>
@@ -38,22 +59,36 @@
 		<title>2015 年日志在 Linkedin </title>
 		<orderedlist>
 			<listitem>
-				<para><ulink url="../journal/php.mq.html">PHP高级编程之消息队列</ulink>[2015-10-19]</para>
+				<para>
+					<ulink url="../journal/php.mq.html">PHP高级编程之消息队列</ulink>
+					[2015-10-19]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/php.daemon.html">PHP高级编程之守护进程</ulink>[2015-10-21]</para>
+				<para>
+					<ulink url="../journal/php.daemon.html">PHP高级编程之守护进程</ulink>
+					[2015-10-21]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/ssi.html">SSL证书卸载与SSI高级应用</ulink></para>
+				<para>
+					<ulink url="../journal/ssi.html">SSL证书卸载与SSI高级应用</ulink>
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/os.systemd.html">跟我学 systemd </ulink></para>
+				<para>
+					<ulink url="../journal/os.systemd.html">跟我学 systemd </ulink>
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/phalcon.spring.html">Phalcon vs Spring</ulink></para>
+				<para>
+					<ulink url="../journal/phalcon.spring.html">Phalcon vs Spring</ulink>
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/java.ant.html">Apache Ant 实现自动化部署</ulink></para>
+				<para>
+					<ulink url="../journal/java.ant.html">Apache Ant 实现自动化部署</ulink>
+				</para>
 			</listitem>
 		</orderedlist>
 	</section>
@@ -61,91 +96,173 @@
 		<title>2014</title>
 		<orderedlist>
 			<listitem>
-				<para><ulink url="../journal/network.ios.html">网络设备配置管理与版本控制</ulink>[2014-12-25]</para>
+				<para>
+					<ulink url="../journal/network.ios.html">网络设备配置管理与版本控制</ulink>
+					[2014-12-25]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/security.implants.html">植入式攻击入侵检测解决方案</ulink>[2014-12-24]</para>
+				<para>
+					<ulink url="../journal/security.implants.html">植入式攻击入侵检测解决方案</ulink>
+					[2014-12-24]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/shell.history.html">Shell 历史记录异地留痕审计与监控</ulink>[2014-12-24]</para>
+				<para>
+					<ulink url="../journal/shell.history.html">Shell 历史记录异地留痕审计与监控</ulink>
+					[2014-12-24]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/mysql.struct.html">数据库结构版本控制</ulink>[2014-12-17]</para>
+				<para>
+					<ulink url="../journal/mysql.struct.html">数据库结构版本控制</ulink>
+					[2014-12-17]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/log.html">日志中心</ulink>[2014-12-16]</para>
+				<para>
+					<ulink url="../journal/log.html">日志中心</ulink>
+					[2014-12-16]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/trader.html">金融交易系统异地灾备方案</ulink>[2014-12-2]</para>
+				<para>
+					<ulink url="../journal/trader.html">金融交易系统异地灾备方案</ulink>
+					[2014-12-2]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/scheduler.html">分布式计划任务设计与实现</ulink>[2014-09-30]</para>
+				<para>
+					<ulink url="../journal/scheduler.html">分布式计划任务设计与实现</ulink>
+					[2014-09-30]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/cvs.html">CVS开发框架</ulink>[2014-09-28]</para>
+				<para>
+					<ulink url="../journal/cvs.html">CVS开发框架</ulink>
+					[2014-09-28]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/fishbone.html">因果图在运维工作中的应用</ulink>[2014-09-26]</para>
+				<para>
+					<ulink url="../journal/fishbone.html">因果图在运维工作中的应用</ulink>
+					[2014-09-26]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/glusterfs.html">Glusterfs 安装于配置</ulink>[2014-09-23]</para>
+				<para>
+					<ulink url="../journal/glusterfs.html">Glusterfs 安装于配置</ulink>
+					[2014-09-23]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/mysql.security.html">数据库记录安全解决方案</ulink> | <ulink url="../journal/mysql.security.en.html">[EN]</ulink>[2014-08-19]</para>
+				<para>
+					<ulink url="../journal/mysql.security.html">数据库记录安全解决方案</ulink>
+					|
+					<ulink url="../journal/mysql.security.en.html">[EN]</ulink>
+					[2014-08-19]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/token.html">Linux Token Auth</ulink>[2014-08-01]</para>
+				<para>
+					<ulink url="../journal/token.html">Linux Token Auth</ulink>
+					[2014-08-01]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/freebsd.php.html">FreeBSD 10 + Nginx 1.4.4 + PHP 5.5.9 + MySQL 5.6.15</ulink>[2014-02-12]</para>
+				<para>
+					<ulink url="../journal/freebsd.php.html">FreeBSD 10 + Nginx 1.4.4 + PHP 5.5.9 + MySQL
+						5.6.15</ulink>
+					[2014-02-12]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/cache.html">Web Cache</ulink>[2014-02-28]</para>
+				<para>
+					<ulink url="../journal/cache.html">Web Cache</ulink>
+					[2014-02-28]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/php.thread.html">PHP 高级编程之多线程</ulink>[2014-03-12]</para>
+				<para>
+					<ulink url="../journal/php.thread.html">PHP 高级编程之多线程</ulink>
+					[2014-03-12]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/image.html">Image 优化方案</ulink>[2014-04-21]</para>
+				<para>
+					<ulink url="../journal/image.html">Image 优化方案</ulink>
+					[2014-04-21]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/mysql.parallel.html">MySQL 大数据操作注意事项</ulink>[2014-05-16]</para>
+				<para>
+					<ulink url="../journal/mysql.parallel.html">MySQL 大数据操作注意事项</ulink>
+					[2014-05-16]
+				</para>
 			</listitem>
 		</orderedlist>
 	</section>
-	
+
 	<webtoc />
-		
+
 	<section>
 		<title>2013</title>
 		<orderedlist>
 			<listitem>
-				<para><ulink url="../journal/rpm.html">怎样制作RPM包</ulink>[2013-04-18] </para>
+				<para>
+					<ulink url="../journal/rpm.html">怎样制作RPM包</ulink>
+					[2013-04-18]
+				</para>
 			</listitem>
 
 			<listitem>
-				<para><ulink url="../journal/mysql.plugin.image.html">数据库与图片完美解决方案</ulink>[2013-05-15] </para>
+				<para>
+					<ulink url="../journal/mysql.plugin.image.html">数据库与图片完美解决方案</ulink>
+					[2013-05-15]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/setup.html">CentOS 6.4 + nginx-1.2.5 + php-5.4.15 + MySQL-5.5.31</ulink> [2013-05-30]</para>
+				<para>
+					<ulink url="../journal/setup.html">CentOS 6.4 + nginx-1.2.5 + php-5.4.15 +
+						MySQL-5.5.31</ulink>
+					[2013-05-30]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/tomcat.html">Tomcat 安全配置与性能优化</ulink> [2013-07-23]</para>
+				<para>
+					<ulink url="../journal/tomcat.html">Tomcat 安全配置与性能优化</ulink>
+					[2013-07-23]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/security.html">Linux 系统安全与优化配置</ulink> [2013-07-25]</para>
+				<para>
+					<ulink url="../journal/security.html">Linux 系统安全与优化配置</ulink>
+					[2013-07-25]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/refresh.html">网站防刷新方案</ulink> [2013-09-26]</para>
+				<para>
+					<ulink url="../journal/refresh.html">网站防刷新方案</ulink>
+					[2013-09-26]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/db.restore.html">数据库恢复方案</ulink> [2013-09-27]</para>
+				<para>
+					<ulink url="../journal/db.restore.html">数据库恢复方案</ulink>
+					[2013-09-27]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/mysql.plugin.fifo.html">数据库进程间通信解决方案IPC</ulink> [2013-12-16]</para>
+				<para>
+					<ulink url="../journal/mysql.plugin.fifo.html">数据库进程间通信解决方案IPC</ulink>
+					[2013-12-16]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/mysql.plugin.mq.html">数据库进程间通信解决方案RPC</ulink> [2013-12-31]</para>
+				<para>
+					<ulink url="../journal/mysql.plugin.mq.html">数据库进程间通信解决方案RPC</ulink>
+					[2013-12-31]
+				</para>
 			</listitem>
 		</orderedlist>
 	</section>
@@ -156,31 +273,58 @@
 		<title>2012</title>
 		<orderedlist>
 			<listitem>
-				<para>[2012-12-04]<ulink url="../journal/utility.html">运维常用再现工具</ulink></para>
+				<para>
+					[2012-12-04]
+					<ulink url="../journal/utility.html">运维常用再现工具</ulink>
+				</para>
 			</listitem>
 			<listitem>
-				<para>[2012-01-05]<ulink url="../journal/syslog.html">Python Syslog Server</ulink></para>
+				<para>
+					[2012-01-05]
+					<ulink url="../journal/syslog.html">Python Syslog Server</ulink>
+				</para>
 			</listitem>
 			<listitem>
-				<para>[2012-01-06]<ulink url="../journal/daemon.html">Linux 应用程序开发入门</ulink></para>
+				<para>
+					[2012-01-06]
+					<ulink url="../journal/daemon.html">Linux 应用程序开发入门</ulink>
+				</para>
 			</listitem>
 			<listitem>
-				<para>[2012-03-06]<ulink url="../journal/security.php.html">PHP 安全与性能</ulink></para>
+				<para>
+					[2012-03-06]
+					<ulink url="../journal/security.php.html">PHP 安全与性能</ulink>
+				</para>
 			</listitem>
 			<listitem>
-				<para>[2012-03-08]<ulink url="../journal/security.db.html">Linux 系统与数据库安全</ulink></para>
+				<para>
+					[2012-03-08]
+					<ulink url="../journal/security.db.html">Linux 系统与数据库安全</ulink>
+				</para>
 			</listitem>
 			<listitem>
-				<para>[2012-07-26]<ulink url="../journal/logfw.html">access.log top10 IP屏蔽脚本</ulink> </para>
+				<para>
+					[2012-07-26]
+					<ulink url="../journal/logfw.html">access.log top10 IP屏蔽脚本</ulink>
+				</para>
 			</listitem>
 			<listitem>
-				<para>[2012-07-26]<ulink url="../journal/appfirewall.html">应用软件防火墙设计与实现方法</ulink> </para>
+				<para>
+					[2012-07-26]
+					<ulink url="../journal/appfirewall.html">应用软件防火墙设计与实现方法</ulink>
+				</para>
 			</listitem>
 			<listitem>
-				<para>[2012-08-09]<ulink url="../journal/shell.html">Shell实用实例参考</ulink> </para>
+				<para>
+					[2012-08-09]
+					<ulink url="../journal/shell.html">Shell实用实例参考</ulink>
+				</para>
 			</listitem>
 			<listitem>
-				<para>[2012-08-16]<ulink url="../journal/static.html">网站静态内容出版解决方案</ulink> </para>
+				<para>
+					[2012-08-16]
+					<ulink url="../journal/static.html">网站静态内容出版解决方案</ulink>
+				</para>
 			</listitem>
 		</orderedlist>
 	</section>
@@ -189,13 +333,22 @@
 		<title>2011</title>
 		<orderedlist>
 			<listitem>
-				<para><ulink url="../journal/iptables.html">IPTABLES 面向对象封装</ulink>[2011-12-21]</para>
+				<para>
+					<ulink url="../journal/iptables.html">IPTABLES 面向对象封装</ulink>
+					[2011-12-21]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/spider.html">Python Spider 爬虫实例</ulink>[2011-12-28] </para>
+				<para>
+					<ulink url="../journal/spider.html">Python Spider 爬虫实例</ulink>
+					[2011-12-28]
+				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="../journal/fault.html">网络故障分析</ulink>[2011-12-31] </para>
+				<para>
+					<ulink url="../journal/fault.html">网络故障分析</ulink>
+					[2011-12-31]
+				</para>
 			</listitem>
 
 		</orderedlist>
@@ -203,26 +356,76 @@
 
 	<section>
 		<title>Blogger: </title>
-		<para>OSChina: <ulink url="http://my.oschina.net/neochen/" /></para>
-		<para>ITEYE: <ulink url="http://netkiller-github-com.iteye.com" /></para>
-		<para>51CTO: <ulink url="http://rline.blog.51cto.com/" />|<ulink url="http://g.51cto.com/netkiller" /></para>
+		<para>
+			OSChina:
+			<ulink url="http://my.oschina.net/neochen/" />
+		</para>
+		<para>
+			ITEYE:
+			<ulink url="http://netkiller-github-com.iteye.com" />
+		</para>
+		<para>
+			51CTO:
+			<ulink url="http://rline.blog.51cto.com/" />
+			|
+			<ulink url="http://g.51cto.com/netkiller" />
+		</para>
 
-		<para>Twitter: <ulink url="http://twitter.com/bg7nyt" /></para>
-		<para>Digg: <ulink url="http://www.digg.com/netkiller" /></para>
-		<para>Facebook: <ulink url="https://www.facebook.com/bg7nyt" /></para>
-		<para>LinkedIn: <ulink url="http://cn.linkedin.com/in/netkiller" /></para>
-		<para>Flickr: <ulink url="http://www.flickr.com/photos/bg7nyt/" /></para>
-		<para>Disqus: <ulink url="http://disqus.com/netkiller/" /></para>
-		<para>solidot: <ulink url="http://solidot.org/~netkiller/" /></para>
-		<para>pengyou: <ulink url="http://www.pengyou.com/netkiller">http://www.pengyou.com/netkiller</ulink></para>
-		<para>weibo:	<ulink url="http://weibo.com/bg7nyt">http://weibo.com/bg7nyt</ulink></para>
-		<para>163 Blog:	<ulink url="http://t.163.com/netkiller" /></para>
+		<para>
+			Twitter:
+			<ulink url="http://twitter.com/bg7nyt" />
+		</para>
+		<para>
+			Digg:
+			<ulink url="http://www.digg.com/netkiller" />
+		</para>
+		<para>
+			Facebook:
+			<ulink url="https://www.facebook.com/bg7nyt" />
+		</para>
+		<para>
+			LinkedIn:
+			<ulink url="http://cn.linkedin.com/in/netkiller" />
+		</para>
+		<para>
+			Flickr:
+			<ulink url="http://www.flickr.com/photos/bg7nyt/" />
+		</para>
+		<para>
+			Disqus:
+			<ulink url="http://disqus.com/netkiller/" />
+		</para>
+		<para>
+			solidot:
+			<ulink url="http://solidot.org/~netkiller/" />
+		</para>
+		<para>
+			pengyou:
+			<ulink url="http://www.pengyou.com/netkiller">http://www.pengyou.com/netkiller</ulink>
+		</para>
+		<para>
+			weibo:
+			<ulink url="http://weibo.com/bg7nyt">http://weibo.com/bg7nyt</ulink>
+		</para>
+		<para>
+			163 Blog:
+			<ulink url="http://t.163.com/netkiller" />
+		</para>
 	</section>
 
 	<section>
 		<title>Mailing List:</title>
-		<para><ulink url="http://groups.google.com/group/netkiller"></ulink></para>
-		<para>Send email to this group: <ulink url="mailto:netkiller@googlegroups.com">netkiller@googlegroups.com</ulink></para>
-		<para>RSS <ulink url="http://groups.google.com/group/netkiller/feed/rss_v2_0_topics.xml?num=50" /></para>
+		<para>
+			<ulink url="http://groups.google.com/group/netkiller"></ulink>
+		</para>
+		<para>
+			Send email to this group:
+			<ulink url="mailto:netkiller@googlegroups.com">netkiller@googlegroups.com</ulink>
+		</para>
+		<para>
+			RSS
+			<ulink
+				url="http://groups.google.com/group/netkiller/feed/rss_v2_0_topics.xml?num=50" />
+		</para>
 	</section>
 </webpage>
