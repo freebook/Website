@@ -5,7 +5,8 @@
 ] >
 <webpage id="home">
 	<config param="desc" value="Neo's Home Page" />
-	<config param="rcsdate" value="$Id: website.xml 640 2013-07-18 03:27:47Z netkiller $" />
+	<config param="rcsdate"
+		value="$Id: website.xml 640 2013-07-18 03:27:47Z netkiller $" />
 	<config param="footer" value="about.html" altval="About..." />
 
 	<head>
@@ -38,7 +39,8 @@
 			<simplelist type='horiz' columns='4'>
 				<member>
 					<ulink url="http://creativecommons.org/">
-						<graphic format="png" fileref="graphics/by-nc-sa.png" srccredit="neo" width="180" />
+						<graphic format="png" fileref="graphics/by-nc-sa.png"
+							srccredit="neo" width="180" />
 					</ulink>
 				</member>
 				<member>
@@ -53,7 +55,8 @@
 				</member>
 				<member>
 					<ulink url="/images/weixin.jpg">
-						<graphic format="png" fileref="/images/weixin.jpg" srccredit="neo" width="80" />
+						<graphic format="png" fileref="/images/weixin.jpg"
+							srccredit="neo" width="80" />
 					</ulink>
 				</member>
 				<member>
@@ -84,12 +87,14 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 由于硬盘损坏数据丢失 《Netkiller Postfix Integrated Solution》 的 SGML文件已经不存在; Docbook SGML存在很多缺陷UTF-8支持不好，转而使用Docbook XML.
 			]]>
 			</screen>
-			<para>
+			<!-- <para>
 				项目主页
 				<ulink url="http://freebook.github.io/" />
+			</para> -->
+			<para><?dbhtml background-color="red"?>
+				最近处于失业状态，正在找工作，请读者帮忙推荐工作，不胜感激。
 			</para>
-			<para><?dbhtml background-color="red"?>最近处于失业状态，正在找工作，请读者帮忙推荐工作，不胜感激。</para>
-			
+
 		</blockquote>
 
 	</section>
@@ -97,6 +102,9 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 		<title>系列电子书</title>
 		<blockquote>
 			<simplelist type='horiz' columns='5'>
+				<member>
+					<ulink url="../blockchain/index.html">Netkiller Blockchain 手札</ulink>
+				</member>
 				<member>
 					<ulink url="../management/index.html">Netkiller Management 手札</ulink>
 				</member>
@@ -182,7 +190,9 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 					<ulink url="../multimedia/index.html">Netkiller Multimedia 手札</ulink>
 				</member>
 
-				<!-- <member> <ulink url="../management/index.html">Netkiller Management 手札</ulink> </member> <member> <ulink url="../oss/index.html">Netkiller 开源软件 手札</ulink> </member> -->
+				<!-- <member> <ulink url="../management/index.html">Netkiller Management 
+					手札</ulink> </member> <member> <ulink url="../oss/index.html">Netkiller 开源软件 
+					手札</ulink> </member> -->
 				<member>
 					<ulink url="../perl/index.html">Netkiller Perl 手札</ulink>
 				</member>
