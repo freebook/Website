@@ -11,10 +11,15 @@
 		<quote>CQ24 ITU44</quote>
 		ShenZhen, China.
 	</para>
-	<para>QTH: 12B Brooky Hills,Longhua new division, Shenzhen City, Guangdong provincial, China</para>
+	<para>QTH: The Peninsula 3-6 ,Wanghai road, Nanshan division, Shenzhen City, Guangdong provincial, China</para>
+	<!-- <para>QTH: 12B Brooky Hills,Longhua new division, Shenzhen City, Guangdong provincial, China</para> -->
 	<para>Standing By <ulink url="https://www.sz790.com/repeaters/">DMR 数字中继</ulink>，439.460Mhz -5 88.5</para>
 	<para>Best Regards, VY 73! OP. BG7NYT</para>
 	<!-- <para>QTH: FLAT XXX, BLOCK XXX,236 MEIBAN ROAD,BROOKY HILLS,BAOAN DISTRICT,SHENZHEN,CHINA</para> -->
+	<section id="mmdvm">
+		<title>MMDVM hotspot</title>
+		<para>UHF 438.800 C4FM</para>
+	</section>
 	<section id="equipment">
 		<title>Personal Amateur Radiostations of P.R.China.</title>
 		<variablelist>
@@ -82,7 +87,7 @@
 		</para>
 	</section>
 	<section>
-		<title></title>
+		<title>Ham website</title>
 		<itemizedlist>
 			<listitem>
 				<para><ulink url="https://www.sz790.com">深圳业余无线电DMR数字互联应急通信网</ulink>
