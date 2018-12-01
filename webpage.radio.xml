@@ -13,12 +13,17 @@
 	</para>
 	<para>QTH: The Peninsula 3-6 ,Wanghai road, Nanshan division, Shenzhen City, Guangdong provincial, China</para>
 	<!-- <para>QTH: 12B Brooky Hills,Longhua new division, Shenzhen City, Guangdong provincial, China</para> -->
-	<para>Standing By <ulink url="https://www.sz790.com/repeaters/">DMR 数字中继</ulink>，439.460Mhz -5 88.5</para>
+	<para>
+		Standing By
+		<ulink url="https://www.sz790.com/repeaters/">DMR 数字中继</ulink>
+		，439.460Mhz -5 88.5
+	</para>
 	<para>Best Regards, VY 73! OP. BG7NYT</para>
 	<!-- <para>QTH: FLAT XXX, BLOCK XXX,236 MEIBAN ROAD,BROOKY HILLS,BAOAN DISTRICT,SHENZHEN,CHINA</para> -->
 	<section id="mmdvm">
 		<title>MMDVM hotspot</title>
-		<para>UHF 438.800 C4FM</para>
+		<para>CN China 1 - W24166/TG46001</para>
+		<para>BM_China_4601</para>
 	</section>
 	<section id="equipment">
 		<title>Personal Amateur Radiostations of P.R.China.</title>
@@ -26,17 +31,12 @@
 			<title>My Radio Equipment - 144/430Mhz</title>
 			<varlistentry>
 				<term>Handheld</term>
-				<listitem>
-					<para>Yaesu FT-60R Handheld</para>
-				</listitem>
+				<listitem>Yaesu FT-2DR</listitem>
 				<listitem>
 					<para>Motorola MOTOTRBO XIR P8668 (Handheld)</para>
 				</listitem>
 				<listitem>
-					<para>Nagoya NA-771 Handheld Antenna</para>
-				</listitem>
-				<listitem>
-					<para>Nagoya NA-773 Handheld Antenna</para>
+					<para>Yaesu FT-60R Handheld</para>
 				</listitem>
 				<listitem>
 					<para>Yaesu FT-50R</para>
@@ -44,38 +44,29 @@
 			</varlistentry>
 			<varlistentry>
 				<term>Vehicle</term>
-				<listitem>
-					<para>Yaesu FT-7800R Vehicle</para>
-				</listitem>
+				<listitem>Yaesu FT-7800R Vehicle</listitem>
 				<listitem>Kenwood TM-231a</listitem>
-				<listitem>
-					<para>Motorola MOTOTRBO XIR M8668
-					</para>
-				</listitem>
+				<listitem>Motorola MOTOTRBO XIR M8668</listitem>
 
 			</varlistentry>
 		</variablelist>
 		<itemizedlist>
 			<title>Antenna</title>
-			<listitem>
-				<para>DIY 8EL Yagi</para>
-			</listitem>
+			<listitem>Harvest H666</listitem>
 			<listitem>
 				<para>Nagoya MAG-79EL-3W Vehicle Antenna</para>
 			</listitem>
 			<listitem>
 				<para>Nagoya NA-770R Vehicle Antenna</para>
 			</listitem>
-
 			<listitem>
-				<para>
-					Harvest H666
-				</para>
+				<para>Nagoya NA-771 Handheld Antenna</para>
 			</listitem>
 			<listitem>
-				<para>
-				</para>
+				<para>Nagoya NA-773 Handheld Antenna</para>
 			</listitem>
+			<listitem>DIY 8EL Yagi</listitem>
+			<listitem></listitem>
 		</itemizedlist>
 	</section>
 
@@ -90,11 +81,13 @@
 		<title>Ham website</title>
 		<itemizedlist>
 			<listitem>
-				<para><ulink url="https://www.sz790.com">深圳业余无线电DMR数字互联应急通信网</ulink>
+				<para>
+					<ulink url="https://www.sz790.com">深圳业余无线电DMR数字互联应急通信网</ulink>
 				</para>
 			</listitem>
 			<listitem>
-				<para><ulink url="http://www.szham.org/forum/">深圳火腿杂志--深圳地区业余无线电爱好者网站!</ulink>
+				<para>
+					<ulink url="http://www.szham.org/forum/">深圳火腿杂志--深圳地区业余无线电爱好者网站!</ulink>
 				</para>
 			</listitem>
 		</itemizedlist>
