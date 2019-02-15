@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd">
+<webpage id="video">
+	<config param="desc" value="Article" />
+	<config param="rcsdate" value="$Date: 2013-07-25 17:39:11 +0800 (Thu, 25 Jul 2013) $" />
+	<head>
+		<title>Video</title>
+		<titleabbrev>Video</titleabbrev>
+		<summary>Video</summary>
+	</head>
+
+	<webtoc />
+
+	<!-- <graphic format="png" fileref="/images/wifi/kexing.png" srccredit="neo" width="300" /> -->
+	<sidebar>
+		<title>视频教程</title>
+		<para>Vimeo <ulink url="https://vimeo.com/netkiller" /></para>
+		<para>优酷: <ulink url="http://i.youku.com/bg7nyt" /></para>
+	</sidebar>
+	
+
+</webpage>

@@ -20,7 +20,7 @@
 	<toc page="website.xml" filename="index.html">
 		<tocentry page="webpage.news.xml" dir="home" filename="news.html" />
 		<tocentry page="webpage.journal.xml" dir="journal" filename="index.html" />
-		<!-- <tocentry page="webpage.wifi.xml" dir="wifi" filename="index.html" /> -->
+		<tocentry page="webpage.video.xml" dir="home" filename="video.html" />
 		<tocentry page="webpage.technology.xml" dir="home" filename="technology.html">
 			<tocentry page="webpage.network.xml" filename="network.html" />
 			<tocentry page="webpage.system.xml" filename="system.html" />
@@ -31,7 +31,7 @@
 			<tocentry page="webpage.download.epub.xml" filename="download.epub.html" />
 			<tocentry page="webpage.download.kindle.xml" filename="download.kindle.html" />
 			<tocentry page="webpage.download.chm.xml" filename="download.chm.html" />
-			<tocentry page="webpage.download.pdf.xml" filename="download.pdf.html" />
+			<!-- <tocentry page="webpage.download.pdf.xml" filename="download.pdf.html" /> -->
 			<tocentry page="webpage.download.rpm.xml" filename="download.rpm.html" />
 			<tocentry page="webpage.download.deb.xml" filename="download.deb.html" />
 		</tocentry>

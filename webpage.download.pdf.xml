@@ -23,71 +23,71 @@
 			<member>
 				<ulink url="../postgres/postgresql.pdf">Netkiller PostgreSQL 手札</ulink>
 				<ulink url="../postgres/postgresql-big5.pdf">(繁体中文)</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/postgresql.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/postgresql.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller Architect 手札.pdf">Netkiller Architect 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/architect.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/architect.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller CentOS 手札.pdf">Netkiller CentOS Linux 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/centos.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/centos.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller Cisco IOS 手札.pdf">Netkiller Cisco IOS 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/cisco.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/cisco.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller Cryptography 手札.pdf">Netkiller Cryptography 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/cryptography.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/cryptography.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller Database 手札.pdf">Netkiller Database 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/database.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/database.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller Developer 手札.pdf">Netkiller Developer 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/developer.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/developer.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller FreeBSD 手札.pdf">Netkiller FreeBSD 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/freebsd.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/freebsd.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller LDAP 手札.pdf">Netkiller LDAP 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/ldap.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/ldap.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller Linux Basics 手札.pdf">Netkiller Linux Basics 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/debian.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/debian.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller Linux Monitoring 手札.pdf">Netkiller Linux Monitoring 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/monitor.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/monitor.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller Linux Shell 手札.pdf">Netkiller Linux Shell 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/shell.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/shell.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller Linux Storage 手札.pdf">Netkiller Linux Storage 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/storage.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/storage.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller Linux Web 手札.pdf">Netkiller Linux Web 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/web.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/web.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller Linux 手札.pdf">Netkiller Linux 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/linux.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/linux.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller Security 手札.pdf">Netkiller Security 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/security.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/security.png" srccredit="neo" width="200"/> -->
 			</member>
 			<member>
 				<ulink url="../download/pdf/Netkiller Version 手札.pdf">Netkiller Version 手札.pdf</ulink>
-				<graphic  format="png" fileref="../images/barcode/pdf/version.png" srccredit="neo" width="200"/>
+				<!-- <graphic  format="png" fileref="../images/barcode/pdf/version.png" srccredit="neo" width="200"/> -->
 			</member>
 
 		</simplelist>
