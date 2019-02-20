@@ -4,19 +4,29 @@
 	<config param="desc" value="Article" />
 	<config param="rcsdate" value="$Date: 2013-07-25 17:39:11 +0800 (Thu, 25 Jul 2013) $" />
 	<head>
-		<title>Video</title>
-		<titleabbrev>Video</titleabbrev>
-		<summary>Video</summary>
+		<title>Netkiller Video</title>
+		<titleabbrev>Netkiller Video</titleabbrev>
+		<summary>Netkiller Video</summary>
 	</head>
 
 	<webtoc />
 
 	<!-- <graphic format="png" fileref="/images/wifi/kexing.png" srccredit="neo" width="300" /> -->
 	<sidebar>
-		<title>视频教程</title>
-		<para>Vimeo <ulink url="https://vimeo.com/netkiller" /></para>
-		<para>优酷: <ulink url="http://i.youku.com/bg7nyt" /></para>
+		<title>Netkiller Video 手札</title>
+		<para>
+			Vimeo
+			<ulink url="https://vimeo.com/netkiller" />
+		</para>
+		<para>
+			优酷:
+			<ulink url="http://i.youku.com/bg7nyt" />
+		</para>
+		<para>
+			YouTube: <ulink url="https://www.youtube.com/user/bg7nyt/videos" />
+		</para>
+		<para>* 因为我还没有购买声卡和麦克风，所以视频教程有些是无声的。</para>
 	</sidebar>
-	
+
 
 </webpage>
