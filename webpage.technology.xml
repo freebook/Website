@@ -4,9 +4,9 @@
 	<config param="desc" value="Technology" />
 	<config param="rcsdate" value="$Date: 2013-07-18 11:27:47 +0800 (Thu, 18 Jul 2013) $" />
 	<head>
-		<title>Free book</title>
-		<titleabbrev>Free book</titleabbrev>
-		<summary>Free book</summary>
+		<title>Netkiller ebook</title>
+		<titleabbrev>Netkiller ebook</titleabbrev>
+		<summary>Netkiller ebook</summary>
 	</head>
 	<webtoc />
 	<table>
