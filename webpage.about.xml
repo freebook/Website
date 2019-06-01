@@ -12,7 +12,7 @@
 	<webtoc />
 
 	&about.xml;
-
+<!--
 	<sidebar>
 		<title>我的梦想 - 为了梦想而奋斗！！！</title>
 		<para>拥有一支Beretta - 92FS, 如果此生有机会移民到国外我会买一只。</para>
@@ -36,7 +36,7 @@
 		<para>Motorola XIR M8668</para>
 		<para>Yamaha RX-V581</para>
 	</sidebar>
-<!--
+
 	<section>
 		<title>Address:</title>
 12B Brooky Hills,Longhua town, Baoan division, Shenzhen City,	Guangdong provincial, China
