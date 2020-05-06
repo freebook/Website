@@ -18,6 +18,7 @@
 		<a href="//netkiller.github.io/">简体中文</a> |
 	    <a href="http://netkiller.sourceforge.net/">繁体中文</a> |
 	    <a href="/journal/index.html">杂文</a> |
+	   	<a href="https://zhuanlan.zhihu.com/netkiller">知乎专栏</a> |
 	    <a href="//www.netkiller.cn/home/donations.html">打赏(Donations)</a> |
 	    <a href="https://github.com/netkiller">Github</a> |
 	    <a href="http://my.oschina.net/neochen/">OSChina 博客</a> |
@@ -25,7 +26,7 @@
 	    <a href="https://yq.aliyun.com/u/netkiller/">云栖社区</a> |
 	    <a href="https://www.facebook.com/bg7nyt">Facebook</a> |
 	    <a href="http://cn.linkedin.com/in/netkiller/">Linkedin</a> |
-	    <a href="https://zhuanlan.zhihu.com/netkiller">知乎专栏</a> |
+
 	    <a href="//www.netkiller.cn/home/video.html">视频教程</a> |
 	    <a href="//www.netkiller.cn/home/about.html">About</a>
 	

@@ -45,4 +45,111 @@
 
 	</section>
 -->
+
+	<section>
+		<title>系列电子书</title>
+		<blockquote>
+			<simplelist type='horiz' columns='5'>
+				<member>
+					<ulink url="../blockchain/index.html">Netkiller Blockchain 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../architect/index.html">Netkiller Architect 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../linux/index.html">Netkiller Linux 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../java/index.html">Netkiller Java 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../spring/index.html">Netkiller Spring 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../android/index.html">Netkiller Android 9 Pie 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../developer/index.html">Netkiller Developer 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../php/index.html">Netkiller PHP 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../python/index.html">Netkiller Python 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../testing/index.html">Netkiller Testing 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../cryptography/index.html">Netkiller Cryptography 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../freebsd/index.html">Netkiller FreeBSD 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../shell/index.html">Netkiller Shell 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../security/index.html">Netkiller Security 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../www/index.html">Netkiller Web 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../monitoring/index.html">Netkiller Monitoring 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../storage/index.html">Netkiller Storage 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../mail/index.html">Netkiller Mail 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../docbook/index.html">Netkiller Docbook 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../project/index.html">Netkiller Project 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../database/index.html">Netkiller Database 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../postgresql/index.html">Netkiller PostgreSQL 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../mysql/index.html">Netkiller MySQL 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../nosql/index.html">Netkiller NoSQL 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../ldap/index.html">Netkiller LDAP 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../network/index.html">Netkiller Network 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../cisco/index.html">Netkiller Cisco IOS 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../h3c/index.html">Netkiller H3C 手札</ulink>
+				</member>
+				<!-- <member> <ulink url="../management/index.html">Netkiller Management 手札</ulink> </member> <member> <ulink url="../oss/index.html">Netkiller 开源软件 手札</ulink> </member> -->
+				<member>
+					<ulink url="../perl/index.html">Netkiller Perl 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../radio/index.html">Netkiller Amateur Radio 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../virtualization/index.html">Netkiller Virtualization 手札</ulink>
+				</member>
+				<member>
+					<ulink url="../management/index.html">Netkiller Management 手札</ulink>
+				</member>
+			</simplelist>
+
+		</blockquote>
+	</section>
+
 </webpage>

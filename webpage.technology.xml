@@ -4,8 +4,8 @@
 	<config param="desc" value="Technology" />
 	<config param="rcsdate" value="$Date: 2013-07-18 11:27:47 +0800 (Thu, 18 Jul 2013) $" />
 	<head>
-		<title>Netkiller ebook</title>
-		<titleabbrev>Netkiller ebook</titleabbrev>
+		<title>系列免费电子书</title>
+		<titleabbrev>系列免费电子书</titleabbrev>
 		<summary>Netkiller ebook</summary>
 	</head>
 	<webtoc />
