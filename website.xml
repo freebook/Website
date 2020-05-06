@@ -29,7 +29,39 @@
 		</keywords>
 	</head>
 
+	<section>
+		<title>Netkiller 系列电子书</title>
+		<note>
+			<title>转载请与作者联系，同时请务必标明文章原始出处和作者信息及本声明。</title>
 
+			<simplelist type='horiz' columns='4'>
+				<member>
+					<ulink url="http://creativecommons.org/">
+						<graphic format="png" fileref="graphics/by-nc-sa.png" srccredit="neo" width="180" />
+					</ulink>
+				</member>
+				<member>
+					<simplelist>
+						<member>
+							<ulink url="http://netkiller.github.io/">http://netkiller.github.io</ulink>
+						</member>
+						<member>
+							<ulink url="http://netkiller.sourceforge.net/">http://netkiller.sourceforge.net</ulink>
+						</member>
+					</simplelist>
+				</member>
+				<member>
+					<ulink url="/images/weixin.jpg">
+						<graphic format="png" fileref="/images/weixin.jpg" srccredit="neo" width="80" />
+					</ulink>
+				</member>
+				<member>
+					<para>微信扫描二维码进入 Netkiller 微信订阅号 </para>
+					<para>QQ群：128659835 请注明“读者”</para>
+				</member>
+			</simplelist>
+		</note>
+	</section>
 
 	<table>
 		<title>Netkiller 系列免费电子书</title>
@@ -121,42 +153,6 @@
 			</tbody>
 		</tgroup>
 	</table>
-	<section>
-		<title>Netkiller 系列电子书</title>
-		<note>
-			<title>转载请与作者联系，同时请务必标明文章原始出处和作者信息及本声明。</title>
-
-			<simplelist type='horiz' columns='4'>
-				<member>
-					<ulink url="http://creativecommons.org/">
-						<graphic format="png" fileref="graphics/by-nc-sa.png" srccredit="neo" width="180" />
-					</ulink>
-				</member>
-				<member>
-					<simplelist>
-						<member>
-							<ulink url="http://netkiller.github.io/">http://netkiller.github.io</ulink>
-						</member>
-						<member>
-							<ulink url="http://netkiller.sourceforge.net/">http://netkiller.sourceforge.net</ulink>
-						</member>
-					</simplelist>
-				</member>
-				<member>
-					<ulink url="/images/weixin.jpg">
-						<graphic format="png" fileref="/images/weixin.jpg" srccredit="neo" width="80" />
-					</ulink>
-				</member>
-				<member>
-					<para>微信扫描二维码进入 Netkiller 微信订阅号 </para>
-					<para>QQ群：128659835 请注明“读者”</para>
-				</member>
-			</simplelist>
-
-		</note>
-
-
-	</section>
 
 	<section>
 		<title>致读者</title>
