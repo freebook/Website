@@ -13,15 +13,15 @@
 <titleabbrev>Journal</titleabbrev>
 <summary>Technology Journal</summary>
 </tocentry>
-<tocentry page="webpage.wifi.xml" id="wifi" dir="wifi/" filename="index.html">
-<title>Free WiFi</title>
-<titleabbrev>Free WiFi</titleabbrev>
-<summary>Free WiFi</summary>
+<tocentry page="webpage.video.xml" id="video" dir="home/" filename="video.html">
+<title>Netkiller Video</title>
+<titleabbrev>Netkiller Video</titleabbrev>
+<summary>Netkiller Video</summary>
 </tocentry>
 <tocentry page="webpage.technology.xml" id="technology" dir="home/" filename="technology.html">
-<title>Free book</title>
-<titleabbrev>Free book</titleabbrev>
-<summary>Free book</summary>
+<title>系列电子书</title>
+<titleabbrev>系列电子书</titleabbrev>
+<summary>Netkiller ebook</summary>
 <tocentry page="webpage.network.xml" id="network" dir="home/" filename="network.html">
 <title>Network</title>
 <titleabbrev>Network</titleabbrev>
@@ -46,30 +46,30 @@
 <tocentry page="webpage.download.xml" id="download" dir="home/" filename="download.html">
 <title>Download</title>
 <summary>Netkiller 手札下载</summary>
-<tocentry page="webpage.epub.xml" id="epub" dir="home/" filename="download.epub.html">
+<tocentry page="webpage.download.epub.xml" id="epub" dir="home/" filename="download.epub.html">
 <title>iBook(EPUB) </title>
 <titleabbrev>iBook(EPUB)</titleabbrev>
 <summary>Unix like OS Document</summary>
 </tocentry>
-<tocentry page="webpage.pdf.xml" id="developer" dir="home/" filename="download.pdf.html">
-<title>PDF Ebook</title>
-<titleabbrev>PDF Ebook</titleabbrev>
-<summary>Development Language</summary>
-</tocentry>
-<tocentry page="webpage.chm.xml" id="chm" dir="home/" filename="download.chm.html">
-<title>CHM ebook Download</title>
-<titleabbrev>CHM Ebook</titleabbrev>
-<summary>CHM ebook Download</summary>
-</tocentry>
-<tocentry page="webpage.kindle.xml" id="kindle" dir="home/" filename="download.kindle.html">
+<tocentry page="webpage.download.kindle.xml" id="kindle" dir="home/" filename="download.kindle.html">
 <title>Kindle</title>
 <titleabbrev>Kindle</titleabbrev>
 <summary>Kindle Document</summary>
 </tocentry>
-<tocentry page="webpage.software.xml" id="solution" dir="home/" filename="download.software.html">
-<title>software</title>
-<titleabbrev>Open source software</titleabbrev>
-<summary>Open source software</summary>
+<tocentry page="webpage.download.chm.xml" id="chm" dir="home/" filename="download.chm.html">
+<title>CHM ebook Download</title>
+<titleabbrev>CHM Ebook</titleabbrev>
+<summary>CHM ebook Download</summary>
+</tocentry>
+<tocentry page="webpage.download.rpm.xml" id="yum]" dir="home/" filename="download.rpm.html">
+<title>Yum</title>
+<titleabbrev>Yum Package</titleabbrev>
+<summary>Yum Package</summary>
+</tocentry>
+<tocentry page="webpage.download.deb.xml" id="ubuntu.deb" dir="home/" filename="download.deb.html">
+<title>Deb</title>
+<titleabbrev>Deb Package</titleabbrev>
+<summary>Ubuntu / Debian Package</summary>
 </tocentry>
 </tocentry>
 <tocentry page="webpage.project.xml" id="project" dir="home/" filename="project.html">
@@ -107,16 +107,6 @@
 <summary>Website Solution</summary>
 </tocentry>
 </tocentry>
-<tocentry page="webpage.music.xml" id="music" dir="home/" filename="music.html">
-<title>Music</title>
-<titleabbrev>Music</titleabbrev>
-<summary>Netkiller Music 手札</summary>
-<tocentry page="webpage.piano.xml" id="piano" dir="home/" filename="music.piano.html">
-<title>Piano</title>
-<titleabbrev>Piano</titleabbrev>
-<summary>Piano Sheet Music</summary>
-</tocentry>
-</tocentry>
 <tocentry page="webpage.xml.xml" id="xml" dir="home/" filename="xml.html">
 <title>RSS / ATOM</title>
 <titleabbrev>RSS / ATOM</titleabbrev>
@@ -143,7 +133,7 @@
 <title>Amateur Radio</title>
 <summary>Amateur Radio</summary>
 </tocentry>
-<tocentry page="webpage.game.xml" id="boinc" dir="home/" filename="game.html">
+<tocentry page="webpage.game.xml" id="game" dir="home/" filename="game.html">
 <title>Game</title>
 <summary>Game</summary>
 </tocentry>

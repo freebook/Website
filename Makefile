@@ -6,12 +6,13 @@ PUBLIC_HTML=~/public_html
 
 PROC = XML_CATALOG_FILES=../catalog.xml  xsltproc
 
+all: git website
+
 git:
 	@git pull
-#	@git submodule init
-#	@git submodule update
+	@git submodule init
+	@git submodule update
 
-all: git website
 
 #include depends.tabular
 
