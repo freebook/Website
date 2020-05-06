@@ -103,55 +103,75 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 		<title>Netkiller 系列免费电子书</title>
 		<tgroup cols="3">
 			<tbody>
-				<row>
+				<row valign="top">
 					<entry>
 						<ulink url="../management/index.html">
 							Netkiller Management 手札
-							<graphic format="png" fileref="management/images/cover.png" srccredit="neo" width="300" />
+							<graphic format="png" fileref="management/images/cover.png" srccredit="neo" width="200" />
 						</ulink>
 
 					</entry>
-					<entry valign="top">
+					<entry>
 						<simplelist>
 							<member>
 								<ulink url="../blockchain/index.html">
 									Netkiller Blockchain 手札
-									<graphic fileref="blockchain/images/cover.png" />
+									<graphic fileref="blockchain/images/cover.png" width="200" />
 								</ulink>
 							</member>
 							<member>
 
 							</member>
 							<member>
-								<ulink url="../linux/index.html">Netkiller Linux 手札</ulink>
-							</member>
-							<member>
-								<ulink url="../java/index.html">Netkiller Java 手札</ulink>
+
 							</member>
 							<member>
 
 							</member>
 							<member>
-								<ulink url="../devops/index.html">Netkiller DevOps 手札</ulink>
+
 							</member>
 							<member>
-								<ulink url="../virtualization/index.html">Netkiller Virtualization 手札</ulink>
+
+							</member>
+							<member>
+
 							</member>
 						</simplelist>
 					</entry>
 					<entry>
 						<ulink url="../spring/index.html">
 							Netkiller Spring 手札
-							<graphic fileref="spring/images/cover.png" />
+							<graphic fileref="spring/images/cover.png" width="200" />
 						</ulink>
 
 					</entry>
 					<entry>
 						<ulink url="../architect/index.html">
 							Netkiller Architect 手札
-							<graphic fileref="architect/images/cover.png" />
+							<graphic fileref="architect/images/cover.png" width="200" />
 						</ulink>
 
+					</entry>
+				</row>
+				<row valign="top">
+					<entry>
+						<ulink url="../linux/index.html">
+							Netkiller Linux 手札
+							<graphic format="png" fileref="linux/images/cover.png" srccredit="neo" width="200" />
+						</ulink>
+					</entry>
+					<entry>
+						<ulink url="../java/index.html">
+							Netkiller Java 手札
+							<graphic fileref="java/images/cover.png" width="200" />
+						</ulink>
+					</entry>
+					<entry>
+						<ulink url="../devops/index.html">Netkiller DevOps 手札</ulink>
+					</entry>
+					<entry>
+						<ulink url="../virtualization/index.html">Netkiller Virtualization 手札</ulink>
 					</entry>
 				</row>
 			</tbody>
