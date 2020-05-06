@@ -86,19 +86,62 @@
 							Netkiller Linux 手札
 							<graphic format="png" fileref="linux/images/cover.png" srccredit="neo" width="200" />
 						</ulink>
-						<ulink url="../download/2020/epub/Netkiller-Linux.epub">EPUB</ulink> | 
+						<ulink url="../download/2020/epub/Netkiller-Linux.epub">EPUB</ulink>
+						|
 						<ulink url="../download/2020/mobi/Netkiller-Linux.mobi">MOBI</ulink>
+					</entry>
+					<entry>
+						<ulink url="../blockchain/index.html">
+							Netkiller Blockchain 手札
+							<graphic fileref="blockchain/images/cover.png" width="200" />
+						</ulink>
+						<ulink url="../download/2020/epub/Netkiller-Blockchain.epub">EPUB</ulink>
+					</entry>
+					<entry>
+						<ulink url="../spring/index.html">
+							Netkiller Spring 手札
+							<graphic fileref="spring/images/cover.png" width="200" />
+						</ulink>
+						<ulink url="../download/2020/epub/Netkiller-Java-Spring.epub">EPUB</ulink>
+					</entry>
+					<entry>
+						<ulink url="../architect/index.html">
+							Netkiller Architect 手札
+							<graphic fileref="architect/images/cover.png" width="200" />
+						</ulink>
+
+					</entry>
+				</row>
+				<row valign="top">
+
+					<entry>
+						<ulink url="../java/index.html">
+							Netkiller Java 手札
+							<graphic fileref="java/images/cover.png" width="200" />
+						</ulink>
+						<ulink url="../download/2020/epub/Netkiller-Java.epub">EPUB</ulink>
+					</entry>
+					<entry>
+						<ulink url="../docbook/index.html">
+							Netkiller Docbook 手札
+							<graphic fileref="docbook/images/cover.png" width="200" />
+						</ulink>
+						<ulink url="../download/2020/epub/Netkiller-Docbook.epub">EPUB</ulink>
+					</entry>
+					<entry>
+						<ulink url="../management/index.html">
+							Netkiller Management 手札
+							<graphic format="png" fileref="management/images/cover.png" srccredit="neo" width="200" />
+						</ulink>
+						<ulink url="../download/2020/epub/Netkiller-Management.epub">EPUB</ulink>
 					</entry>
 					<entry>
 						<simplelist>
 							<member>
-								<ulink url="../blockchain/index.html">
-									Netkiller Blockchain 手札
-									<graphic fileref="blockchain/images/cover.png" width="200" />
-								</ulink>
+								<ulink url="../devops/index.html">Netkiller DevOps 手札</ulink>
 							</member>
 							<member>
-
+								<ulink url="../virtualization/index.html">Netkiller Virtualization 手札</ulink>
 							</member>
 							<member>
 
@@ -116,46 +159,8 @@
 
 							</member>
 						</simplelist>
-					</entry>
-					<entry>
-						<ulink url="../spring/index.html">
-							Netkiller Spring 手札
-							<graphic fileref="spring/images/cover.png" width="200" />
-						</ulink>
 
-					</entry>
-					<entry>
-						<ulink url="../architect/index.html">
-							Netkiller Architect 手札
-							<graphic fileref="architect/images/cover.png" width="200" />
-						</ulink>
 
-					</entry>
-				</row>
-				<row valign="top">
-
-					<entry>
-						<ulink url="../java/index.html">
-							Netkiller Java 手札
-							<graphic fileref="java/images/cover.png" width="200" />
-						</ulink>
-					</entry>
-					<entry>
-						<ulink url="../docbook/index.html">
-							Netkiller Docbook 手札
-							<graphic fileref="docbook/images/cover.png" width="200" />
-						</ulink>
-					</entry>
-					<entry>
-						<ulink url="../management/index.html">
-							Netkiller Management 手札
-							<graphic format="png" fileref="management/images/cover.png" srccredit="neo" width="200" />
-						</ulink>
-
-					</entry>
-					<entry>
-						<ulink url="../devops/index.html">Netkiller DevOps 手札</ulink>
-						<ulink url="../virtualization/index.html">Netkiller Virtualization 手札</ulink>
 					</entry>
 				</row>
 			</tbody>
