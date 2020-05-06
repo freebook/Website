@@ -6,7 +6,12 @@ PUBLIC_HTML=~/public_html
 
 PROC = XML_CATALOG_FILES=../catalog.xml  xsltproc
 
-all: website
+git:
+	@git pull
+#	@git submodule init
+#	@git submodule update
+
+all: git website
 
 #include depends.tabular
 
@@ -30,7 +35,7 @@ depends:  autolayout.xml
 		tabular.xsl  \
 		$(filter-out autolayout.xml website.database.xml %xsl,$^)
 
-website:
+website: git
 	@xsltproc --output autolayout.xml ${WEBSITE}/autolayout.xsl layout.xml
 	@xsltproc --stringparam output-root $(PUBLIC_HTML) \
 		--stringparam chunker.output.encoding utf-8 \

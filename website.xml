@@ -106,8 +106,8 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 				<row>
 					<entry>
 						<ulink url="../management/index.html">
-							<graphic format="png" fileref="management/images/cover.png" srccredit="neo" width="300" />
 							Netkiller Management 手札
+							<graphic format="png" fileref="management/images/cover.png" srccredit="neo" width="300" />
 						</ulink>
 
 					</entry>
@@ -116,11 +116,11 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 							<member>
 								<ulink url="../blockchain/index.html">
 									Netkiller Blockchain 手札
-									<graphic fileref="blockchain/images/cover.jpg" />
+									<graphic fileref="blockchain/images/cover.png" />
 								</ulink>
 							</member>
 							<member>
-								<ulink url="../architect/index.html">Netkiller Architect 手札</ulink>
+
 							</member>
 							<member>
 								<ulink url="../linux/index.html">Netkiller Linux 手札</ulink>
@@ -129,7 +129,7 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 								<ulink url="../java/index.html">Netkiller Java 手札</ulink>
 							</member>
 							<member>
-								<ulink url="../spring/index.html">Netkiller Spring 手札</ulink>
+
 							</member>
 							<member>
 								<ulink url="../devops/index.html">Netkiller DevOps 手札</ulink>
@@ -140,10 +140,17 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 						</simplelist>
 					</entry>
 					<entry>
+						<ulink url="../spring/index.html">
+							Netkiller Spring 手札
+							<graphic fileref="spring/images/cover.png" />
+						</ulink>
 
 					</entry>
 					<entry>
-
+						<ulink url="../architect/index.html">
+							Netkiller Architect 手札
+							<graphic fileref="architect/images/cover.png" />
+						</ulink>
 
 					</entry>
 				</row>
