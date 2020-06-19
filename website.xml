@@ -123,6 +123,16 @@
 						<ulink url="../download/2020/epub/Netkiller-Management.epub">EPUB</ulink>
 					</entry>
 					<entry>
+						<ulink url="../mysql/index.html">
+							Netkiller MySQL 手札
+							<graphic format="png" fileref="mysql/images/cover.png" srccredit="neo" width="200" />
+						</ulink>
+
+
+					</entry>
+				</row>
+				<row valign="top">
+					<entry>
 						<simplelist>
 							<member>
 								<ulink url="../devops/index.html">Netkiller DevOps 手札</ulink>
@@ -146,8 +156,6 @@
 
 							</member>
 						</simplelist>
-
-
 					</entry>
 				</row>
 			</tbody>
