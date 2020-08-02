@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <layout>
 	<config param="text-prefix" value="txt" />
-	<config param="homebanner-tabular" value="graphics/by-nc-sa.png" altval="Home Banner" />
-	<config param="banner-tabular" value="graphics/by-nc-sa.png" altval="Banner" />
-	<config param="homebanner" value="graphics/homebanner.png"
-		altval="Home
-		Banner" />
-	<config param="banner" value="graphics/icons/iconhome.gif"
-		altval="Banner" />
+	<config param="homebanner-tabular" value="images/license.png" altval="Home Banner" />
+	<config param="banner-tabular" value="images/license.png" altval="Banner" />
+	<config param="homebanner" value="graphics/homebanner.png" altval="Home	Banner" />
+	<config param="banner" value="graphics/icons/iconhome.gif" altval="Banner" />
 
 	<copyright>
 		<year>2009-2017</year>
@@ -41,13 +38,11 @@
 			<tocentry page="webpage.project.php.xml" filename="project.php.html" />
 		</tocentry>
 
-		<tocentry page="webpage.screenshots.xml" dir="home"
-			filename="screenshots.html">
+		<tocentry page="webpage.screenshots.xml" dir="home" filename="screenshots.html">
 			<tocentry page="webpage.solution.xml" filename="solution.html" /> <!-- revisionflag="" -->
 		</tocentry>
 
-		<!-- <tocentry page="webpage.music.xml" dir="home" filename="music.html"> 
-			</tocentry> -->
+		<!-- <tocentry page="webpage.music.xml" dir="home" filename="music.html"> </tocentry> -->
 
 		<tocentry page="webpage.xml.xml" dir="home" filename="xml.html" />
 
