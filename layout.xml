@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <layout>
 	<config param="text-prefix" value="txt" />
-	<config param="homebanner-tabular" value="images/neo.jpg"
-		altval="Home Banner" />
-	<config param="banner-tabular" value="/images/neo.jpg" altval="Banner" />
+	<config param="homebanner-tabular" value="graphics/by-nc-sa.png" altval="Home Banner" />
+	<config param="banner-tabular" value="graphics/by-nc-sa.png" altval="Banner" />
 	<config param="homebanner" value="graphics/homebanner.png"
 		altval="Home
 		Banner" />
