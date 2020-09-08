@@ -96,7 +96,15 @@
   ga('send', 'pageview');
 
 </script>
-
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?93967759a51cda79e49bf4e34d0b0f2c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
    </xsl:template>
 
 <xsl:template name="navtoc">
@@ -132,18 +140,6 @@ function googleTranslateElementInit() {
 
 </td>
 </tr>
-</xsl:template>
-
-<xsl:template name="webpage.header">
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?93967759a51cda79e49bf4e34d0b0f2c";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
 </xsl:template>
 
 <xsl:template name="webpage.footer">
