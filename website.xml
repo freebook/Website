@@ -138,7 +138,10 @@
 					<entry>
 						<simplelist>
 							<member>
-								<ulink url="../virtualization/index.html">Netkiller Virtualization 手札</ulink>
+								<ulink url="../virtualization/index.html">
+									Netkiller Virtualization 手札
+									<graphic format="png" fileref="virtualization/images/cover.png" srccredit="neo" width="200" />
+								</ulink>
 							</member>
 							<member>
 
