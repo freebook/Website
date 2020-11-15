@@ -69,6 +69,16 @@
 			<tbody>
 				<row valign="top">
 					<entry>
+						<ulink url="../architect/index.html">
+							Netkiller Architect 手札
+							<graphic fileref="architect/images/cover.png" width="200" />
+						</ulink>
+						<ulink url="../download/epub/Netkiller-Architect.epub">EPUB</ulink>
+						|
+						<ulink url="../download/mobi/Netkiller-Architect.mobi">MOBI</ulink>
+					</entry>
+					<entry>
+
 						<ulink url="../linux/index.html">
 							Netkiller Linux 手札
 							<graphic format="png" fileref="linux/images/cover.png" srccredit="neo" width="200" />
@@ -83,6 +93,8 @@
 							<graphic fileref="blockchain/images/cover.png" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-Blockchain.epub">EPUB</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Blockchain.mobi">MOBI</ulink>
 					</entry>
 					<entry>
 						<ulink url="../spring/index.html">
@@ -90,23 +102,29 @@
 							<graphic fileref="spring/images/cover.png" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-Java-Spring.epub">EPUB</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Java-Spring.mobi">MOBI</ulink>
 					</entry>
-					<entry>
-						<ulink url="../architect/index.html">
-							Netkiller Architect 手札
-							<graphic fileref="architect/images/cover.png" width="200" />
-						</ulink>
 
-					</entry>
 				</row>
 				<row valign="top">
-
+					<entry>
+						<ulink url="../management/index.html">
+							Netkiller Management 手札
+							<graphic format="png" fileref="management/images/cover.png" srccredit="neo" width="200" />
+						</ulink>
+						<ulink url="../download/epub/Netkiller-Management.epub">EPUB</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Management.mobi">MOBI</ulink>
+					</entry>
 					<entry>
 						<ulink url="../java/index.html">
 							Netkiller Java 手札
 							<graphic fileref="java/images/cover.png" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-Java.epub">EPUB</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Java.mobi">MOBI</ulink>
 					</entry>
 					<entry>
 						<ulink url="../docbook/index.html">
@@ -114,13 +132,8 @@
 							<graphic fileref="docbook/images/cover.png" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-Docbook.epub">EPUB</ulink>
-					</entry>
-					<entry>
-						<ulink url="../management/index.html">
-							Netkiller Management 手札
-							<graphic format="png" fileref="management/images/cover.png" srccredit="neo" width="200" />
-						</ulink>
-						<ulink url="../download/epub/Netkiller-Management.epub">EPUB</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Docbook.mobi">MOBI</ulink>
 					</entry>
 					<entry>
 						<ulink url="../mysql/index.html">
@@ -132,9 +145,7 @@
 					</entry>
 				</row>
 				<row valign="top">
-					<entry>
-						<!-- <ulink url="../devops/index.html">Netkiller DevOps 手札</ulink> -->
-					</entry>
+
 					<entry>
 						<simplelist>
 							<member>
@@ -162,6 +173,9 @@
 
 							</member>
 						</simplelist>
+					</entry>
+					<entry>
+						<!-- <ulink url="../devops/index.html">Netkiller DevOps 手札</ulink> -->
 					</entry>
 				</row>
 			</tbody>
