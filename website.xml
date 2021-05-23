@@ -1,8 +1,5 @@
-<!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd" [
-	<!ENTITY chapter.solution.xml SYSTEM "chapter.solution.xml" NDATA XML>
-	<!ENTITY test1a SYSTEM "test1a.xml" NDATA XML>
-	<!ENTITY test3 SYSTEM "test3.xml" NDATA XML>
-] >
+<!-- /usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd -->
+<!-- <!DOCTYPE webpage SYSTEM "website.rng" [ <!ENTITY chapter.solution.xml SYSTEM "chapter.solution.xml" NDATA XML> <!ENTITY test1a SYSTEM "test1a.xml" NDATA XML> <!ENTITY test3 SYSTEM "test3.xml" NDATA XML> ] > -->
 <webpage id="home">
 	<config param="desc" value="Neo's Home Page" />
 	<config param="rcsdate" value="$Id: website.xml 640 2013-07-18 03:27:47Z netkiller $" />
@@ -146,6 +143,15 @@
 				</row>
 				<row valign="top">
 					<entry>
+						<ulink url="../python/index.html">
+							Netkiller Python 手札
+							<graphic format="png" fileref="python/images/cover.png" srccredit="neo" width="200" />
+						</ulink>
+						<ulink url="../download/epub/Netkiller-Python.epub">EPUB</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Python.mobi">MOBI</ulink>
+					</entry>
+					<entry>
 						<ulink url="../virtualization/index.html">
 							Netkiller Virtualization 手札
 							<graphic format="png" fileref="virtualization/images/cover.png" srccredit="neo" width="200" />
@@ -182,14 +188,14 @@
 				</para>
 			</member>
 			<member>
-				<para> &nbsp;&nbsp;&nbsp;&nbsp;
+				<para>
 				</para>
 			</member>
 			<member>
 				<ulink url="http://blog.s135.com/">张宴的博客</ulink>
 			</member>
 			<member>
-				<para> &nbsp;&nbsp;&nbsp;&nbsp;
+				<para>
 				</para>
 			</member>
 			<member>
@@ -198,7 +204,7 @@
 				</para>
 			</member>
 			<member>
-				<para> &nbsp;&nbsp;&nbsp;&nbsp;
+				<para>
 				</para>
 			</member>
 			<member>
@@ -207,7 +213,7 @@
 				</para>
 			</member>
 			<member>
-				<para> &nbsp;&nbsp;&nbsp;&nbsp;
+				<para>
 				</para>
 			</member>
 			<member>
@@ -216,7 +222,7 @@
 				</para>
 			</member>
 			<member>
-				<para> &nbsp;&nbsp;&nbsp;&nbsp;
+				<para>
 				</para>
 			</member>
 			<member>
@@ -225,7 +231,7 @@
 				</para>
 			</member>
 			<member>
-				<para> &nbsp;&nbsp;&nbsp;&nbsp;
+				<para>
 				</para>
 			</member>
 			<member>
@@ -234,7 +240,7 @@
 				</para>
 			</member>
 			<member>
-				<para> &nbsp;&nbsp;&nbsp;&nbsp;
+				<para>
 				</para>
 			</member>
 			<member>

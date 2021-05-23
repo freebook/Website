@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE webpage SYSTEM "/usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd" [
-	<!ENTITY about.xml SYSTEM "../common/about.me.xml">
+	<!ENTITY about.xml SYSTEM "common/about.me.xml">
 ]>
 <webpage id="about">
 	<config param="rcsdate" value="$Id: webpage.about.xml 512 2013-01-07 08:48:08Z netkiller $"/>

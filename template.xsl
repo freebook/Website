@@ -2,12 +2,13 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 version='1.0'>
 
-<xsl:import href="/usr/share/xml/docbook/stylesheet/nwalsh/website/chunk-tabular.xsl"/>
+<xsl:import href="/usr/local/opt/docbook-xsl/docbook-xsl/website/chunk-tabular.xsl"/>
+<!-- <xsl:import href="/usr/share/xml/docbook/stylesheet/nwalsh/website/chunk-tabular.xsl"/> -->
 <!-- <xsl:import href="/usr/share/xml/docbook/stylesheet/nwalsh/website/chunk-website.xsl"/> -->
 <!-- Replace the text in these templates with whatever you want -->
 <!-- to appear in the respective location on the home page. -->
 <!-- /usr/share/xml/docbook/custom/website/2.5.0/xsl/ -->
-<xsl:output method="xhtml" encoding="UTF-8" indent="no"/>
+<!-- <xsl:output method="xhtml" encoding="UTF-8" indent="no"/> -->
 
 <xsl:param name="chunker.output.encoding">utf-8</xsl:param>
 
@@ -26,7 +27,6 @@
 	    <a href="https://yq.aliyun.com/u/netkiller/">云栖社区</a> |
 	    <a href="https://www.facebook.com/bg7nyt">Facebook</a> |
 	    <a href="http://cn.linkedin.com/in/netkiller/">Linkedin</a> |
-
 	    <a href="//www.netkiller.cn/home/video.html">视频教程</a> |
 	    <a href="//www.netkiller.cn/home/about.html">About</a>
 	

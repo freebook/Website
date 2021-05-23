@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.5.0//EN" "http://docbook.sourceforge.net/release/website/2.5.0/schema/dtd/autolayout.dtd"><autolayout>
-<config param="text-prefix" value="txt"/><config param="homebanner-tabular" value="images/neo.jpg" altval="Home Banner"/><config param="banner-tabular" value="/images/neo.jpg" altval="Banner"/><config param="homebanner" value="graphics/homebanner.png" altval="Home   Banner"/><config param="banner" value="graphics/icons/iconhome.gif" altval="Banner"/><copyright><year>2009-2017</year><holder role="http://netkiller.sourceforge.net/">Neo Chan</holder></copyright><style src="stylesheet.css" type="text/css"/><toc page="website.xml" id="home" filename="index.html">
+<config param="text-prefix" value="txt"/><config param="homebanner-tabular" value="images/license.png" altval="Home Banner"/><config param="banner-tabular" value="images/license.png" altval="Banner"/><config param="homebanner" value="graphics/homebanner.png" altval="Home Banner"/><config param="banner" value="graphics/icons/iconhome.gif" altval="Banner"/><copyright><year>2009-2017</year><holder role="http://netkiller.sourceforge.net/">Neo Chan</holder></copyright><style src="stylesheet.css" type="text/css"/><toc page="website.xml" id="home" filename="index.html">
 <title>Netkiller ebook - Linux ebook</title>
 <summary>Introduction</summary>
 <tocentry page="webpage.news.xml" id="news" dir="home/" filename="news.html">
@@ -46,21 +46,6 @@
 <tocentry page="webpage.download.xml" id="download" dir="home/" filename="download.html">
 <title>Download</title>
 <summary>Netkiller 手札下载</summary>
-<tocentry page="webpage.download.epub.xml" id="epub" dir="home/" filename="download.epub.html">
-<title>iBook(EPUB) </title>
-<titleabbrev>iBook(EPUB)</titleabbrev>
-<summary>Unix like OS Document</summary>
-</tocentry>
-<tocentry page="webpage.download.kindle.xml" id="kindle" dir="home/" filename="download.kindle.html">
-<title>Kindle</title>
-<titleabbrev>Kindle</titleabbrev>
-<summary>Kindle Document</summary>
-</tocentry>
-<tocentry page="webpage.download.chm.xml" id="chm" dir="home/" filename="download.chm.html">
-<title>CHM ebook Download</title>
-<titleabbrev>CHM Ebook</titleabbrev>
-<summary>CHM ebook Download</summary>
-</tocentry>
 <tocentry page="webpage.download.rpm.xml" id="yum]" dir="home/" filename="download.rpm.html">
 <title>Yum</title>
 <titleabbrev>Yum Package</titleabbrev>
