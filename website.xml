@@ -73,6 +73,8 @@
 						<ulink url="../download/epub/Netkiller-Architect.epub">EPUB</ulink>
 						|
 						<ulink url="../download/mobi/Netkiller-Architect.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/mobi/Netkiller-Architect.pdf">PDF</ulink>
 					</entry>
 					<entry>
 
@@ -83,6 +85,8 @@
 						<ulink url="../download/epub/Netkiller-Linux.epub">EPUB</ulink>
 						|
 						<ulink url="../download/mobi/Netkiller-Linux.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/mobi/Netkiller-Linux.pdf">PDF</ulink>
 					</entry>
 					<entry>
 						<ulink url="../blockchain/index.html">
@@ -92,15 +96,19 @@
 						<ulink url="../download/epub/Netkiller-Blockchain.epub">EPUB</ulink>
 						|
 						<ulink url="../download/epub/Netkiller-Blockchain.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Blockchain.pdf">PDF</ulink>
 					</entry>
 					<entry>
 						<ulink url="../spring/index.html">
 							Netkiller Spring 手札
 							<graphic fileref="spring/images/cover.png" width="200" />
 						</ulink>
-						<ulink url="../download/epub/Netkiller-Java-Spring.epub">EPUB</ulink>
+						<ulink url="../download/epub/Netkiller-Spring.epub">EPUB</ulink>
 						|
-						<ulink url="../download/epub/Netkiller-Java-Spring.mobi">MOBI</ulink>
+						<ulink url="../download/epub/Netkiller-Spring.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Spring.pdf">PDF</ulink>
 					</entry>
 
 				</row>
@@ -113,6 +121,8 @@
 						<ulink url="../download/epub/Netkiller-Management.epub">EPUB</ulink>
 						|
 						<ulink url="../download/epub/Netkiller-Management.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Management.pdf">PDF</ulink>
 					</entry>
 					<entry>
 						<ulink url="../java/index.html">
@@ -122,6 +132,8 @@
 						<ulink url="../download/epub/Netkiller-Java.epub">EPUB</ulink>
 						|
 						<ulink url="../download/epub/Netkiller-Java.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Java.pdf">PDF</ulink>
 					</entry>
 					<entry>
 						<ulink url="../docbook/index.html">
@@ -131,13 +143,19 @@
 						<ulink url="../download/epub/Netkiller-Docbook.epub">EPUB</ulink>
 						|
 						<ulink url="../download/epub/Netkiller-Docbook.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Docbook.pdf">PDF</ulink>
 					</entry>
 					<entry>
 						<ulink url="../mysql/index.html">
 							Netkiller MySQL 手札
 							<graphic format="png" fileref="mysql/images/cover.png" srccredit="neo" width="200" />
 						</ulink>
-
+						<ulink url="../download/epub/Netkiller-MySQL.epub">EPUB</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-MySQL.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-MySQL.pdf">PDF</ulink>
 
 					</entry>
 				</row>
@@ -150,12 +168,19 @@
 						<ulink url="../download/epub/Netkiller-Python.epub">EPUB</ulink>
 						|
 						<ulink url="../download/epub/Netkiller-Python.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Python.pdf">PDF</ulink>
 					</entry>
 					<entry>
 						<ulink url="../virtualization/index.html">
 							Netkiller Virtualization 手札
 							<graphic format="png" fileref="virtualization/images/cover.png" srccredit="neo" width="200" />
 						</ulink>
+						<ulink url="../download/epub/Netkiller-Virtualization.epub">EPUB</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Virtualization.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Virtualization.pdf">PDF</ulink>
 					</entry>
 					<entry>
 						<ulink url="../monitor/index.html">
