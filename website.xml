@@ -187,7 +187,11 @@
 							Netkiller Monitor 手札
 							<graphic format="png" fileref="monitor/images/cover.png" srccredit="neo" width="200" />
 						</ulink>
-						<!-- <ulink url="../devops/index.html">Netkiller DevOps 手札</ulink> -->
+						<ulink url="../download/epub/Netkiller-Monitoring.epub">EPUB</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Monitoring.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/epub/Netkiller-Monitoring.pdf">PDF</ulink>
 					</entry>
 				</row>
 			</tbody>
