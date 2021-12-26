@@ -40,6 +40,9 @@
 				<member>
 					<simplelist>
 						<member>
+							<ulink url="http://www.netkiller.cn">http://www.netkiller.cn</ulink>
+						</member>
+						<member>
 							<ulink url="http://netkiller.github.io/">http://netkiller.github.io</ulink>
 						</member>
 						<member>
@@ -237,6 +240,17 @@
 						<ulink url="../download/mobi/Netkiller-NoSQL.mobi">MOBI</ulink>
 						|
 						<ulink url="../download/pdf/Netkiller-NoSQL.pdf">PDF</ulink>
+					</entry>
+					<entry>
+						<ulink url="../shell/index.html">
+							Netkiller Shell 手札
+							<graphic format="png" fileref="shell/images/cover.png" srccredit="neo" width="200" />
+						</ulink>
+						<ulink url="../download/epub/Netkiller-Shell.epub">EPUB</ulink>
+						|
+						<ulink url="../download/mobi/Netkiller-Shell.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/pdf/Netkiller-Shell.pdf">PDF</ulink>
 					</entry>
 				</row>
 			</tbody>
