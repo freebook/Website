@@ -42,7 +42,8 @@
 			<tocentry page="webpage.solution.xml" filename="solution.html" /> <!-- revisionflag="" -->
 		</tocentry>
 
-		<!-- <tocentry page="webpage.music.xml" dir="home" filename="music.html"> </tocentry> -->
+		<tocentry page="webpage.music.xml" dir="home" filename="music.html">
+		</tocentry>
 
 		<tocentry page="webpage.xml.xml" dir="home" filename="xml.html" />
 

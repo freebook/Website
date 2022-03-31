@@ -19,5 +19,14 @@
 			<listitem>NC - 不能用于盈利</listitem>
 			<listitem>SA 转载后衍生版本需要继承 BY-NC-SA</listitem>
 		</orderedlist>
+		<ulink url="../harmonica/">
+			半音阶口琴乐谱
+			<graphic format="png" fileref="../harmonica/images/cover.png" srccredit="neo" width="200" />
+		</ulink>
+<!-- 		<ulink url="../download/epub/Netkiller-Management.epub">EPUB</ulink>
+		|
+		<ulink url="../download/mobi/Netkiller-Management.mobi">MOBI</ulink>
+		|
+		<ulink url="../download/pdf/Netkiller-Management.pdf">PDF</ulink> -->
 	</section>
 </webpage>

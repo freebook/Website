@@ -92,6 +92,11 @@
 <summary>Website Solution</summary>
 </tocentry>
 </tocentry>
+<tocentry page="webpage.music.xml" id="music" dir="home/" filename="music.html">
+<title>Music</title>
+<titleabbrev>Music</titleabbrev>
+<summary>Netkiller Music 手札</summary>
+</tocentry>
 <tocentry page="webpage.xml.xml" id="xml" dir="home/" filename="xml.html">
 <title>RSS / ATOM</title>
 <titleabbrev>RSS / ATOM</titleabbrev>
