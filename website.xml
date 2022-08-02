@@ -57,6 +57,7 @@
 				</member>
 				<member>
 					<para>微信扫描二维码进入 Netkiller 微信订阅号 </para>
+					<para>微信：13113668890 请注明“读者”</para>
 					<para>QQ群：128659835 请注明“读者”</para>
 				</member>
 			</simplelist>
@@ -174,9 +175,9 @@
 						<ulink url="../download/pdf/Netkiller-DevOps.pdf">PDF</ulink>
 					</entry>
 					<entry>
-						<ulink url="../virtualization/index.html">
+						<ulink url="../container/index.html">
 							Netkiller Virtualization 手札
-							<graphic format="png" fileref="virtualization/images/cover.png" srccredit="neo" width="200" />
+							<graphic format="png" fileref="container/images/cover.png" srccredit="neo" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-Virtualization.epub">EPUB</ulink>
 						|
