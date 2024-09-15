@@ -1,9 +1,9 @@
 #!/bin/zsh
 XSLTPROC=/usr/bin/xsltproc
-WEBSITE=/usr/local/opt/docbook-xsl/docbook-xsl/website
+WEBSITE=/opt/homebrew/opt/docbook-xsl/docbook-xsl/website
 #XML_CATALOG_FILES=/usr/share/xml/docbook/stylesheet/nwalsh/catalog.xml \
 WORKSPACE=~/workspace
-PUBLIC_HTML=~/git/netkiller.github.io
+PUBLIC_HTML=~/tmp/netkiller.github.io
 
 # PROC = XML_CATALOG_FILES=../catalog.xml  xsltproc
 

@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 version='1.0'>
 
-<xsl:import href="/usr/local/opt/docbook-xsl/docbook-xsl/website/chunk-tabular.xsl"/>
+<xsl:import href="/opt/homebrew/opt/docbook-xsl/docbook-xsl/website/chunk-tabular.xsl"/>
 <!-- <xsl:import href="/usr/share/xml/docbook/stylesheet/nwalsh/website/chunk-tabular.xsl"/> -->
 <!-- <xsl:import href="/usr/share/xml/docbook/stylesheet/nwalsh/website/chunk-website.xsl"/> -->
 <!-- Replace the text in these templates with whatever you want -->

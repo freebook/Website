@@ -268,7 +268,7 @@
 		</para>
 	</section>
 	<webtoc />
-	<section>
+	<!-- <section>
 		<title>友情链接(Friendship Link)</title>
 		<simplelist type='horiz' columns='12'>
 			<member>
@@ -344,5 +344,5 @@
 			</member>
 
 		</simplelist>
-	</section>
+	</section> -->
 </webpage>
