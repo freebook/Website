@@ -22,7 +22,8 @@
 	   	<a href="https://zhuanlan.zhihu.com/netkiller">知乎专栏</a> |
 	    <a href="//www.netkiller.cn/home/donations.html">打赏(Donations)</a> |
 	    <a href="https://github.com/netkiller">Github</a> |
-	    <a href="http://my.oschina.net/neochen/">OSChina 博客</a> |
+	    <a href="https://blog.csdn.net/u010604770">CSND博客</a> |
+	    <a href="https://my.oschina.net/neochen/">OSChina 博客</a> |
 	    <a href="https://cloud.tencent.com/developer/column/2078">云社区</a> |
 	    <a href="https://yq.aliyun.com/u/netkiller/">云栖社区</a> |
 	    <a href="https://www.facebook.com/bg7nyt">Facebook</a> |
