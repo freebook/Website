@@ -1,8 +1,11 @@
 <!-- /usr/share/xml/docbook/custom/website/2.5.0/schema/dtd/website.dtd -->
-<!-- <!DOCTYPE webpage SYSTEM "website.rng" [ <!ENTITY chapter.solution.xml SYSTEM "chapter.solution.xml" NDATA XML> <!ENTITY test1a SYSTEM "test1a.xml" NDATA XML> <!ENTITY test3 SYSTEM "test3.xml" NDATA XML> ] > -->
+<!-- <!DOCTYPE webpage SYSTEM "website.rng" [ <!ENTITY chapter.solution.xml 
+	SYSTEM "chapter.solution.xml" NDATA XML> <!ENTITY test1a SYSTEM "test1a.xml" 
+	NDATA XML> <!ENTITY test3 SYSTEM "test3.xml" NDATA XML> ] > -->
 <webpage id="home">
 	<config param="desc" value="Neo's Home Page" />
-	<config param="rcsdate" value="$Id: website.xml 640 2013-07-18 03:27:47Z netkiller $" />
+	<config param="rcsdate"
+		value="$Id: website.xml 640 2013-07-18 03:27:47Z netkiller $" />
 	<config param="footer" value="about.html" altval="About..." />
 
 	<head>
@@ -34,7 +37,8 @@
 			<simplelist type='horiz' columns='4'>
 				<member>
 					<ulink url="http://creativecommons.org/">
-						<graphic format="png" fileref="graphics/by-nc-sa.png" srccredit="neo" width="180" />
+						<graphic format="png" fileref="graphics/by-nc-sa.png"
+							srccredit="neo" width="180" />
 					</ulink>
 				</member>
 				<member>
@@ -52,13 +56,16 @@
 				</member>
 				<member>
 					<ulink url="/images/weixin.jpg">
-						<graphic format="png" fileref="/images/weixin.jpg" srccredit="neo" width="80" />
+						<graphic format="png" fileref="/images/weixin.jpg"
+							srccredit="neo" width="80" />
 					</ulink>
 				</member>
 				<member>
-					<para>微信扫描二维码进入 Netkiller 微信订阅号 </para>
-					<para>微信：13113668890 请注明“读者”</para>
-					<para>QQ群：128659835 请注明“读者”</para>
+					<simplelist>
+						<member>微信扫描二维码进入 Netkiller 微信订阅号 </member>
+						<member>微信：13113668890 请注明“读者”</member>
+						<member>QQ群：128659835 请注明“读者”</member>
+					</simplelist>
 				</member>
 			</simplelist>
 		</note>
@@ -72,7 +79,9 @@
 					<entry>
 						<ulink url="../management/index.html">
 							Netkiller Management 手札
-							<graphic format="png" fileref="management/images/cover.png" srccredit="neo" width="200" />
+							<graphic format="png"
+								fileref="management/images/cover.png" srccredit="neo"
+								width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-Management.epub">EPUB</ulink>
 						|
@@ -95,7 +104,8 @@
 
 						<ulink url="../linux/index.html">
 							Netkiller Linux 手札
-							<graphic format="png" fileref="linux/images/cover.png" srccredit="neo" width="200" />
+							<graphic format="png" fileref="linux/images/cover.png"
+								srccredit="neo" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-Linux.epub">EPUB</ulink>
 						|
@@ -104,15 +114,16 @@
 						<ulink url="../download/pdf/Netkiller-Linux.pdf">PDF</ulink>
 					</entry>
 					<entry>
-						<ulink url="../blockchain/index.html">
-							Netkiller Blockchain 手札
-							<graphic fileref="blockchain/images/cover.png" width="200" />
+						<ulink url="../android/index.html">
+							Netkiller Android 手札
+							<graphic fileref="android/images/cover.png"
+								width="200" />
 						</ulink>
-						<ulink url="../download/epub/Netkiller-Blockchain.epub">EPUB</ulink>
+						<ulink url="../download/epub/Netkiller-Android.epub">EPUB</ulink>
 						|
-						<ulink url="../download/mobi/Netkiller-Blockchain.mobi">MOBI</ulink>
+						<ulink url="../download/mobi/Netkiller-Android.mobi">MOBI</ulink>
 						|
-						<ulink url="../download/pdf/Netkiller-Blockchain.pdf">PDF</ulink>
+						<ulink url="../download/pdf/Netkiller-Android.pdf">PDF</ulink>
 					</entry>
 				</row>
 				<row valign="top">
@@ -142,7 +153,8 @@
 					<entry>
 						<ulink url="../python/index.html">
 							Netkiller Python 手札
-							<graphic format="png" fileref="python/images/cover.png" srccredit="neo" width="200" />
+							<graphic format="png" fileref="python/images/cover.png"
+								srccredit="neo" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-Python.epub">EPUB</ulink>
 						|
@@ -166,7 +178,8 @@
 					<entry>
 						<ulink url="../devops/index.html">
 							Netkiller DevOps 手札
-							<graphic format="png" fileref="devops/images/cover.png" srccredit="neo" width="200" />
+							<graphic format="png" fileref="devops/images/cover.png"
+								srccredit="neo" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-DevOps.epub">EPUB</ulink>
 						|
@@ -177,7 +190,8 @@
 					<entry>
 						<ulink url="../container/index.html">
 							Netkiller Container 手札
-							<graphic format="png" fileref="container/images/cover.png" srccredit="neo" width="200" />
+							<graphic format="png"
+								fileref="container/images/cover.png" srccredit="neo" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-Container.epub">EPUB</ulink>
 						|
@@ -188,7 +202,8 @@
 					<entry>
 						<ulink url="../monitor/index.html">
 							Netkiller Monitor 手札
-							<graphic format="png" fileref="monitor/images/cover.png" srccredit="neo" width="200" />
+							<graphic format="png" fileref="monitor/images/cover.png"
+								srccredit="neo" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-Monitoring.epub">EPUB</ulink>
 						|
@@ -199,7 +214,8 @@
 					<entry>
 						<ulink url="../www/index.html">
 							Netkiller Web 手札
-							<graphic format="png" fileref="www/images/cover.png" srccredit="neo" width="200" />
+							<graphic format="png" fileref="www/images/cover.png"
+								srccredit="neo" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-Web.epub">EPUB</ulink>
 						|
@@ -212,7 +228,8 @@
 					<entry>
 						<ulink url="../database/index.html">
 							Netkiller Database 手札
-							<graphic format="png" fileref="database/images/cover.png" srccredit="neo" width="200" />
+							<graphic format="png" fileref="database/images/cover.png"
+								srccredit="neo" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-Database.epub">EPUB</ulink>
 						|
@@ -223,7 +240,8 @@
 					<entry>
 						<ulink url="../mysql/index.html">
 							Netkiller MySQL 手札
-							<graphic format="png" fileref="mysql/images/cover.png" srccredit="neo" width="200" />
+							<graphic format="png" fileref="mysql/images/cover.png"
+								srccredit="neo" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-MySQL.epub">EPUB</ulink>
 						|
@@ -234,7 +252,8 @@
 					<entry>
 						<ulink url="../nosql/index.html">
 							Netkiller NoSQL 手札
-							<graphic format="png" fileref="nosql/images/cover.png" srccredit="neo" width="200" />
+							<graphic format="png" fileref="nosql/images/cover.png"
+								srccredit="neo" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-NoSQL.epub">EPUB</ulink>
 						|
@@ -245,7 +264,8 @@
 					<entry>
 						<ulink url="../shell/index.html">
 							Netkiller Shell 手札
-							<graphic format="png" fileref="shell/images/cover.png" srccredit="neo" width="200" />
+							<graphic format="png" fileref="shell/images/cover.png"
+								srccredit="neo" width="200" />
 						</ulink>
 						<ulink url="../download/epub/Netkiller-Shell.epub">EPUB</ulink>
 						|
@@ -254,95 +274,41 @@
 						<ulink url="../download/pdf/Netkiller-Shell.pdf">PDF</ulink>
 					</entry>
 				</row>
+				<row>
+					<entry>
+						<ulink url="../blockchain/index.html">
+							Netkiller Blockchain 手札
+							<graphic fileref="blockchain/images/cover.png"
+								width="200" />
+						</ulink>
+						<ulink url="../download/epub/Netkiller-Blockchain.epub">EPUB</ulink>
+						|
+						<ulink url="../download/mobi/Netkiller-Blockchain.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/pdf/Netkiller-Blockchain.pdf">PDF</ulink>
+					</entry>
+				</row>
 			</tbody>
 		</tgroup>
 	</table>
 
-	<!-- <section>
-		<title>致读者</title>
-		<para>Netkiller 系列电子书始于 2000 年，风风雨雨走过20年，将在 2020 年终结，之后不在更新。作出这种决定原因很多，例如现在的阅读习惯已经转向短视频，我个人的时间，身体健康情况等等......</para>
-		<para>感谢读者粉丝这20年的支持</para>
-		<para>
-			虽然电子书不再更新，后面我还会活跃在知乎社区
-			<ulink url="https://zhuanlan.zhihu.com/netkiller">https://zhuanlan.zhihu.com/netkiller</ulink>
-		</para>
-	</section> -->
+	<!-- <section> <title>致读者</title> <para>Netkiller 系列电子书始于 2000 年，风风雨雨走过20年，将在 
+		2020 年终结，之后不在更新。作出这种决定原因很多，例如现在的阅读习惯已经转向短视频，我个人的时间，身体健康情况等等......</para> 
+		<para>感谢读者粉丝这20年的支持</para> <para> 虽然电子书不再更新，后面我还会活跃在知乎社区 <ulink url="https://zhuanlan.zhihu.com/netkiller">https://zhuanlan.zhihu.com/netkiller</ulink> 
+		</para> </section> -->
 	<webtoc />
-	<!-- <section>
-		<title>友情链接(Friendship Link)</title>
-		<simplelist type='horiz' columns='12'>
-			<member>
-				<para>
-					<ulink url="http://www.imysql.cn/">MySQL 中文网</ulink>
-				</para>
-			</member>
-			<member>
-				<para>
-				</para>
-			</member>
-			<member>
-				<ulink url="http://blog.s135.com/">张宴的博客</ulink>
-			</member>
-			<member>
-				<para>
-				</para>
-			</member>
-			<member>
-				<para>
-					<ulink url="http://www.chengxuyuans.com">程序员之家</ulink>
-				</para>
-			</member>
-			<member>
-				<para>
-				</para>
-			</member>
-			<member>
-				<para>
-					<ulink url="http://zoomquiet.github.com/">Zoom.Quiet</ulink>
-				</para>
-			</member>
-			<member>
-				<para>
-				</para>
-			</member>
-			<member>
-				<para>
-					<ulink url="http://www.zenboss.com/">z.En wiki</ulink>
-				</para>
-			</member>
-			<member>
-				<para>
-				</para>
-			</member>
-			<member>
-				<para>
-					<ulink url="http://oldboy.blog.51cto.com/">老男孩的linux博客</ulink>
-				</para>
-			</member>
-			<member>
-				<para>
-				</para>
-			</member>
-			<member>
-				<para>
-					<ulink url="http://andrewyu.blog.51cto.com/">抚琴煮酒</ulink>
-				</para>
-			</member>
-			<member>
-				<para>
-				</para>
-			</member>
-			<member>
-				<para>
-					<ulink url="http://www.loveunix.net/">LoveUnix</ulink>
-				</para>
-			</member>
-			<member>
-				<para>
-					<ulink url="http://it.tingtao.net">听涛IT站</ulink>
-				</para>
-			</member>
-
-		</simplelist>
-	</section> -->
+	<!-- <section> <title>友情链接(Friendship Link)</title> <simplelist type='horiz' 
+		columns='12'> <member> <para> <ulink url="http://www.imysql.cn/">MySQL 中文网</ulink> 
+		</para> </member> <member> <para> </para> </member> <member> <ulink url="http://blog.s135.com/">张宴的博客</ulink> 
+		</member> <member> <para> </para> </member> <member> <para> <ulink url="http://www.chengxuyuans.com">程序员之家</ulink> 
+		</para> </member> <member> <para> </para> </member> <member> <para> <ulink 
+		url="http://zoomquiet.github.com/">Zoom.Quiet</ulink> </para> </member> <member> 
+		<para> </para> </member> <member> <para> <ulink url="http://www.zenboss.com/">z.En 
+		wiki</ulink> </para> </member> <member> <para> </para> </member> <member> 
+		<para> <ulink url="http://oldboy.blog.51cto.com/">老男孩的linux博客</ulink> </para> 
+		</member> <member> <para> </para> </member> <member> <para> <ulink url="http://andrewyu.blog.51cto.com/">抚琴煮酒</ulink> 
+		</para> </member> <member> <para> </para> </member> <member> <para> <ulink 
+		url="http://www.loveunix.net/">LoveUnix</ulink> </para> </member> <member> 
+		<para> <ulink url="http://it.tingtao.net">听涛IT站</ulink> </para> </member> 
+		</simplelist> </section> -->
 </webpage>
