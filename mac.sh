@@ -9,8 +9,8 @@ PUBLIC_HTML=~/tmp/netkiller.github.io
 
 
 git pull
-git submodule init
-git submodule update
+# git submodule init
+# git submodule update
 
 mkdir -p ${PUBLIC_HTML}/images
 
