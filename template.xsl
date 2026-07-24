@@ -117,9 +117,7 @@ var _hmt = _hmt || [];
 		<img src="/images/barcode.png" width="180" />
 		<a href="http://sourceforge.net/donate/index.php?group_id=306976"><img src="http://images.sourceforge.net/images/project-support.jpg" width="88" height="32" border="0" alt="Support This Project" /> </a>
 	 -->
-
-	<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=r5HG&amp;d=9mi5r_kkDC8uxG8HuY3p4-2qgeeVypAK9vMD-2P6BYM"></script>
-		
+	
 	</div>
 
 </xsl:template>
@@ -140,9 +138,11 @@ function googleTranslateElementInit() {
 
 </td>
 </tr>
+
 </xsl:template>
 
 <xsl:template name="webpage.footer">
+
 
 </xsl:template>
 

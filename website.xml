@@ -90,6 +90,17 @@
 						<ulink url="../download/pdf/Netkiller-Management.pdf">PDF</ulink>
 					</entry>
 					<entry>
+						<ulink url="../essays/index.html">
+							百绪文件
+							<graphic fileref="essays/images/cover.png" width="200" />
+						</ulink>
+						<ulink url="../download/epub/Netkiller-Essays.epub">EPUB</ulink>
+						|
+						<ulink url="../download/mobi/Netkiller-Essays.mobi">MOBI</ulink>
+						|
+						<ulink url="../download/pdf/Netkiller-Essays.pdf">PDF</ulink>
+					</entry>
+					<entry>
 						<ulink url="../architect/index.html">
 							Netkiller Architect 手札
 							<graphic fileref="architect/images/cover.png" width="200" />
@@ -101,7 +112,6 @@
 						<ulink url="../download/pdf/Netkiller-Architect.pdf">PDF</ulink>
 					</entry>
 					<entry>
-
 						<ulink url="../linux/index.html">
 							Netkiller Linux 手札
 							<graphic format="png" fileref="linux/images/cover.png"
@@ -113,17 +123,7 @@
 						|
 						<ulink url="../download/pdf/Netkiller-Linux.pdf">PDF</ulink>
 					</entry>
-					<entry>
-						<ulink url="../android/index.html">
-							Netkiller Android 手札
-							<graphic fileref="android/images/cover.png" width="200" />
-						</ulink>
-						<ulink url="../download/epub/Netkiller-Android.epub">EPUB</ulink>
-						|
-						<ulink url="../download/mobi/Netkiller-Android.mobi">MOBI</ulink>
-						|
-						<ulink url="../download/pdf/Netkiller-Android.pdf">PDF</ulink>
-					</entry>
+					
 				</row>
 				<row valign="top">
 
@@ -162,15 +162,15 @@
 						<ulink url="../download/pdf/Netkiller-Python.pdf">PDF</ulink>
 					</entry>
 					<entry>
-						<ulink url="../docbook/index.html">
-							Netkiller Docbook 手札
-							<graphic fileref="docbook/images/cover.png" width="200" />
+						<ulink url="../android/index.html">
+							Netkiller Android 手札
+							<graphic fileref="android/images/cover.png" width="200" />
 						</ulink>
-						<ulink url="../download/epub/Netkiller-Docbook.epub">EPUB</ulink>
+						<ulink url="../download/epub/Netkiller-Android.epub">EPUB</ulink>
 						|
-						<ulink url="../download/mobi/Netkiller-Docbook.mobi">MOBI</ulink>
+						<ulink url="../download/mobi/Netkiller-Android.mobi">MOBI</ulink>
 						|
-						<ulink url="../download/pdf/Netkiller-Docbook.pdf">PDF</ulink>
+						<ulink url="../download/pdf/Netkiller-Android.pdf">PDF</ulink>
 					</entry>
 				</row>
 				<row valign="top">
@@ -297,18 +297,18 @@
 						|
 						<ulink url="../download/pdf/Netkiller-Radio.pdf">PDF</ulink>
 					</entry>
+					
 					<entry>
-						<ulink url="../essays/index.html">
-							百绪文件
-							<graphic fileref="essays/images/cover.png" width="200" />
+						<ulink url="../docbook/index.html">
+							Netkiller Docbook 手札
+							<graphic fileref="docbook/images/cover.png" width="200" />
 						</ulink>
-						<ulink url="../download/epub/Netkiller-Essays.epub">EPUB</ulink>
+						<ulink url="../download/epub/Netkiller-Docbook.epub">EPUB</ulink>
 						|
-						<ulink url="../download/mobi/Netkiller-Essays.mobi">MOBI</ulink>
+						<ulink url="../download/mobi/Netkiller-Docbook.mobi">MOBI</ulink>
 						|
-						<ulink url="../download/pdf/Netkiller-Essays.pdf">PDF</ulink>
+						<ulink url="../download/pdf/Netkiller-Docbook.pdf">PDF</ulink>
 					</entry>
-
 				</row>
 			</tbody>
 		</tgroup>
