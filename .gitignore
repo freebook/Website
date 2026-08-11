@@ -31,3 +31,5 @@
 *.xdy
 *.tdo
 .DS_Store
+common
+docbook-xsl
